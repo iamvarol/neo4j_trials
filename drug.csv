@@ -1,4 +1,4 @@
-drugId,drugName,dosage,duration,freq,strength
+drugId,name,dosage,duration,freq,strength
 1,advil,1 unit,for 5 days,,,
 2,metformin,1 unit,,daily,,
 3,metformin,,,two times a day,1000 mg
