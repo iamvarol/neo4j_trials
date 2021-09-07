@@ -1,0 +1,2 @@
+﻿patient_id,patient_name,bmi,age,test,test_date,CPT4_code,body_part,laterality,finding,finding_modifier,test_assertion,imaging_tech,problem,assertion,icd10_code,snomed_code,date,rxnorm,drug,dosage,frequency,duration,clinical_dept,admit_date,discharge_date,family,diagnosis
+123,John Doe,24,38,CT Scan,2021-09-06,1234,abdomen,left,mass,stage2,confirmed,contrast,hematoma,present,R1234.5,123456,2021-08-26,406081,metformin,100mg,3xday,for 7 days,Mayo Clinic,2021-08-24,2021-09-26,his sister,breast cancer
