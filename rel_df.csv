@@ -1,0 +1,1709 @@
+relation,entity1,entity1_begin,entity1_end,chunk1,entity2,entity2_begin,entity2_end,chunk2,confidence
+TrAP,Procedure,359,362,LVRS,Modifier,429,434,severe,0.5312895
+PIP,Modifier,376,381,severe,Disease_Syndrome_Disorder,383,391,emphysema,0.86808795
+PIP,Modifier,376,381,severe,Modifier,394,402,disabling,0.6990426
+PIP,Modifier,376,381,severe,Modifier,429,434,severe,0.85846585
+PIP,Modifier,376,381,severe,Symptom,436,447,air trapping,0.8673627
+PIP,Disease_Syndrome_Disorder,383,391,emphysema,Modifier,429,434,severe,0.7654061
+PIP,Disease_Syndrome_Disorder,383,391,emphysema,Symptom,436,447,air trapping,0.519238
+PIP,Modifier,429,434,severe,Symptom,436,447,air trapping,0.93625426
+TeRP,Test,583,607,cardiac ejection fraction,Test_Result,609,622,less than 45 %,0.50752485
+TeRP,Test,944,950,CT scan,Direction,964,972,bilateral,0.9980592
+TeRP,Test,944,950,CT scan,Disease_Syndrome_Disorder,974,982,emphysema,0.9980483
+TeRP,Test,944,950,CT scan,Test,989,1012,Forced expiratory volume,0.95968187
+TeRP,Test,944,950,CT scan,Test,1027,1030,FEV1,0.9574054
+TeRP,Test,944,950,CT scan,Test_Result,1034,1048,maximum of pre-,0.9851301
+TeRP,Test,944,950,CT scan,Test,1054,1079,post-bronchodilator values,0.9717927
+TeRP,Test,944,950,CT scan,Test_Result,1082,1107,less than or equal to 45 %,0.98055696
+TeRP,Test,944,950,CT scan,Age,1130,1141,aged 70 year,0.9844093
+TeRP,Test,944,950,CT scan,Test,1153,1156,FEV1,0.92545986
+TeRP,Test,944,950,CT scan,Test_Result,1158,1182,15 % of predicted or more,0.8255848
+TeRP,Test,944,950,CT scan,Test,1189,1203,Plasma cotinine,0.543526
+TeRP,Test,944,950,CT scan,Test_Result,1205,1236,less than or equal to 13.7 ng/ml,0.8960461
+TeRP,Test,944,950,CT scan,Test,1274,1290,carboxyhemoglobin,0.94679785
+TeRP,Test,944,950,CT scan,Test_Result,1292,1318,less than or equal to 2.5 %,0.9443872
+TeRP,Test,944,950,CT scan,Drug_Ingredient,1330,1346,nicotine products,0.9921185
+TeRP,Test,944,950,CT scan,Test,1354,1392,Post-bronchodilator total lung capacity,0.9936407
+TeRP,Test,944,950,CT scan,Test,1395,1397,TLC,0.9946161
+TeRP,Test,944,950,CT scan,Test_Result,1400,1429,greater than or equal to 100 %,0.99148214
+TeRP,Test,944,950,CT scan,Test,1475,1476,RV,0.99231696
+TeRP,Test,944,950,CT scan,Test_Result,1479,1527,greater than or equal to 150 % of predicted value,0.99179745
+TeRP,Test,944,950,CT scan,Test,1534,1575,Resting partial pressure of carbon dioxide,0.99099594
+TeRP,Test,944,950,CT scan,Test,1578,1582,PaCO2,0.99039197
+TeRP,Test,944,950,CT scan,Test_Result,1585,1626,less than or equal to 60 mm Hg on room air,0.9925012
+TeRP,Test,944,950,CT scan,Test,1633,1666,Resting partial pressure of oxygen,0.9946326
+TeRP,Test,944,950,CT scan,Test,1669,1672,PaO2,0.9800229
+TeRP,Test,944,950,CT scan,Test_Result,1675,1682,45 mm Hg,0.9855049
+TeRP,Test,944,950,CT scan,Test_Result,1687,1693,greater,0.9956338
+TeRP,Test,944,950,CT scan,Test,1700,1719,Six-minute walk test,0.99171
+TeRP,Test,944,950,CT scan,Test_Result,1721,1743,greater than 140 meters,0.99663395
+PIP,Direction,964,972,bilateral,Disease_Syndrome_Disorder,974,982,emphysema,0.9159206
+TeRP,Direction,964,972,bilateral,Test,989,1012,Forced expiratory volume,0.88155437
+TeRP,Direction,964,972,bilateral,Test,1027,1030,FEV1,0.7795377
+TeRP,Direction,964,972,bilateral,Test_Result,1034,1048,maximum of pre-,0.77355295
+TeRP,Direction,964,972,bilateral,Test,1054,1079,post-bronchodilator values,0.86511934
+TeRP,Direction,964,972,bilateral,Test,1189,1203,Plasma cotinine,0.8045753
+TeRP,Direction,964,972,bilateral,Test_Result,1205,1236,less than or equal to 13.7 ng/ml,0.54163945
+PIP,Direction,964,972,bilateral,Drug_Ingredient,1330,1346,nicotine products,0.67287993
+PIP,Direction,964,972,bilateral,Test,1354,1392,Post-bronchodilator total lung capacity,0.58071357
+PIP,Direction,964,972,bilateral,Test,1475,1476,RV,0.5380618
+PIP,Direction,964,972,bilateral,Test,1578,1582,PaCO2,0.5779118
+PIP,Direction,964,972,bilateral,Test,1633,1666,Resting partial pressure of oxygen,0.5508773
+PIP,Direction,964,972,bilateral,Test_Result,1675,1682,45 mm Hg,0.7363941
+PIP,Direction,964,972,bilateral,Test_Result,1687,1693,greater,0.537806
+TeRP,Disease_Syndrome_Disorder,974,982,emphysema,Test,1027,1030,FEV1,0.51888365
+TeRP,Disease_Syndrome_Disorder,974,982,emphysema,Test_Result,1082,1107,less than or equal to 45 %,0.59334713
+TeRP,Disease_Syndrome_Disorder,974,982,emphysema,Test_Result,1205,1236,less than or equal to 13.7 ng/ml,0.64793164
+PIP,Disease_Syndrome_Disorder,974,982,emphysema,Drug_Ingredient,1330,1346,nicotine products,0.54834074
+PIP,Disease_Syndrome_Disorder,974,982,emphysema,Test,1475,1476,RV,0.72786975
+PIP,Disease_Syndrome_Disorder,974,982,emphysema,Test_Result,1585,1626,less than or equal to 60 mm Hg on room air,0.59716606
+TeRP,Test,1976,2009,carbon monoxide diffusion capacity,Test_Result,2021,2024,20 %,0.5063756
+PIP,Gender,2062,2068,Persons,Death_Entity,2126,2130,death,0.88045543
+TrCP,Gender,2062,2068,Persons,Procedure,2138,2141,LVRS,0.8025706
+TrCP,Death_Entity,2126,2130,death,Procedure,2138,2141,LVRS,0.9314979
+TeRP,Disease_Syndrome_Disorder,2219,2227,emphysema,Test,2232,2238,CT scan,0.97602934
+PIP,Disease_Syndrome_Disorder,2219,2227,emphysema,Modifier,2257,2269,predominantly,0.879681
+PIP,Disease_Syndrome_Disorder,2219,2227,emphysema,Disease_Syndrome_Disorder,2271,2294,non-upper lobe emphysema,0.8482752
+TeRP,Test,2232,2238,CT scan,Modifier,2257,2269,predominantly,0.8419575
+TeRP,Test,2232,2238,CT scan,Disease_Syndrome_Disorder,2271,2294,non-upper lobe emphysema,0.8200451
+TeRP,Test,2232,2238,CT scan,Symptom,2302,2323,high maximal work-load,0.8578879
+PIP,Modifier,2257,2269,predominantly,Disease_Syndrome_Disorder,2271,2294,non-upper lobe emphysema,0.78709257
+PIP,Modifier,2257,2269,predominantly,Symptom,2302,2323,high maximal work-load,0.6066094
+PIP,Disease_Syndrome_Disorder,2271,2294,non-upper lobe emphysema,Symptom,2302,2323,high maximal work-load,0.764634
+PIP,Internal_organ_or_component,2675,2688,non-upper lobe,Disease_Syndrome_Disorder,2706,2714,emphysema,0.92192453
+TeRP,Internal_organ_or_component,2675,2688,non-upper lobe,Test,2749,2750,CT,0.8835795
+TeRP,Internal_organ_or_component,2675,2688,non-upper lobe,Employment,2774,2784,radiologist,0.7156729
+PIP,Internal_organ_or_component,2675,2688,non-upper lobe,Internal_organ_or_component,2813,2835,upper lobes of the lung,0.88499844
+PIP,Internal_organ_or_component,2675,2688,non-upper lobe,Internal_organ_or_component,2896,2905,lower lobe,0.8762028
+PIP,Internal_organ_or_component,2675,2688,non-upper lobe,Modifier,2908,2914,diffuse,0.7768066
+PIP,Internal_organ_or_component,2675,2688,non-upper lobe,Internal_organ_or_component,2948,2964,superior segments,0.85349536
+PIP,Internal_organ_or_component,2675,2688,non-upper lobe,Internal_organ_or_component,2973,2983,lower lobes,0.8121434
+PIP,Internal_organ_or_component,2675,2688,non-upper lobe,Gender,2993,2999,Persons,0.8781354
+PIP,Internal_organ_or_component,2675,2688,non-upper lobe,Modifier,3006,3018,predominantly,0.95242393
+PIP,Internal_organ_or_component,2675,2688,non-upper lobe,Modifier,3020,3033,non-upper-lobe,0.93142116
+PIP,Internal_organ_or_component,2675,2688,non-upper lobe,Disease_Syndrome_Disorder,3035,3043,emphysema,0.8744307
+PIP,Internal_organ_or_component,2675,2688,non-upper lobe,Procedure,3120,3123,LVRS,0.9085852
+TeRP,Disease_Syndrome_Disorder,2706,2714,emphysema,Test,2749,2750,CT,0.7725147
+TeRP,Disease_Syndrome_Disorder,2706,2714,emphysema,Employment,2774,2784,radiologist,0.58636326
+PIP,Disease_Syndrome_Disorder,2706,2714,emphysema,Internal_organ_or_component,2813,2835,upper lobes of the lung,0.965153
+PIP,Disease_Syndrome_Disorder,2706,2714,emphysema,Internal_organ_or_component,2896,2905,lower lobe,0.95008796
+PIP,Disease_Syndrome_Disorder,2706,2714,emphysema,Modifier,2908,2914,diffuse,0.87502307
+PIP,Disease_Syndrome_Disorder,2706,2714,emphysema,Internal_organ_or_component,2948,2964,superior segments,0.89348936
+PIP,Disease_Syndrome_Disorder,2706,2714,emphysema,Internal_organ_or_component,2973,2983,lower lobes,0.88786113
+PIP,Disease_Syndrome_Disorder,2706,2714,emphysema,Gender,2993,2999,Persons,0.89461166
+PIP,Disease_Syndrome_Disorder,2706,2714,emphysema,Modifier,3006,3018,predominantly,0.9695962
+PIP,Disease_Syndrome_Disorder,2706,2714,emphysema,Modifier,3020,3033,non-upper-lobe,0.95090735
+PIP,Disease_Syndrome_Disorder,2706,2714,emphysema,Disease_Syndrome_Disorder,3035,3043,emphysema,0.9441167
+PIP,Disease_Syndrome_Disorder,2706,2714,emphysema,Procedure,3120,3123,LVRS,0.9765652
+TeRP,Test,2749,2750,CT,Employment,2774,2784,radiologist,0.9410276
+TeRP,Test,2749,2750,CT,Internal_organ_or_component,2813,2835,upper lobes of the lung,0.93316287
+TeRP,Test,2749,2750,CT,Internal_organ_or_component,2896,2905,lower lobe,0.91238785
+TeRP,Test,2749,2750,CT,Modifier,2908,2914,diffuse,0.91178834
+TeRP,Test,2749,2750,CT,Internal_organ_or_component,2948,2964,superior segments,0.9049268
+TeRP,Test,2749,2750,CT,Internal_organ_or_component,2973,2983,lower lobes,0.85280234
+TeRP,Test,2749,2750,CT,Gender,2993,2999,Persons,0.9131398
+TeRP,Test,2749,2750,CT,Modifier,3006,3018,predominantly,0.84224856
+TeRP,Test,2749,2750,CT,Modifier,3020,3033,non-upper-lobe,0.9158557
+TeRP,Test,2749,2750,CT,Disease_Syndrome_Disorder,3035,3043,emphysema,0.9701487
+TeRP,Employment,2774,2784,radiologist,Internal_organ_or_component,2896,2905,lower lobe,0.6419962
+TeRP,Employment,2774,2784,radiologist,Internal_organ_or_component,2948,2964,superior segments,0.5167022
+TeRP,Employment,2774,2784,radiologist,Modifier,3006,3018,predominantly,0.52572304
+TeRP,Employment,2774,2784,radiologist,Modifier,3020,3033,non-upper-lobe,0.5336667
+PIP,Internal_organ_or_component,2813,2835,upper lobes of the lung,Internal_organ_or_component,2896,2905,lower lobe,0.82298744
+PIP,Internal_organ_or_component,2813,2835,upper lobes of the lung,Modifier,2908,2914,diffuse,0.7005513
+PIP,Internal_organ_or_component,2813,2835,upper lobes of the lung,Internal_organ_or_component,2948,2964,superior segments,0.8321334
+PIP,Internal_organ_or_component,2813,2835,upper lobes of the lung,Internal_organ_or_component,2973,2983,lower lobes,0.725512
+PIP,Internal_organ_or_component,2813,2835,upper lobes of the lung,Gender,2993,2999,Persons,0.89500004
+PIP,Internal_organ_or_component,2813,2835,upper lobes of the lung,Modifier,3006,3018,predominantly,0.9454436
+PIP,Internal_organ_or_component,2813,2835,upper lobes of the lung,Modifier,3020,3033,non-upper-lobe,0.88960004
+PIP,Internal_organ_or_component,2813,2835,upper lobes of the lung,Disease_Syndrome_Disorder,3035,3043,emphysema,0.913693
+PIP,Internal_organ_or_component,2813,2835,upper lobes of the lung,Procedure,3120,3123,LVRS,0.8323286
+PIP,Internal_organ_or_component,2896,2905,lower lobe,Internal_organ_or_component,2948,2964,superior segments,0.75888854
+PIP,Internal_organ_or_component,2896,2905,lower lobe,Internal_organ_or_component,2973,2983,lower lobes,0.71202606
+PIP,Internal_organ_or_component,2896,2905,lower lobe,Gender,2993,2999,Persons,0.844023
+PIP,Internal_organ_or_component,2896,2905,lower lobe,Modifier,3006,3018,predominantly,0.91196275
+PIP,Internal_organ_or_component,2896,2905,lower lobe,Modifier,3020,3033,non-upper-lobe,0.9130545
+PIP,Internal_organ_or_component,2896,2905,lower lobe,Disease_Syndrome_Disorder,3035,3043,emphysema,0.8097117
+PIP,Modifier,2908,2914,diffuse,Internal_organ_or_component,2948,2964,superior segments,0.65967005
+PIP,Modifier,2908,2914,diffuse,Internal_organ_or_component,2973,2983,lower lobes,0.5218662
+PIP,Modifier,2908,2914,diffuse,Gender,2993,2999,Persons,0.86850595
+PIP,Modifier,2908,2914,diffuse,Modifier,3006,3018,predominantly,0.9474751
+PIP,Modifier,2908,2914,diffuse,Modifier,3020,3033,non-upper-lobe,0.8152147
+PIP,Modifier,2908,2914,diffuse,Disease_Syndrome_Disorder,3035,3043,emphysema,0.88992214
+PIP,Modifier,2908,2914,diffuse,Procedure,3120,3123,LVRS,0.68352234
+PIP,Internal_organ_or_component,2948,2964,superior segments,Gender,2993,2999,Persons,0.7763937
+PIP,Internal_organ_or_component,2948,2964,superior segments,Modifier,3006,3018,predominantly,0.9444681
+PIP,Internal_organ_or_component,2948,2964,superior segments,Modifier,3020,3033,non-upper-lobe,0.84739244
+PIP,Internal_organ_or_component,2948,2964,superior segments,Disease_Syndrome_Disorder,3035,3043,emphysema,0.9098767
+TrCP,Internal_organ_or_component,2948,2964,superior segments,Procedure,3120,3123,LVRS,0.5819096
+PIP,Internal_organ_or_component,2973,2983,lower lobes,Gender,2993,2999,Persons,0.784705
+PIP,Internal_organ_or_component,2973,2983,lower lobes,Modifier,3006,3018,predominantly,0.90554625
+PIP,Internal_organ_or_component,2973,2983,lower lobes,Modifier,3020,3033,non-upper-lobe,0.82088906
+PIP,Internal_organ_or_component,2973,2983,lower lobes,Disease_Syndrome_Disorder,3035,3043,emphysema,0.7451969
+PIP,Internal_organ_or_component,2973,2983,lower lobes,Procedure,3120,3123,LVRS,0.7416688
+PIP,Gender,2993,2999,Persons,Modifier,3006,3018,predominantly,0.90192693
+PIP,Gender,2993,2999,Persons,Modifier,3020,3033,non-upper-lobe,0.9264861
+PIP,Gender,2993,2999,Persons,Disease_Syndrome_Disorder,3035,3043,emphysema,0.80562204
+PIP,Modifier,3006,3018,predominantly,Modifier,3020,3033,non-upper-lobe,0.9427308
+PIP,Modifier,3006,3018,predominantly,Disease_Syndrome_Disorder,3035,3043,emphysema,0.9666225
+TrCP,Modifier,3006,3018,predominantly,Procedure,3120,3123,LVRS,0.5241773
+PIP,Modifier,3020,3033,non-upper-lobe,Disease_Syndrome_Disorder,3035,3043,emphysema,0.94917583
+PIP,Disease_Syndrome_Disorder,3035,3043,emphysema,Procedure,3120,3123,LVRS,0.8780184
+TeRP,Modifier,3367,3376,Clinically,Modifier,3378,3388,significant,0.9707356
+PIP,Modifier,3367,3376,Clinically,Disease_Syndrome_Disorder,3390,3403,bronchiectasis,0.84162885
+PIP,Modifier,3378,3388,significant,Disease_Syndrome_Disorder,3390,3403,bronchiectasis,0.9281896
+PIP,Disease_Syndrome_Disorder,3417,3432,systemic disease,Oncological,3437,3445,neoplasia,0.6199539
+PIP,Disease_Syndrome_Disorder,3417,3432,systemic disease,Symptom,3467,3497,"compromise survival
+Giant bulla",0.90028405
+PIP,Disease_Syndrome_Disorder,3417,3432,systemic disease,Internal_organ_or_component,3535,3538,lung,0.8420295
+PIP,Disease_Syndrome_Disorder,3417,3432,systemic disease,Internal_organ_or_component,3553,3557,bulla,0.879524
+PIP,Oncological,3437,3445,neoplasia,Symptom,3467,3497,"compromise survival
+Giant bulla",0.95281446
+PIP,Oncological,3437,3445,neoplasia,Internal_organ_or_component,3535,3538,lung,0.7284159
+PIP,Oncological,3437,3445,neoplasia,Internal_organ_or_component,3553,3557,bulla,0.9402186
+PIP,Symptom,3467,3497,"compromise survival
+Giant bulla",Internal_organ_or_component,3535,3538,lung,0.62315035
+PIP,Symptom,3467,3497,"compromise survival
+Giant bulla",Internal_organ_or_component,3553,3557,bulla,0.83795923
+PIP,Modifier,3582,3590,recurrent,Disease_Syndrome_Disorder,3592,3601,infections,0.96456724
+PIP,Modifier,3582,3590,recurrent,Modifier,3608,3617,clinically,0.9682007
+PIP,Modifier,3582,3590,recurrent,Modifier,3619,3629,significant,0.95951116
+PIP,Modifier,3582,3590,recurrent,Symptom,3631,3650,production of sputum,0.9443015
+PIP,Disease_Syndrome_Disorder,3592,3601,infections,Modifier,3608,3617,clinically,0.9712105
+PIP,Disease_Syndrome_Disorder,3592,3601,infections,Modifier,3619,3629,significant,0.9637441
+PIP,Disease_Syndrome_Disorder,3592,3601,infections,Symptom,3631,3650,production of sputum,0.9584323
+PIP,Modifier,3608,3617,clinically,Modifier,3619,3629,significant,0.7274208
+PIP,Modifier,3608,3617,clinically,Symptom,3631,3650,production of sputum,0.90290153
+PIP,Modifier,3619,3629,significant,Symptom,3631,3650,production of sputum,0.7840043
+PIP,Heart_Disease,3872,3893,Pulmonary hypertension,Test_Result,3941,3948,35 mm Hg,0.6775978
+TeRP,Heart_Disease,3872,3893,Pulmonary hypertension,Direction,3964,3968,right,0.8287423
+PIP,Heart_Disease,3872,3893,Pulmonary hypertension,Procedure,3970,3990,heart catheterization,0.7801087
+PIP,Heart_Disease,3872,3893,Pulmonary hypertension,Test_Result,4038,4045,45 mm Hg,0.53052
+TeRP,Test,3907,3936,mean pulmonary artery pressure,Direction,3964,3968,right,0.82847226
+TeRP,Test_Result,3941,3948,35 mm Hg,Direction,3964,3968,right,0.56957155
+TeRP,Test_Result,3941,3948,35 mm Hg,Procedure,3970,3990,heart catheterization,0.5530099
+TeCP,Direction,4061,4065,Right,Heart_Disease,4113,4134,pulmonary hypertension,0.97075707
+TeCP,Direction,4061,4065,Right,Test_Result,4182,4202,greater than 45 mm Hg,0.6836792
+TeCP,Direction,4061,4065,Right,Test,4207,4220,echocardiogram,0.6911015
+TeCP,Procedure,4067,4087,heart catheterization,Heart_Disease,4113,4134,pulmonary hypertension,0.9790096
+TeCP,Procedure,4067,4087,heart catheterization,Test_Result,4182,4202,greater than 45 mm Hg,0.76568896
+TeCP,Procedure,4067,4087,heart catheterization,Test,4207,4220,echocardiogram,0.5418465
+TeRP,Heart_Disease,4113,4134,pulmonary hypertension,Test,4139,4177,peak systolic pulmonary artery pressure,0.73158413
+TeRP,Heart_Disease,4113,4134,pulmonary hypertension,Test_Result,4182,4202,greater than 45 mm Hg,0.6046357
+TeRP,Heart_Disease,4113,4134,pulmonary hypertension,Test,4207,4220,echocardiogram,0.5801325
+TeRP,Test,4139,4177,peak systolic pulmonary artery pressure,Test_Result,4182,4202,greater than 45 mm Hg,0.5296625
+TeRP,Test_Result,4182,4202,greater than 45 mm Hg,Test,4207,4220,echocardiogram,0.81261504
+PIP,Modifier,4258,4264,Resting,Modifier,4279,4300,less than 50 beats/min,0.5229145
+PIP,Modifier,4258,4264,Resting,Modifier,4304,4311,frequent,0.5210476
+PIP,Modifier,4258,4264,Resting,EKG_Findings,4313,4357,multifocal premature ventricular contractions,0.6852532
+PIP,Modifier,4258,4264,Resting,Heart_Disease,4360,4363,PVCs,0.6752622
+PIP,Modifier,4258,4264,Resting,Heart_Disease,4370,4399,complex ventricular arrhythmia,0.54402936
+PIP,Modifier,4258,4264,Resting,Modifier,4404,4412,sustained,0.52879477
+PIP,Modifier,4258,4264,Resting,Heart_Disease,4414,4441,supraventricular tachycardia,0.6765022
+PIP,Modifier,4258,4264,Resting,Heart_Disease,4444,4446,SVT,0.6030609
+PIP,VS_Finding,4266,4276,bradycardia,Heart_Disease,4444,4446,SVT,0.5201866
+PIP,Heart_Disease,4370,4399,complex ventricular arrhythmia,Heart_Disease,4444,4446,SVT,0.51809853
+PIP,Modifier,4404,4412,sustained,Heart_Disease,4444,4446,SVT,0.5861191
+PIP,Heart_Disease,4414,4441,supraventricular tachycardia,Heart_Disease,4444,4446,SVT,0.7559078
+PIP,Modifier,4545,4553,Unplanned,Symptom,4555,4565,weight loss,0.8922021
+PIP,Modifier,4545,4553,Unplanned,RelativeDate,4585,4605,within 3 months prior,0.8459442
+TrAP,Procedure,4860,4869,bullectomy,Symptom,4912,4919,dyspneic,0.9908901
+TrAP,Procedure,4860,4869,bullectomy,Modifier,4934,4938,giant,0.98877525
+TrAP,Procedure,4860,4869,bullectomy,Disease_Syndrome_Disorder,4940,4956,bulbous emphysema,0.993883
+TrAP,Procedure,4860,4869,bullectomy,Symptom,4975,4992,single large bulla,0.9834803
+TrAP,Procedure,4860,4869,bullectomy,Modifier,5004,5014,significant,0.97369087
+TrAP,Procedure,4860,4869,bullectomy,Symptom,5016,5037,respiratory compromise,0.9929247
+TrAP,Procedure,4860,4869,bullectomy,Test,5040,5043,FEV1,0.87245214
+TrAP,Procedure,4860,4869,bullectomy,Test_Result,5048,5061,less than 50 %,0.9704221
+PIP,Symptom,4912,4919,dyspneic,Modifier,4934,4938,giant,0.91495454
+PIP,Symptom,4912,4919,dyspneic,Disease_Syndrome_Disorder,4940,4956,bulbous emphysema,0.8349291
+PIP,Symptom,4912,4919,dyspneic,Symptom,4975,4992,single large bulla,0.91060853
+PIP,Symptom,4912,4919,dyspneic,Modifier,5004,5014,significant,0.57064605
+PIP,Symptom,4912,4919,dyspneic,Symptom,5016,5037,respiratory compromise,0.83106244
+PIP,Modifier,4934,4938,giant,Disease_Syndrome_Disorder,4940,4956,bulbous emphysema,0.9187058
+PIP,Modifier,4934,4938,giant,Symptom,4975,4992,single large bulla,0.9398706
+PIP,Modifier,4934,4938,giant,Modifier,5004,5014,significant,0.89604044
+PIP,Modifier,4934,4938,giant,Symptom,5016,5037,respiratory compromise,0.8693896
+PIP,Disease_Syndrome_Disorder,4940,4956,bulbous emphysema,Symptom,4975,4992,single large bulla,0.94061416
+PIP,Disease_Syndrome_Disorder,4940,4956,bulbous emphysema,Modifier,5004,5014,significant,0.8675655
+PIP,Disease_Syndrome_Disorder,4940,4956,bulbous emphysema,Symptom,5016,5037,respiratory compromise,0.9351051
+TeRP,Disease_Syndrome_Disorder,4940,4956,bulbous emphysema,Test,5040,5043,FEV1,0.55848026
+PIP,Symptom,4975,4992,single large bulla,Modifier,5004,5014,significant,0.9901776
+PIP,Symptom,4975,4992,single large bulla,Symptom,5016,5037,respiratory compromise,0.9395411
+TeRP,Symptom,4975,4992,single large bulla,Test,5040,5043,FEV1,0.77889127
+TeRP,Symptom,4975,4992,single large bulla,Test_Result,5048,5061,less than 50 %,0.56077665
+PIP,Modifier,5004,5014,significant,Symptom,5016,5037,respiratory compromise,0.51232916
+TeRP,Modifier,5004,5014,significant,Test,5040,5043,FEV1,0.7124154
+TeRP,Modifier,5004,5014,significant,Test_Result,5048,5061,less than 50 %,0.5121028
+TeRP,Symptom,5016,5037,respiratory compromise,Test,5040,5043,FEV1,0.8621008
+TeRP,Symptom,5016,5037,respiratory compromise,Test_Result,5048,5061,less than 50 %,0.5377369
+TeRP,Test,5040,5043,FEV1,Test_Result,5048,5061,less than 50 %,0.59408677
+TrAP,Procedure,5093,5120,video-assisted thoracoscopic,Disease_Syndrome_Disorder,5204,5215,pneumothorax,0.94854516
+TrAP,Procedure,5123,5126,VATS,Disease_Syndrome_Disorder,5204,5215,pneumothorax,0.9675395
+TrAP,Procedure,5235,5258,thoracoscopic bullectomy,Modifier,5344,5350,primary,0.95016146
+TrAP,Procedure,5235,5258,thoracoscopic bullectomy,Disease_Syndrome_Disorder,5352,5375,spontaneous pneumothorax,0.9711755
+TrAP,Modifier,5344,5350,primary,Disease_Syndrome_Disorder,5352,5375,spontaneous pneumothorax,0.8991682
+TrAP,Procedure,5650,5679,thoracoscopic laser bullectomy,Disease_Syndrome_Disorder,5747,5772,emphysematous lung disease,0.94067633
+TrAP,Medical_Device,6276,6294,endobronchial valve,Medical_Device,6307,6328,Spiration Valve System,0.7110235
+TrAP,Medical_Device,6276,6294,endobronchial valve,Medical_Device,6338,6356,Zephyr Valve System,0.5377196
+TrAP,Medical_Device,6276,6294,endobronchial valve,Procedure,6387,6409,bronchoscopic treatment,0.9328889
+TrAP,Medical_Device,6276,6294,endobronchial valve,Symptom,6434,6447,hyperinflation,0.9887388
+TrAP,Medical_Device,6276,6294,endobronchial valve,Modifier,6465,6470,severe,0.9321545
+TrAP,Medical_Device,6276,6294,endobronchial valve,Disease_Syndrome_Disorder,6472,6503,emphysema in regions of the lung,0.9332097
+TrAP,Medical_Device,6276,6294,endobronchial valve,Oxygen_Therapy,6528,6549,collateral ventilation,0.6487197
+TrAP,Medical_Device,6307,6328,Spiration Valve System,Procedure,6387,6409,bronchoscopic treatment,0.97480226
+TrAP,Medical_Device,6307,6328,Spiration Valve System,Symptom,6434,6447,hyperinflation,0.95410264
+TrAP,Medical_Device,6307,6328,Spiration Valve System,Modifier,6465,6470,severe,0.9259691
+TrAP,Medical_Device,6307,6328,Spiration Valve System,Disease_Syndrome_Disorder,6472,6503,emphysema in regions of the lung,0.9583694
+TrAP,Medical_Device,6307,6328,Spiration Valve System,Oxygen_Therapy,6528,6549,collateral ventilation,0.88586855
+TrAP,Medical_Device,6338,6356,Zephyr Valve System,Procedure,6387,6409,bronchoscopic treatment,0.73838985
+TrAP,Medical_Device,6338,6356,Zephyr Valve System,Symptom,6434,6447,hyperinflation,0.9529896
+TrAP,Medical_Device,6338,6356,Zephyr Valve System,Modifier,6465,6470,severe,0.9486208
+TrAP,Medical_Device,6338,6356,Zephyr Valve System,Disease_Syndrome_Disorder,6472,6503,emphysema in regions of the lung,0.8546198
+TrAP,Medical_Device,6338,6356,Zephyr Valve System,Oxygen_Therapy,6528,6549,collateral ventilation,0.8524891
+TrAP,Procedure,6387,6409,bronchoscopic treatment,Symptom,6434,6447,hyperinflation,0.9898352
+TrAP,Procedure,6387,6409,bronchoscopic treatment,Modifier,6465,6470,severe,0.9893656
+TrAP,Procedure,6387,6409,bronchoscopic treatment,Disease_Syndrome_Disorder,6472,6503,emphysema in regions of the lung,0.9928255
+TrAP,Procedure,6387,6409,bronchoscopic treatment,Oxygen_Therapy,6528,6549,collateral ventilation,0.97849864
+PIP,Symptom,6434,6447,hyperinflation,Modifier,6465,6470,severe,0.65343225
+TrAP,Symptom,6434,6447,hyperinflation,Disease_Syndrome_Disorder,6472,6503,emphysema in regions of the lung,0.88566303
+PIP,Symptom,6434,6447,hyperinflation,Oxygen_Therapy,6528,6549,collateral ventilation,0.8404815
+TrAP,Modifier,6465,6470,severe,Disease_Syndrome_Disorder,6472,6503,emphysema in regions of the lung,0.83551973
+TrAP,Modifier,6465,6470,severe,Oxygen_Therapy,6528,6549,collateral ventilation,0.86052465
+TrAP,Disease_Syndrome_Disorder,6472,6503,emphysema in regions of the lung,Oxygen_Therapy,6528,6549,collateral ventilation,0.8766403
+TrAP,Procedure,6575,6620,bronchoscopic lung volume reduction procedures,Disease_Syndrome_Disorder,6643,6651,emphysema,0.98469985
+TrAP,Procedure,6575,6620,bronchoscopic lung volume reduction procedures,Procedure,6780,6809,Biologic lung volume reduction,0.539139
+TrAP,Procedure,6575,6620,bronchoscopic lung volume reduction procedures,Medical_Device,6818,6835,Aeris Therapeutics,0.7969804
+TrAP,Procedure,6575,6620,bronchoscopic lung volume reduction procedures,Medical_Device,6844,6849,Woburn,0.8371084
+TrAP,Procedure,6575,6620,bronchoscopic lung volume reduction procedures,Medical_Device,6852,6853,MA,0.79305977
+TrAP,Procedure,6575,6620,bronchoscopic lung volume reduction procedures,Procedure,6856,6885,Biologic Lung Volume Reduction,0.6248421
+TrAP,Procedure,6575,6620,bronchoscopic lung volume reduction procedures,Procedure,6888,6891,BLVR,0.794476
+TrAP,Procedure,6575,6620,bronchoscopic lung volume reduction procedures,Medical_Device,6894,6899,System,0.8515258
+TrAP,Disease_Syndrome_Disorder,6643,6651,emphysema,Procedure,6780,6809,Biologic lung volume reduction,0.9532849
+TrAP,Disease_Syndrome_Disorder,6643,6651,emphysema,Medical_Device,6818,6835,Aeris Therapeutics,0.96549416
+TrAP,Disease_Syndrome_Disorder,6643,6651,emphysema,Medical_Device,6844,6849,Woburn,0.9661488
+TrAP,Disease_Syndrome_Disorder,6643,6651,emphysema,Medical_Device,6852,6853,MA,0.950211
+TrAP,Disease_Syndrome_Disorder,6643,6651,emphysema,Procedure,6856,6885,Biologic Lung Volume Reduction,0.9850093
+TrAP,Disease_Syndrome_Disorder,6643,6651,emphysema,Procedure,6888,6891,BLVR,0.96599346
+TrAP,Disease_Syndrome_Disorder,6643,6651,emphysema,Medical_Device,6894,6899,System,0.96663064
+TrAP,Procedure,6780,6809,Biologic lung volume reduction,Medical_Device,6852,6853,MA,0.6501207
+TrAP,Procedure,6780,6809,Biologic lung volume reduction,Medical_Device,6894,6899,System,0.61893433
+TrAP,Medical_Device,6818,6835,Aeris Therapeutics,Medical_Device,6852,6853,MA,0.65931726
+TrAP,Medical_Device,6818,6835,Aeris Therapeutics,Procedure,6888,6891,BLVR,0.62509346
+TrAP,Medical_Device,6818,6835,Aeris Therapeutics,Medical_Device,6894,6899,System,0.5805372
+TrAP,Medical_Device,6844,6849,Woburn,Medical_Device,6894,6899,System,0.50112665
+TrAP,Medical_Device,6852,6853,MA,Procedure,6888,6891,BLVR,0.67015344
+TrAP,Procedure,6856,6885,Biologic Lung Volume Reduction,Medical_Device,6894,6899,System,0.57464904
+TrAP,Procedure,6920,6955,bronchoscopic thermal vapor ablation,Disease_Syndrome_Disorder,7011,7019,emphysema,0.96707124
+TrAP,Procedure,7084,7112,Lung volume reduction surgery,Modifier,7231,7238,advanced,0.9416867
+TrAP,Procedure,7084,7112,Lung volume reduction surgery,Disease_Syndrome_Disorder,7240,7276,chronic obstructive pulmonary disease,0.9489249
+TrAP,Procedure,7084,7112,Lung volume reduction surgery,Disease_Syndrome_Disorder,7279,7282,COPD,0.7666693
+TrAP,Procedure,7084,7112,Lung volume reduction surgery,Disease_Syndrome_Disorder,7292,7300,emphysema,0.91251284
+TrAP,Procedure,7115,7118,LVRS,Modifier,7231,7238,advanced,0.92234236
+TrAP,Procedure,7115,7118,LVRS,Disease_Syndrome_Disorder,7240,7276,chronic obstructive pulmonary disease,0.87197846
+TrAP,Procedure,7115,7118,LVRS,Disease_Syndrome_Disorder,7279,7282,COPD,0.7920232
+TrAP,Procedure,7115,7118,LVRS,Disease_Syndrome_Disorder,7292,7300,emphysema,0.87835073
+PIP,Modifier,7231,7238,advanced,Disease_Syndrome_Disorder,7240,7276,chronic obstructive pulmonary disease,0.77209675
+PIP,Modifier,7231,7238,advanced,Disease_Syndrome_Disorder,7279,7282,COPD,0.8859041
+PIP,Modifier,7231,7238,advanced,Disease_Syndrome_Disorder,7292,7300,emphysema,0.9051543
+PIP,Disease_Syndrome_Disorder,7240,7276,chronic obstructive pulmonary disease,Disease_Syndrome_Disorder,7279,7282,COPD,0.9298606
+PIP,Disease_Syndrome_Disorder,7240,7276,chronic obstructive pulmonary disease,Disease_Syndrome_Disorder,7292,7300,emphysema,0.9674109
+PIP,Disease_Syndrome_Disorder,7279,7282,COPD,Disease_Syndrome_Disorder,7292,7300,emphysema,0.8902582
+TrAP,Disease_Syndrome_Disorder,7343,7351,emphysema,Procedure,7365,7388,excision of large bullae,0.9913037
+TrAP,Disease_Syndrome_Disorder,7343,7351,emphysema,Procedure,7393,7403,thoracotomy,0.98651564
+TrAP,Disease_Syndrome_Disorder,7343,7351,emphysema,Procedure,7408,7419,thoracoscopy,0.9567548
+TrAP,Disease_Syndrome_Disorder,7343,7351,emphysema,Procedure,7429,7476,resection of diffusely emphysematous lung tissue,0.99575764
+TrAP,Procedure,7365,7388,excision of large bullae,Procedure,7393,7403,thoracotomy,0.9469795
+TrAP,Procedure,7365,7388,excision of large bullae,Procedure,7408,7419,thoracoscopy,0.89772344
+TrAP,Procedure,7365,7388,excision of large bullae,Procedure,7429,7476,resection of diffusely emphysematous lung tissue,0.98780626
+TrAP,Procedure,7393,7403,thoracotomy,Procedure,7429,7476,resection of diffusely emphysematous lung tissue,0.83342683
+TrAP,Procedure,7408,7419,thoracoscopy,Procedure,7429,7476,resection of diffusely emphysematous lung tissue,0.573404
+TrAP,Procedure,7951,7954,LVRS,Modifier,8013,8020,advanced,0.85150117
+TrAP,Procedure,7951,7954,LVRS,Disease_Syndrome_Disorder,8022,8025,COPD,0.87595236
+TrAP,Procedure,7951,7954,LVRS,Disease_Syndrome_Disorder,8034,8042,emphysema,0.9444261
+PIP,Modifier,8013,8020,advanced,Disease_Syndrome_Disorder,8022,8025,COPD,0.9821494
+PIP,Modifier,8013,8020,advanced,Disease_Syndrome_Disorder,8034,8042,emphysema,0.9886656
+PIP,Disease_Syndrome_Disorder,8022,8025,COPD,Disease_Syndrome_Disorder,8034,8042,emphysema,0.9897782
+TrIP,Modifier,8078,8103,post-operative improvement,Symptom,8119,8125,dyspnea,0.71281826
+PIP,Modifier,8708,8714,delayed,Disease_Syndrome_Disorder,8716,8727,pneumothorax,0.8158055
+TrAP,Modifier,8708,8714,delayed,Oxygen_Therapy,8785,8790,oxygen,0.6278077
+TrAP,Disease_Syndrome_Disorder,9091,9108,National Emphysema,Procedure,9179,9182,LVRS,0.5454556
+PIP,Modifier,9240,9245,severe,Disease_Syndrome_Disorder,9247,9255,emphysema,0.94481146
+TrAP,Modifier,9240,9245,severe,Procedure,9291,9294,LVRS,0.97240937
+TrAP,Disease_Syndrome_Disorder,9247,9255,emphysema,Procedure,9291,9294,LVRS,0.9779268
+TrAP,Procedure,9683,9711,Lung volume reduction surgery,Modifier,9776,9788,predominantly,0.96048445
+TrAP,Procedure,9683,9711,Lung volume reduction surgery,Disease_Syndrome_Disorder,9790,9809,upper-lobe emphysema,0.80992746
+TrAP,Procedure,9683,9711,Lung volume reduction surgery,Symptom,9815,9845,low base-line exercise capacity,0.7569455
+PIP,Modifier,9776,9788,predominantly,Disease_Syndrome_Disorder,9790,9809,upper-lobe emphysema,0.8985525
+PIP,Modifier,9776,9788,predominantly,Symptom,9815,9845,low base-line exercise capacity,0.7504864
+PIP,Modifier,9891,9903,predominantly,Disease_Syndrome_Disorder,9905,9924,upper-lobe emphysema,0.95831454
+PIP,Modifier,9891,9903,predominantly,Symptom,9930,9950,low exercise capacity,0.920865
+PIP,Disease_Syndrome_Disorder,9905,9924,upper-lobe emphysema,Symptom,9930,9950,low exercise capacity,0.76441854
+PIP,Drug_Ingredient,10048,10055,contrast,Modifier,10159,10171,predominantly,0.5059401
+TrCP,Procedure,10058,10061,LVRS,Symptom,10112,10137,negligible functional gain,0.7075525
+TrCP,Procedure,10058,10061,LVRS,Modifier,10159,10171,predominantly,0.72545934
+TrCP,Procedure,10058,10061,LVRS,Symptom,10204,10235,high base-line exercise capacity,0.6166954
+TrCP,Procedure,10058,10061,LVRS,Date,10253,10256,2003,0.63874984
+PIP,Symptom,10112,10137,negligible functional gain,Modifier,10159,10171,predominantly,0.8546753
+PIP,Symptom,10112,10137,negligible functional gain,Disease_Syndrome_Disorder,10173,10196,non-upper lobe emphysema,0.73131543
+PIP,Symptom,10112,10137,negligible functional gain,Symptom,10204,10235,high base-line exercise capacity,0.6114546
+PIP,Modifier,10159,10171,predominantly,Disease_Syndrome_Disorder,10173,10196,non-upper lobe emphysema,0.93748236
+PIP,Modifier,10159,10171,predominantly,Symptom,10204,10235,high base-line exercise capacity,0.64346236
+TrCP,Procedure,10417,10445,Lung volume reduction surgery,Disease_Syndrome_Disorder,10542,10559,National Emphysema,0.65011835
+TrCP,Procedure,10417,10445,Lung volume reduction surgery,Date,10586,10596,"Group, 2001",0.6565532
+TrCP,Procedure,10417,10445,Lung volume reduction surgery,Death_Entity,10632,10636,death,0.90629053
+TrCP,Procedure,10417,10445,Lung volume reduction surgery,Test_Result,10676,10678,low,0.8003173
+TrCP,Procedure,10417,10445,Lung volume reduction surgery,Test,10680,10683,FEV1,0.6234444
+TrCP,Procedure,10417,10445,Lung volume reduction surgery,Modifier,10726,10735,homogenous,0.89257896
+TrCP,Procedure,10417,10445,Lung volume reduction surgery,Disease_Syndrome_Disorder,10737,10745,emphysema,0.5038364
+TrCP,Procedure,10417,10445,Lung volume reduction surgery,Modifier,10752,10755,very,0.73707455
+TrCP,Procedure,10417,10445,Lung volume reduction surgery,Symptom,10757,10794,low carbon monoxide diffusing capacity,0.6863749
+TrCP,Procedure,10417,10445,Lung volume reduction surgery,Date,10842,10845,2003,0.7905241
+TeRP,Disease_Syndrome_Disorder,10542,10559,National Emphysema,Test,10680,10683,FEV1,0.6295212
+TrAP,Disease_Syndrome_Disorder,10542,10559,National Emphysema,Symptom,10757,10794,low carbon monoxide diffusing capacity,0.5172292
+TrAP,Disease_Syndrome_Disorder,10542,10559,National Emphysema,Date,10842,10845,2003,0.5701121
+PIP,Date,10586,10596,"Group, 2001",Death_Entity,10632,10636,death,0.51225877
+TeRP,Date,10586,10596,"Group, 2001",Test_Result,10676,10678,low,0.71106976
+PIP,Death_Entity,10632,10636,death,Test_Result,10676,10678,low,0.7821498
+PIP,Death_Entity,10632,10636,death,Modifier,10726,10735,homogenous,0.8240499
+PIP,Death_Entity,10632,10636,death,Disease_Syndrome_Disorder,10737,10745,emphysema,0.8535881
+PIP,Death_Entity,10632,10636,death,Modifier,10752,10755,very,0.79083514
+PIP,Death_Entity,10632,10636,death,Symptom,10757,10794,low carbon monoxide diffusing capacity,0.83909357
+TeRP,Test_Result,10676,10678,low,Test,10680,10683,FEV1,0.9426227
+TeRP,Test_Result,10676,10678,low,Disease_Syndrome_Disorder,10737,10745,emphysema,0.5798791
+TeRP,Test_Result,10676,10678,low,Symptom,10757,10794,low carbon monoxide diffusing capacity,0.8143719
+TeRP,Test,10680,10683,FEV1,Modifier,10726,10735,homogenous,0.58862615
+TeRP,Test,10680,10683,FEV1,Disease_Syndrome_Disorder,10737,10745,emphysema,0.8583233
+TeRP,Test,10680,10683,FEV1,Modifier,10752,10755,very,0.67247516
+TeRP,Test,10680,10683,FEV1,Symptom,10757,10794,low carbon monoxide diffusing capacity,0.78620553
+PIP,Modifier,10726,10735,homogenous,Disease_Syndrome_Disorder,10737,10745,emphysema,0.95059365
+PIP,Modifier,10726,10735,homogenous,Modifier,10752,10755,very,0.83329403
+PIP,Modifier,10726,10735,homogenous,Symptom,10757,10794,low carbon monoxide diffusing capacity,0.7215227
+PIP,Disease_Syndrome_Disorder,10737,10745,emphysema,Modifier,10752,10755,very,0.68790275
+PIP,Disease_Syndrome_Disorder,10737,10745,emphysema,Symptom,10757,10794,low carbon monoxide diffusing capacity,0.5841055
+PIP,Modifier,10752,10755,very,Symptom,10757,10794,low carbon monoxide diffusing capacity,0.83942246
+PIP,Modifier,10752,10755,very,Date,10842,10845,2003,0.5433639
+TeRP,Test,10852,10864,meta analysis,Symptom,10974,10995,low exercise tolerance,0.5330319
+PIP,Modifier,10936,10943,advanced,Modifier,10946,10958,heterogeneous,0.9079062
+PIP,Modifier,10936,10943,advanced,Disease_Syndrome_Disorder,10960,10968,emphysema,0.8316215
+PIP,Modifier,10936,10943,advanced,Symptom,10974,10995,low exercise tolerance,0.796447
+TrAP,Modifier,10936,10943,advanced,Procedure,11070,11073,LVRS,0.85165
+PIP,Modifier,10946,10958,heterogeneous,Disease_Syndrome_Disorder,10960,10968,emphysema,0.9251888
+PIP,Modifier,10946,10958,heterogeneous,Symptom,10974,10995,low exercise tolerance,0.9148361
+TrAP,Modifier,10946,10958,heterogeneous,Procedure,11070,11073,LVRS,0.81575596
+PIP,Disease_Syndrome_Disorder,10960,10968,emphysema,Symptom,10974,10995,low exercise tolerance,0.7334641
+TrAP,Disease_Syndrome_Disorder,10960,10968,emphysema,Procedure,11070,11073,LVRS,0.71419066
+PIP,Modifier,11183,11195,predominantly,Disease_Syndrome_Disorder,11197,11216,upper-lobe emphysema,0.96214384
+PIP,Modifier,11183,11195,predominantly,Symptom,11224,11255,high base-line exercise capacity,0.9087925
+PIP,Modifier,11183,11195,predominantly,Disease_Syndrome_Disorder,11275,11298,non-upper lobe emphysema,0.8034257
+PIP,Modifier,11183,11195,predominantly,Test_Result,11306,11308,low,0.86451924
+PIP,Disease_Syndrome_Disorder,11197,11216,upper-lobe emphysema,Symptom,11224,11255,high base-line exercise capacity,0.6696894
+TeRP,Test_Result,11306,11308,low,Test,11310,11336,base-line exercise capacity,0.73061615
+TrAP,Procedure,11502,11505,LVRS,Test,11528,11546,alpha-1 antitrypsin,0.87150747
+TrAP,Procedure,11502,11505,LVRS,Test,11549,11551,AAT,0.64484686
+TrAP,Procedure,11502,11505,LVRS,Disease_Syndrome_Disorder,11554,11563,deficiency,0.74369746
+PIP,Test,11528,11546,alpha-1 antitrypsin,Disease_Syndrome_Disorder,11554,11563,deficiency,0.7280229
+TrAP,Procedure,11620,11623,LVRS,Modifier,11645,11650,severe,0.9818955
+TrAP,Procedure,11620,11623,LVRS,Disease_Syndrome_Disorder,11652,11668,deficiency of AAT,0.7714153
+TrAP,Procedure,11620,11623,LVRS,Disease_Syndrome_Disorder,11713,11721,Emphysema,0.94018525
+TrAP,Procedure,11620,11623,LVRS,Modifier,11786,11791,severe,0.7956377
+TrAP,Procedure,11620,11623,LVRS,Disease_Syndrome_Disorder,11793,11806,AAT deficiency,0.9340644
+TrAP,Procedure,11620,11623,LVRS,Test_Result,11821,11838,less than 80 mg/dL,0.65630454
+PIP,Modifier,11645,11650,severe,Disease_Syndrome_Disorder,11652,11668,deficiency of AAT,0.9447887
+TrAP,Modifier,11645,11650,severe,Disease_Syndrome_Disorder,11713,11721,Emphysema,0.7631588
+PIP,Modifier,11645,11650,severe,Modifier,11786,11791,severe,0.9864861
+PIP,Modifier,11645,11650,severe,Disease_Syndrome_Disorder,11793,11806,AAT deficiency,0.9810432
+TeRP,Modifier,11645,11650,severe,Test,11809,11819,serum level,0.8571967
+TeRP,Modifier,11645,11650,severe,Test_Result,11821,11838,less than 80 mg/dL,0.65902275
+TrAP,Disease_Syndrome_Disorder,11652,11668,deficiency of AAT,Disease_Syndrome_Disorder,11713,11721,Emphysema,0.7457557
+PIP,Disease_Syndrome_Disorder,11652,11668,deficiency of AAT,Modifier,11786,11791,severe,0.8646648
+PIP,Disease_Syndrome_Disorder,11652,11668,deficiency of AAT,Disease_Syndrome_Disorder,11793,11806,AAT deficiency,0.85963905
+TeRP,Disease_Syndrome_Disorder,11652,11668,deficiency of AAT,Test,11809,11819,serum level,0.8690271
+TeRP,Disease_Syndrome_Disorder,11652,11668,deficiency of AAT,Test_Result,11821,11838,less than 80 mg/dL,0.81326586
+TrAP,Disease_Syndrome_Disorder,11713,11721,Emphysema,Disease_Syndrome_Disorder,11793,11806,AAT deficiency,0.52824074
+TeRP,Disease_Syndrome_Disorder,11713,11721,Emphysema,Test,11809,11819,serum level,0.76718515
+TrAP,Disease_Syndrome_Disorder,11713,11721,Emphysema,Test_Result,11821,11838,less than 80 mg/dL,0.56822556
+PIP,Modifier,11786,11791,severe,Disease_Syndrome_Disorder,11793,11806,AAT deficiency,0.962259
+TeRP,Modifier,11786,11791,severe,Test,11809,11819,serum level,0.9082339
+TeRP,Modifier,11786,11791,severe,Test_Result,11821,11838,less than 80 mg/dL,0.6280193
+TeRP,Disease_Syndrome_Disorder,11793,11806,AAT deficiency,Test,11809,11819,serum level,0.79505277
+TeRP,Disease_Syndrome_Disorder,11793,11806,AAT deficiency,Test_Result,11821,11838,less than 80 mg/dL,0.5369463
+TeRP,Test,11809,11819,serum level,Test_Result,11821,11838,less than 80 mg/dL,0.82427555
+TrAP,Procedure,12651,12654,LVRS,Modifier,12659,12664,severe,0.97667783
+TrAP,Procedure,12651,12654,LVRS,Disease_Syndrome_Disorder,12666,12679,AAT deficiency,0.9877774
+PIP,Modifier,12659,12664,severe,Disease_Syndrome_Disorder,12666,12679,AAT deficiency,0.7993037
+TrAP,Procedure,12985,12988,LVRS,Disease_Syndrome_Disorder,12993,13006,AAT deficiency,0.95009714
+PIP,Modifier,13010,13014,Giant,Disease_Syndrome_Disorder,13016,13032,bullous emphysema,0.9737863
+PIP,Modifier,13010,13014,Giant,Drug_Ingredient,13035,13037,GBE,0.9834847
+PIP,Modifier,13010,13014,Giant,Disease_Syndrome_Disorder,13074,13077,COPD,0.9821706
+PIP,Modifier,13010,13014,Giant,Modifier,13087,13092,single,0.96221656
+PIP,Modifier,13010,13014,Giant,Modifier,13097,13110,multiple large,0.9586881
+PIP,Modifier,13010,13014,Giant,Disease_Syndrome_Disorder,13112,13117,bullae,0.9859446
+PIP,Modifier,13010,13014,Giant,Disease_Syndrome_Disorder,13147,13157,hemi-thorax,0.98946244
+PIP,Modifier,13010,13014,Giant,Modifier,13160,13164,often,0.9888859
+PIP,Modifier,13010,13014,Giant,Symptom,13166,13210,displacing potentially functional lung tissue,0.981881
+PIP,Modifier,13010,13014,Giant,Internal_organ_or_component,13221,13235,large airspaces,0.982637
+PIP,Disease_Syndrome_Disorder,13016,13032,bullous emphysema,Drug_Ingredient,13035,13037,GBE,0.9591281
+PIP,Disease_Syndrome_Disorder,13016,13032,bullous emphysema,Disease_Syndrome_Disorder,13074,13077,COPD,0.9654025
+PIP,Disease_Syndrome_Disorder,13016,13032,bullous emphysema,Modifier,13087,13092,single,0.8908529
+PIP,Disease_Syndrome_Disorder,13016,13032,bullous emphysema,Modifier,13097,13110,multiple large,0.8650153
+PIP,Disease_Syndrome_Disorder,13016,13032,bullous emphysema,Disease_Syndrome_Disorder,13112,13117,bullae,0.95228565
+PIP,Disease_Syndrome_Disorder,13016,13032,bullous emphysema,Disease_Syndrome_Disorder,13147,13157,hemi-thorax,0.9035074
+PIP,Disease_Syndrome_Disorder,13016,13032,bullous emphysema,Modifier,13160,13164,often,0.97909594
+PIP,Disease_Syndrome_Disorder,13016,13032,bullous emphysema,Symptom,13166,13210,displacing potentially functional lung tissue,0.9578534
+PIP,Disease_Syndrome_Disorder,13016,13032,bullous emphysema,Internal_organ_or_component,13221,13235,large airspaces,0.9473078
+PIP,Drug_Ingredient,13035,13037,GBE,Disease_Syndrome_Disorder,13074,13077,COPD,0.92099714
+PIP,Drug_Ingredient,13035,13037,GBE,Modifier,13087,13092,single,0.86485124
+PIP,Drug_Ingredient,13035,13037,GBE,Modifier,13097,13110,multiple large,0.852314
+PIP,Drug_Ingredient,13035,13037,GBE,Disease_Syndrome_Disorder,13112,13117,bullae,0.94012517
+PIP,Drug_Ingredient,13035,13037,GBE,Disease_Syndrome_Disorder,13147,13157,hemi-thorax,0.91382575
+PIP,Drug_Ingredient,13035,13037,GBE,Modifier,13160,13164,often,0.98548394
+PIP,Drug_Ingredient,13035,13037,GBE,Symptom,13166,13210,displacing potentially functional lung tissue,0.9736702
+PIP,Drug_Ingredient,13035,13037,GBE,Internal_organ_or_component,13221,13235,large airspaces,0.8931602
+PIP,Disease_Syndrome_Disorder,13074,13077,COPD,Modifier,13087,13092,single,0.80538785
+PIP,Disease_Syndrome_Disorder,13074,13077,COPD,Modifier,13097,13110,multiple large,0.8112135
+PIP,Disease_Syndrome_Disorder,13074,13077,COPD,Disease_Syndrome_Disorder,13112,13117,bullae,0.90584
+PIP,Disease_Syndrome_Disorder,13074,13077,COPD,Disease_Syndrome_Disorder,13147,13157,hemi-thorax,0.9565472
+PIP,Disease_Syndrome_Disorder,13074,13077,COPD,Modifier,13160,13164,often,0.9745316
+PIP,Disease_Syndrome_Disorder,13074,13077,COPD,Symptom,13166,13210,displacing potentially functional lung tissue,0.970588
+PIP,Disease_Syndrome_Disorder,13074,13077,COPD,Internal_organ_or_component,13221,13235,large airspaces,0.95969856
+PIP,Modifier,13087,13092,single,Disease_Syndrome_Disorder,13112,13117,bullae,0.7445877
+PIP,Modifier,13087,13092,single,Disease_Syndrome_Disorder,13147,13157,hemi-thorax,0.7157415
+PIP,Modifier,13087,13092,single,Modifier,13160,13164,often,0.98388946
+PIP,Modifier,13087,13092,single,Symptom,13166,13210,displacing potentially functional lung tissue,0.96149474
+PIP,Modifier,13087,13092,single,Internal_organ_or_component,13221,13235,large airspaces,0.84135973
+PIP,Modifier,13097,13110,multiple large,Disease_Syndrome_Disorder,13112,13117,bullae,0.7340216
+PIP,Modifier,13097,13110,multiple large,Disease_Syndrome_Disorder,13147,13157,hemi-thorax,0.82089925
+PIP,Modifier,13097,13110,multiple large,Modifier,13160,13164,often,0.90730864
+PIP,Modifier,13097,13110,multiple large,Symptom,13166,13210,displacing potentially functional lung tissue,0.9451721
+PIP,Modifier,13097,13110,multiple large,Internal_organ_or_component,13221,13235,large airspaces,0.87900263
+PIP,Disease_Syndrome_Disorder,13112,13117,bullae,Disease_Syndrome_Disorder,13147,13157,hemi-thorax,0.9725214
+PIP,Disease_Syndrome_Disorder,13112,13117,bullae,Modifier,13160,13164,often,0.9658691
+PIP,Disease_Syndrome_Disorder,13112,13117,bullae,Symptom,13166,13210,displacing potentially functional lung tissue,0.97351825
+PIP,Disease_Syndrome_Disorder,13112,13117,bullae,Internal_organ_or_component,13221,13235,large airspaces,0.95299065
+PIP,Disease_Syndrome_Disorder,13147,13157,hemi-thorax,Modifier,13160,13164,often,0.95721936
+PIP,Disease_Syndrome_Disorder,13147,13157,hemi-thorax,Symptom,13166,13210,displacing potentially functional lung tissue,0.9797785
+PIP,Disease_Syndrome_Disorder,13147,13157,hemi-thorax,Internal_organ_or_component,13221,13235,large airspaces,0.9364312
+PIP,Modifier,13160,13164,often,Symptom,13166,13210,displacing potentially functional lung tissue,0.9881995
+PIP,Modifier,13160,13164,often,Internal_organ_or_component,13221,13235,large airspaces,0.98792124
+PIP,Symptom,13166,13210,displacing potentially functional lung tissue,Internal_organ_or_component,13221,13235,large airspaces,0.9695892
+TrAP,Disease_Syndrome_Disorder,13631,13634,COPD,Clinical_Dept,13645,13661,Global Initiative,0.6877246
+PIP,Disease_Syndrome_Disorder,13631,13634,COPD,Disease_Syndrome_Disorder,13667,13703,Chronic Obstructive Pulmonary Disease,0.612656
+TrAP,Disease_Syndrome_Disorder,13631,13634,COPD,Date,13720,13723,2005,0.5799183
+TrAP,Disease_Syndrome_Disorder,13631,13634,COPD,Modifier,13791,13798,reducing,0.75434977
+TrAP,Disease_Syndrome_Disorder,13631,13634,COPD,Symptom,13812,13834,improving lung function,0.6201332
+TrAP,Clinical_Dept,13645,13661,Global Initiative,Disease_Syndrome_Disorder,13667,13703,Chronic Obstructive Pulmonary Disease,0.8729533
+TrAP,Clinical_Dept,13645,13661,Global Initiative,Disease_Syndrome_Disorder,13706,13709,GOLD,0.52130115
+TrAP,Clinical_Dept,13645,13661,Global Initiative,Modifier,13791,13798,reducing,0.5197262
+TrAP,Clinical_Dept,13645,13661,Global Initiative,Symptom,13800,13806,dyspnea,0.6314054
+TrAP,Disease_Syndrome_Disorder,13667,13703,Chronic Obstructive Pulmonary Disease,Disease_Syndrome_Disorder,13706,13709,GOLD,0.5712867
+TrAP,Disease_Syndrome_Disorder,13667,13703,Chronic Obstructive Pulmonary Disease,Date,13720,13723,2005,0.68377525
+TrAP,Disease_Syndrome_Disorder,13667,13703,Chronic Obstructive Pulmonary Disease,Modifier,13791,13798,reducing,0.62143147
+TrAP,Disease_Syndrome_Disorder,13667,13703,Chronic Obstructive Pulmonary Disease,Symptom,13800,13806,dyspnea,0.537974
+TrIP,Modifier,13791,13798,reducing,Symptom,13800,13806,dyspnea,0.6486956
+TeRP,Clinical_Dept,14095,14112,National Institute,Test,14216,14222,CT scan,0.7228951
+TrAP,Clinical_Dept,14095,14112,National Institute,Procedure,14301,14310,bullectomy,0.78395766
+PIP,Symptom,14169,14178,breathless,Symptom,14192,14209,single large bulla,0.6592909
+TeRP,Symptom,14169,14178,breathless,Test,14216,14222,CT scan,0.8626367
+TeRP,Symptom,14169,14178,breathless,Test,14231,14234,FEV1,0.6847845
+TrAP,Symptom,14169,14178,breathless,Procedure,14301,14310,bullectomy,0.9356487
+TeRP,Symptom,14192,14209,single large bulla,Test,14216,14222,CT scan,0.95168227
+TeRP,Symptom,14192,14209,single large bulla,Test,14231,14234,FEV1,0.75274116
+TeRP,Symptom,14192,14209,single large bulla,Test_Result,14236,14249,less than 50 %,0.7784986
+TrAP,Symptom,14192,14209,single large bulla,Procedure,14301,14310,bullectomy,0.9867389
+TeRP,Test,14216,14222,CT scan,Test,14231,14234,FEV1,0.6552324
+TeRP,Test,14216,14222,CT scan,Test_Result,14236,14249,less than 50 %,0.71141726
+TrAP,Test,14216,14222,CT scan,Procedure,14301,14310,bullectomy,0.5215323
+TrAP,Test_Result,14236,14249,less than 50 %,Procedure,14301,14310,bullectomy,0.69467646
+PIP,Drug_Ingredient,14428,14430,GBE,Symptom,14512,14517,bullae,0.79582715
+PIP,Modifier,14881,14890,underlying,Modifier,14892,14898,diffuse,0.7563255
+PIP,Modifier,14881,14890,underlying,Disease_Syndrome_Disorder,14900,14908,emphysema,0.7402917
+PIP,Modifier,14881,14890,underlying,Modifier,14947,14956,underlying,0.79109544
+PIP,Modifier,14881,14890,underlying,Modifier,14958,14964,diffuse,0.67361027
+PIP,Modifier,14881,14890,underlying,Disease_Syndrome_Disorder,14966,14974,emphysema,0.5061137
+PIP,Modifier,14892,14898,diffuse,Disease_Syndrome_Disorder,14900,14908,emphysema,0.7929174
+PIP,Modifier,14892,14898,diffuse,Modifier,14947,14956,underlying,0.74039936
+PIP,Modifier,14892,14898,diffuse,Modifier,14958,14964,diffuse,0.83099073
+PIP,Disease_Syndrome_Disorder,14900,14908,emphysema,Modifier,14947,14956,underlying,0.66441953
+PIP,Disease_Syndrome_Disorder,14900,14908,emphysema,Modifier,14958,14964,diffuse,0.5793976
+PIP,Modifier,14947,14956,underlying,Modifier,14958,14964,diffuse,0.8989902
+PIP,Modifier,14947,14956,underlying,Disease_Syndrome_Disorder,14966,14974,emphysema,0.83266765
+PIP,Modifier,14958,14964,diffuse,Disease_Syndrome_Disorder,14966,14974,emphysema,0.7332541
+TrCP,Disease_Syndrome_Disorder,15173,15178,Bullae,Procedure,15277,15286,bullectomy,0.8436301
+PIP,Modifier,15188,15196,re-appear,Modifier,15202,15209,residual,0.5809727
+PIP,Modifier,15188,15196,re-appear,Symptom,15233,15240,enlarged,0.72073793
+TrCP,Modifier,15188,15196,re-appear,Procedure,15277,15286,bullectomy,0.9251157
+PIP,Modifier,15202,15209,residual,Symptom,15211,15216,bullae,0.8349092
+PIP,Modifier,15202,15209,residual,Symptom,15233,15240,enlarged,0.859348
+TrCP,Modifier,15202,15209,residual,Procedure,15277,15286,bullectomy,0.7184312
+PIP,Symptom,15211,15216,bullae,Symptom,15233,15240,enlarged,0.6864258
+TrCP,Symptom,15211,15216,bullae,Procedure,15277,15286,bullectomy,0.5758261
+TrCP,Symptom,15233,15240,enlarged,Procedure,15277,15286,bullectomy,0.8369245
+TeRP,Test,15884,15887,FEV1,RelativeDate,15927,15944,up to the 2nd year,0.6827043
+TeCP,Drug_Ingredient,16348,16350,GBE,Frequency,16419,16424,yearly,0.71253186
+PIP,Modifier,16627,16636,underlying,Modifier,16638,16644,diffuse,0.71337223
+PIP,Modifier,16627,16636,underlying,Disease_Syndrome_Disorder,16646,16654,emphysema,0.81060404
+PIP,Modifier,16638,16644,diffuse,Disease_Syndrome_Disorder,16646,16654,emphysema,0.7580486
+PIP,Disease_Syndrome_Disorder,16706,16735,alpha-1 antitrypsin deficiency,Disease_Syndrome_Disorder,16738,16741,A1AD,0.8405745
+PIP,Disease_Syndrome_Disorder,16706,16735,alpha-1 antitrypsin deficiency,Disease_Syndrome_Disorder,16800,16808,emphysema,0.755783
+PIP,Disease_Syndrome_Disorder,16738,16741,A1AD,Disease_Syndrome_Disorder,16800,16808,emphysema,0.7718188
+PIP,Age,16909,16917,young age,Disease_Syndrome_Disorder,16964,16972,emphysema,0.78900504
+TrAP,Treatment,17102,17121,augmentation therapy,Modifier,17158,17165,moderate,0.88495284
+TrAP,Treatment,17102,17121,augmentation therapy,Disease_Syndrome_Disorder,17167,17185,airflow obstruction,0.74871325
+PIP,Modifier,17158,17165,moderate,Disease_Syndrome_Disorder,17167,17185,airflow obstruction,0.6900566
+PIP,Modifier,17211,17216,severe,Disease_Syndrome_Disorder,17218,17236,airflow obstruction,0.8508825
+TrAP,Modifier,17211,17216,severe,Procedure,17344,17358,transplantation,0.958539
+TrAP,Modifier,17211,17216,severe,Procedure,17458,17469,transplanted,0.90073216
+PIP,Modifier,17211,17216,severe,Modifier,17475,17489,smoking-related,0.8803541
+PIP,Modifier,17211,17216,severe,Disease_Syndrome_Disorder,17491,17494,COPD,0.8358563
+TrAP,Disease_Syndrome_Disorder,17218,17236,airflow obstruction,Procedure,17344,17358,transplantation,0.9593778
+TrAP,Disease_Syndrome_Disorder,17218,17236,airflow obstruction,Procedure,17458,17469,transplanted,0.94645107
+PIP,Disease_Syndrome_Disorder,17218,17236,airflow obstruction,Modifier,17475,17489,smoking-related,0.7814565
+PIP,Disease_Syndrome_Disorder,17218,17236,airflow obstruction,Disease_Syndrome_Disorder,17491,17494,COPD,0.6524013
+TrAP,Procedure,17344,17358,transplantation,Procedure,17458,17469,transplanted,0.9520765
+TrAP,Procedure,17344,17358,transplantation,Modifier,17475,17489,smoking-related,0.970454
+TrAP,Procedure,17344,17358,transplantation,Disease_Syndrome_Disorder,17491,17494,COPD,0.9421279
+TrAP,Procedure,17458,17469,transplanted,Modifier,17475,17489,smoking-related,0.96200836
+TrAP,Procedure,17458,17469,transplanted,Disease_Syndrome_Disorder,17491,17494,COPD,0.9512874
+PIP,Modifier,17475,17489,smoking-related,Disease_Syndrome_Disorder,17491,17494,COPD,0.94978863
+TrAP,Procedure,18025,18028,LVRS,Disease_Syndrome_Disorder,18241,18244,A1AD,0.5599662
+PIP,Disease_Syndrome_Disorder,18100,18103,COPD,Disease_Syndrome_Disorder,18241,18244,A1AD,0.5370969
+PIP,Modifier,18164,18172,decreased,Symptom,18174,18180,dyspnea,0.70184463
+PIP,Modifier,18164,18172,decreased,Duration,18193,18208,for 1 to 2 years,0.60242033
+TrIP,Modifier,18164,18172,decreased,Procedure,18216,18219,LVRS,0.5077744
+PIP,Symptom,18174,18180,dyspnea,Duration,18193,18208,for 1 to 2 years,0.72737926
+PIP,Symptom,18174,18180,dyspnea,Disease_Syndrome_Disorder,18241,18244,A1AD,0.5932411
+TrAP,Procedure,18551,18571,bronchoscopic methods,Internal_organ_or_component,18586,18596,lung volume,0.56355774
+TrAP,Procedure,18551,18571,bronchoscopic methods,Modifier,18615,18622,advanced,0.95816004
+TrAP,Procedure,18551,18571,bronchoscopic methods,Disease_Syndrome_Disorder,18624,18632,emphysema,0.9064259
+TrAP,Procedure,18551,18571,bronchoscopic methods,Procedure,18736,18739,LVRS,0.63934034
+TrAP,Internal_organ_or_component,18586,18596,lung volume,Modifier,18615,18622,advanced,0.7280689
+TrAP,Internal_organ_or_component,18586,18596,lung volume,Disease_Syndrome_Disorder,18624,18632,emphysema,0.6646986
+TrAP,Internal_organ_or_component,18586,18596,lung volume,Procedure,18736,18739,LVRS,0.7875904
+PIP,Modifier,18615,18622,advanced,Disease_Syndrome_Disorder,18624,18632,emphysema,0.7719252
+TrAP,Modifier,18615,18622,advanced,Procedure,18736,18739,LVRS,0.8988648
+TrAP,Disease_Syndrome_Disorder,18624,18632,emphysema,Procedure,18736,18739,LVRS,0.8845489
+TrAP,Procedure,18769,18807,placement of endobronchial 1-way valves,Disease_Syndrome_Disorder,18829,18839,atelectasis,0.7183097
+TrAP,Procedure,18769,18807,placement of endobronchial 1-way valves,Internal_organ_or_component,18980,18991,lung regions,0.92262226
+TrAP,Procedure,18769,18807,placement of endobronchial 1-way valves,Medical_Device,19041,19060,biological adhesives,0.9020766
+TrAP,Procedure,18769,18807,placement of endobronchial 1-way valves,Internal_organ_or_component,19095,19113,hyper-inflated lung,0.8828968
+PIP,Disease_Syndrome_Disorder,18829,18839,atelectasis,Procedure,18871,18896,formation of airway bypass,0.54842687
+TrAP,Disease_Syndrome_Disorder,18829,18839,atelectasis,Medical_Device,18913,18935,radiofrequency catheter,0.9187538
+PIP,Disease_Syndrome_Disorder,18829,18839,atelectasis,Internal_organ_or_component,18980,18991,lung regions,0.9331109
+TrAP,Disease_Syndrome_Disorder,18829,18839,atelectasis,Medical_Device,19041,19060,biological adhesives,0.87583
+PIP,Disease_Syndrome_Disorder,18829,18839,atelectasis,Internal_organ_or_component,19095,19113,hyper-inflated lung,0.9404656
+TrAP,Procedure,18871,18896,formation of airway bypass,Internal_organ_or_component,18980,18991,lung regions,0.6706448
+TrAP,Procedure,18871,18896,formation of airway bypass,Medical_Device,19041,19060,biological adhesives,0.80130607
+TrAP,Procedure,18871,18896,formation of airway bypass,Internal_organ_or_component,19095,19113,hyper-inflated lung,0.87505645
+TrAP,Medical_Device,18913,18935,radiofrequency catheter,Internal_organ_or_component,18980,18991,lung regions,0.822278
+TrAP,Medical_Device,18913,18935,radiofrequency catheter,Medical_Device,19041,19060,biological adhesives,0.7172112
+TrAP,Medical_Device,18913,18935,radiofrequency catheter,Internal_organ_or_component,19095,19113,hyper-inflated lung,0.88101906
+TrAP,Internal_organ_or_component,18980,18991,lung regions,Medical_Device,19041,19060,biological adhesives,0.90743846
+PIP,Internal_organ_or_component,18980,18991,lung regions,Internal_organ_or_component,19095,19113,hyper-inflated lung,0.9394769
+TrAP,Medical_Device,19041,19060,biological adhesives,Internal_organ_or_component,19095,19113,hyper-inflated lung,0.9300916
+TrAP,Procedure,19118,19156,placement of endobronchial 1-way valves,Disease_Syndrome_Disorder,19178,19188,atelectasis,0.85879505
+TrAP,Procedure,19118,19156,placement of endobronchial 1-way valves,Internal_organ_or_component,19329,19340,lung regions,0.9043792
+TrAP,Procedure,19118,19156,placement of endobronchial 1-way valves,Medical_Device,19390,19409,biological adhesives,0.8805679
+TrAP,Procedure,19118,19156,placement of endobronchial 1-way valves,Internal_organ_or_component,19444,19462,hyper-inflated lung,0.9730268
+PIP,Disease_Syndrome_Disorder,19178,19188,atelectasis,Procedure,19220,19252,formation of airway bypass tracts,0.8441295
+TrAP,Disease_Syndrome_Disorder,19178,19188,atelectasis,Medical_Device,19262,19284,radiofrequency catheter,0.8828259
+PIP,Disease_Syndrome_Disorder,19178,19188,atelectasis,Internal_organ_or_component,19329,19340,lung regions,0.94669646
+TrAP,Disease_Syndrome_Disorder,19178,19188,atelectasis,Medical_Device,19390,19409,biological adhesives,0.9095734
+PIP,Disease_Syndrome_Disorder,19178,19188,atelectasis,Internal_organ_or_component,19444,19462,hyper-inflated lung,0.77597034
+TrAP,Procedure,19220,19252,formation of airway bypass tracts,Medical_Device,19262,19284,radiofrequency catheter,0.5224696
+TrAP,Procedure,19220,19252,formation of airway bypass tracts,Internal_organ_or_component,19329,19340,lung regions,0.71752715
+TrAP,Procedure,19220,19252,formation of airway bypass tracts,Medical_Device,19390,19409,biological adhesives,0.5366852
+TrAP,Procedure,19220,19252,formation of airway bypass tracts,Internal_organ_or_component,19444,19462,hyper-inflated lung,0.7314861
+TrAP,Medical_Device,19262,19284,radiofrequency catheter,Internal_organ_or_component,19329,19340,lung regions,0.91501474
+TrAP,Medical_Device,19262,19284,radiofrequency catheter,Medical_Device,19390,19409,biological adhesives,0.5785498
+TrAP,Medical_Device,19262,19284,radiofrequency catheter,Internal_organ_or_component,19444,19462,hyper-inflated lung,0.8546175
+TrAP,Internal_organ_or_component,19329,19340,lung regions,Medical_Device,19390,19409,biological adhesives,0.9313741
+PIP,Internal_organ_or_component,19329,19340,lung regions,Internal_organ_or_component,19444,19462,hyper-inflated lung,0.896782
+TrAP,Medical_Device,19390,19409,biological adhesives,Internal_organ_or_component,19444,19462,hyper-inflated lung,0.95796573
+TrAP,Internal_organ_or_component,19988,19994,airways,Procedure,20080,20088,open LVRS,0.5731723
+PIP,Internal_organ_or_component,20286,20290,lungs,VS_Finding,20347,20357,hypercarbia,0.5539206
+PIP,Internal_organ_or_component,20286,20290,lungs,Symptom,20416,20423,impaired,0.63809043
+PIP,VS_Finding,20333,20341,hypoxemia,VS_Finding,20347,20357,hypercarbia,0.5586304
+PIP,VS_Finding,20333,20341,hypoxemia,Modifier,20411,20414,less,0.5132759
+PIP,VS_Finding,20333,20341,hypoxemia,Symptom,20416,20423,impaired,0.7550954
+PIP,VS_Finding,20347,20357,hypercarbia,Modifier,20411,20414,less,0.5836652
+PIP,VS_Finding,20347,20357,hypercarbia,Symptom,20416,20423,impaired,0.91211283
+PIP,Modifier,20411,20414,less,Symptom,20416,20423,impaired,0.8753766
+TrAP,Test,20460,20462,EBV,Medical_Device,20490,20501,Redwood City,0.58303875
+TrAP,Medical_Device,20466,20481,Emphasys Medical,Medical_Device,20490,20501,Redwood City,0.5751157
+TrAP,Internal_organ_or_component,20673,20691,Endobronchial Valve,Disease_Syndrome_Disorder,20697,20705,Emphysema,0.9869489
+TrAP,Internal_organ_or_component,20673,20691,Endobronchial Valve,Age,20791,20794,aged,0.88479215
+TrAP,Internal_organ_or_component,20673,20691,Endobronchial Valve,RelativeDate,20796,20809,40 to 75 years,0.9573416
+TrAP,Internal_organ_or_component,20673,20691,Endobronchial Valve,Modifier,20816,20828,heterogeneous,0.9760369
+TrAP,Internal_organ_or_component,20673,20691,Endobronchial Valve,Disease_Syndrome_Disorder,20830,20838,emphysema,0.92362684
+TrAP,Disease_Syndrome_Disorder,20697,20705,Emphysema,Age,20791,20794,aged,0.9481446
+TrAP,Disease_Syndrome_Disorder,20697,20705,Emphysema,RelativeDate,20796,20809,40 to 75 years,0.9280757
+TrAP,Disease_Syndrome_Disorder,20697,20705,Emphysema,Modifier,20816,20828,heterogeneous,0.86333656
+TrAP,Disease_Syndrome_Disorder,20697,20705,Emphysema,Disease_Syndrome_Disorder,20830,20838,emphysema,0.7872057
+PIP,Age,20791,20794,aged,Modifier,20816,20828,heterogeneous,0.67384034
+PIP,Age,20791,20794,aged,Disease_Syndrome_Disorder,20830,20838,emphysema,0.6133935
+PIP,RelativeDate,20796,20809,40 to 75 years,Modifier,20816,20828,heterogeneous,0.7143832
+PIP,RelativeDate,20796,20809,40 to 75 years,Disease_Syndrome_Disorder,20830,20838,emphysema,0.859761
+PIP,Modifier,20816,20828,heterogeneous,Disease_Syndrome_Disorder,20830,20838,emphysema,0.9686013
+TrAP,Medical_Device,21460,21500,Umbrella Implantable IntraBronchial Valve,Medical_Device,21509,21517,Spiration,0.5589867
+TrAP,Medical_Device,21509,21517,Spiration,Medical_Device,21535,21536,WA,0.6602155
+TrAP,Internal_organ_or_component,21712,21716,valve,Disease_Syndrome_Disorder,21958,21973,mucous impaction,0.62359947
+TrAP,Internal_organ_or_component,21712,21716,valve,Disease_Syndrome_Disorder,21979,21999,obstruction pneumonia,0.5559788
+TrAP,Direction,21747,21754,distally,Procedure,21889,21927,decompression of collateral ventilation,0.6423608
+TrAP,Internal_organ_or_component,21765,21772,membrane,Disease_Syndrome_Disorder,21958,21973,mucous impaction,0.55889475
+TrAP,Internal_organ_or_component,21765,21772,membrane,Disease_Syndrome_Disorder,21979,21999,obstruction pneumonia,0.5636966
+TrAP,Medical_Device,21778,21791,support stents,Disease_Syndrome_Disorder,21958,21973,mucous impaction,0.67751116
+TrAP,Medical_Device,21778,21791,support stents,Disease_Syndrome_Disorder,21979,21999,obstruction pneumonia,0.81759316
+TrAP,Procedure,21889,21927,decompression of collateral ventilation,Disease_Syndrome_Disorder,21958,21973,mucous impaction,0.5614965
+TrAP,Procedure,21889,21927,decompression of collateral ventilation,Disease_Syndrome_Disorder,21979,21999,obstruction pneumonia,0.6471162
+PIP,Disease_Syndrome_Disorder,21958,21973,mucous impaction,Disease_Syndrome_Disorder,21979,21999,obstruction pneumonia,0.6885846
+TrAP,Medical_Device,22122,22137,IBV Valve system,Modifier,22150,22158,prolonged,0.9844877
+TrAP,Medical_Device,22122,22137,IBV Valve system,Symptom,22160,22168,air leaks,0.9859687
+TrAP,Medical_Device,22122,22137,IBV Valve system,Internal_organ_or_component,22177,22180,lung,0.9549331
+TrAP,Medical_Device,22122,22137,IBV Valve system,Modifier,22185,22195,significant,0.98618513
+TrAP,Medical_Device,22122,22137,IBV Valve system,Symptom,22197,22205,air leaks,0.982156
+TrAP,Medical_Device,22122,22137,IBV Valve system,Modifier,22233,22241,prolonged,0.95708084
+TrAP,Medical_Device,22122,22137,IBV Valve system,Procedure,22253,22261,lobectomy,0.89134306
+TrAP,Medical_Device,22122,22137,IBV Valve system,Procedure,22264,22276,segmentectomy,0.94768435
+TrAP,Medical_Device,22122,22137,IBV Valve system,Procedure,22281,22284,LVRS,0.8284867
+TrAP,Medical_Device,22122,22137,IBV Valve system,Medical_Device,22294,22312,humanitarian device,0.78453106
+PIP,Modifier,22150,22158,prolonged,Symptom,22160,22168,air leaks,0.8882055
+PIP,Modifier,22150,22158,prolonged,Internal_organ_or_component,22177,22180,lung,0.95372105
+PIP,Modifier,22150,22158,prolonged,Modifier,22185,22195,significant,0.8646473
+PIP,Modifier,22150,22158,prolonged,Symptom,22197,22205,air leaks,0.9703955
+PIP,Modifier,22150,22158,prolonged,Modifier,22233,22241,prolonged,0.9725002
+TrCP,Modifier,22150,22158,prolonged,Procedure,22281,22284,LVRS,0.70235634
+TrAP,Modifier,22150,22158,prolonged,Medical_Device,22294,22312,humanitarian device,0.5155923
+PIP,Symptom,22160,22168,air leaks,Internal_organ_or_component,22177,22180,lung,0.9797563
+PIP,Symptom,22160,22168,air leaks,Modifier,22185,22195,significant,0.9080781
+PIP,Symptom,22160,22168,air leaks,Symptom,22197,22205,air leaks,0.9714398
+PIP,Symptom,22160,22168,air leaks,Modifier,22233,22241,prolonged,0.94817674
+TrCP,Symptom,22160,22168,air leaks,Procedure,22253,22261,lobectomy,0.53352463
+TrCP,Symptom,22160,22168,air leaks,Procedure,22281,22284,LVRS,0.72665226
+TrAP,Symptom,22160,22168,air leaks,Medical_Device,22294,22312,humanitarian device,0.7585435
+PIP,Internal_organ_or_component,22177,22180,lung,Modifier,22185,22195,significant,0.7584553
+PIP,Internal_organ_or_component,22177,22180,lung,Symptom,22197,22205,air leaks,0.87717575
+PIP,Internal_organ_or_component,22177,22180,lung,Modifier,22233,22241,prolonged,0.9564378
+TrCP,Internal_organ_or_component,22177,22180,lung,Procedure,22253,22261,lobectomy,0.6305069
+TrCP,Internal_organ_or_component,22177,22180,lung,Procedure,22281,22284,LVRS,0.6753699
+TrAP,Internal_organ_or_component,22177,22180,lung,Medical_Device,22294,22312,humanitarian device,0.6465553
+PIP,Modifier,22185,22195,significant,Symptom,22197,22205,air leaks,0.9407383
+PIP,Modifier,22185,22195,significant,Modifier,22233,22241,prolonged,0.95793706
+TrCP,Modifier,22185,22195,significant,Procedure,22253,22261,lobectomy,0.7768876
+TrCP,Modifier,22185,22195,significant,Procedure,22281,22284,LVRS,0.78992933
+PIP,Symptom,22197,22205,air leaks,Modifier,22233,22241,prolonged,0.9755897
+TrCP,Symptom,22197,22205,air leaks,Procedure,22253,22261,lobectomy,0.9201881
+TrCP,Symptom,22197,22205,air leaks,Procedure,22264,22276,segmentectomy,0.63485295
+TrCP,Symptom,22197,22205,air leaks,Procedure,22281,22284,LVRS,0.7798433
+TrCP,Modifier,22233,22241,prolonged,Procedure,22253,22261,lobectomy,0.9443785
+TrCP,Modifier,22233,22241,prolonged,Procedure,22264,22276,segmentectomy,0.89038485
+TrCP,Modifier,22233,22241,prolonged,Procedure,22281,22284,LVRS,0.9259714
+TrCP,Modifier,22233,22241,prolonged,Medical_Device,22294,22312,humanitarian device,0.6307555
+PIP,Modifier,22431,22436,severe,Disease_Syndrome_Disorder,22438,22446,emphysema,0.7810062
+TrAP,Procedure,22620,22649,Biologic Lung Volume Reduction,Medical_Device,22692,22697,Woburn,0.6613352
+TrAP,Procedure,22620,22649,Biologic Lung Volume Reduction,Medical_Device,22700,22701,MA,0.6022884
+TrAP,Procedure,22620,22649,Biologic Lung Volume Reduction,Drug_Ingredient,22746,22765,pharmacologic agents,0.5763435
+TrAP,Procedure,22620,22649,Biologic Lung Volume Reduction,Internal_organ_or_component,22820,22823,lung,0.6682037
+TrAP,Medical_Device,22652,22655,BLVR,Medical_Device,22666,22683,Aeris Therapeutics,0.63727486
+TrAP,Medical_Device,22652,22655,BLVR,Drug_Ingredient,22746,22765,pharmacologic agents,0.92081237
+TrAP,Medical_Device,22652,22655,BLVR,Internal_organ_or_component,22820,22823,lung,0.77388275
+TrAP,Medical_Device,22658,22663,System,Medical_Device,22692,22697,Woburn,0.6245341
+TrAP,Medical_Device,22658,22663,System,Medical_Device,22700,22701,MA,0.57508916
+TrAP,Medical_Device,22658,22663,System,Drug_Ingredient,22746,22765,pharmacologic agents,0.6192791
+TrAP,Medical_Device,22658,22663,System,Internal_organ_or_component,22820,22823,lung,0.7728284
+TrAP,Medical_Device,22666,22683,Aeris Therapeutics,Medical_Device,22700,22701,MA,0.54926383
+TrAP,Medical_Device,22666,22683,Aeris Therapeutics,Internal_organ_or_component,22820,22823,lung,0.8292776
+TrAP,Medical_Device,22692,22697,Woburn,Drug_Ingredient,22746,22765,pharmacologic agents,0.5656591
+TrAP,Medical_Device,22692,22697,Woburn,Internal_organ_or_component,22820,22823,lung,0.76531523
+TrAP,Medical_Device,22700,22701,MA,Drug_Ingredient,22746,22765,pharmacologic agents,0.8130984
+TrAP,Medical_Device,22700,22701,MA,Internal_organ_or_component,22820,22823,lung,0.6647849
+TrAP,Drug_Ingredient,22746,22765,pharmacologic agents,Internal_organ_or_component,22820,22823,lung,0.91124934
+TrAP,Procedure,22836,22849,BLVR procedure,Internal_organ_or_component,22899,22909,lung tissue,0.6480857
+TrAP,Procedure,22836,22849,BLVR procedure,Internal_organ_or_component,23005,23024,pulmonary epithelium,0.5947012
+TeCP,Employment,22856,22864,physician,Internal_organ_or_component,22899,22909,lung tissue,0.6866723
+TrAP,Employment,22856,22864,physician,Internal_organ_or_component,23005,23024,pulmonary epithelium,0.67248476
+TrAP,Internal_organ_or_component,22899,22909,lung tissue,Internal_organ_or_component,22973,22992,pulmonary surfactant,0.7444524
+TrAP,Internal_organ_or_component,22899,22909,lung tissue,Internal_organ_or_component,23005,23024,pulmonary epithelium,0.5900877
+TrAP,Medical_Device,22918,22929,bronchoscope,Internal_organ_or_component,23005,23024,pulmonary epithelium,0.60458064
+TrAP,Medical_Device,23080,23100,fibrin-based hydrogel,Internal_organ_or_component,23176,23179,lung,0.529245
+TrAP,Medical_Device,23080,23100,fibrin-based hydrogel,Symptom,23199,23202,scar,0.76587
+PIP,Internal_organ_or_component,23176,23179,lung,Symptom,23199,23202,scar,0.5777746
+PIP,Internal_organ_or_component,23253,23256,lung,Symptom,23291,23310,diseased lung tissue,0.6760445
+TrAP,RelativeDate,23265,23286,over a period of weeks,Symptom,23325,23332,collapse,0.5694858
+PIP,Symptom,23291,23310,diseased lung tissue,Symptom,23325,23332,collapse,0.9463485
+TrAP,Procedure,23720,23733,BLVR procedure,Modifier,23785,23792,advanced,0.9806275
+TrAP,Procedure,23720,23733,BLVR procedure,Disease_Syndrome_Disorder,23794,23825,upper lobe predominant emphysema,0.9704851
+PIP,Modifier,23785,23792,advanced,Disease_Syndrome_Disorder,23794,23825,upper lobe predominant emphysema,0.94296765
+PIP,Modifier,24023,24030,advanced,Disease_Syndrome_Disorder,24032,24040,emphysema,0.95329404
+PIP,Modifier,24276,24281,severe,Modifier,24283,24295,heterogeneous,0.9766614
+PIP,Modifier,24276,24281,severe,Disease_Syndrome_Disorder,24297,24305,emphysema,0.99011725
+TrAP,Modifier,24276,24281,severe,Direction,24317,24326,unilateral,0.95055264
+TrAP,Modifier,24276,24281,severe,Procedure,24328,24352,bronchoscopic application,0.9422942
+TrAP,Modifier,24276,24281,severe,Procedure,24438,24469,bronchial thermal vapor ablation,0.98627025
+TrAP,Modifier,24276,24281,severe,Procedure,24472,24475,BTVA,0.9661588
+PIP,Modifier,24276,24281,severe,Modifier,24497,24506,controlled,0.64152426
+PIP,Modifier,24276,24281,severe,Symptom,24508,24551,inflammatory airway and parenchymal response,0.96902585
+PIP,Modifier,24283,24295,heterogeneous,Disease_Syndrome_Disorder,24297,24305,emphysema,0.95695454
+TrAP,Modifier,24283,24295,heterogeneous,Direction,24317,24326,unilateral,0.6786298
+TrAP,Modifier,24283,24295,heterogeneous,Procedure,24328,24352,bronchoscopic application,0.9592859
+TrAP,Modifier,24283,24295,heterogeneous,Procedure,24438,24469,bronchial thermal vapor ablation,0.9674605
+TrAP,Modifier,24283,24295,heterogeneous,Procedure,24472,24475,BTVA,0.9738921
+PIP,Modifier,24283,24295,heterogeneous,Symptom,24508,24551,inflammatory airway and parenchymal response,0.9280883
+TrAP,Disease_Syndrome_Disorder,24297,24305,emphysema,Direction,24317,24326,unilateral,0.96536547
+TrAP,Disease_Syndrome_Disorder,24297,24305,emphysema,Procedure,24328,24352,bronchoscopic application,0.9886867
+TrAP,Disease_Syndrome_Disorder,24297,24305,emphysema,Internal_organ_or_component,24397,24411,alveolar tissue,0.6519269
+TrAP,Disease_Syndrome_Disorder,24297,24305,emphysema,Procedure,24438,24469,bronchial thermal vapor ablation,0.9781457
+TrAP,Disease_Syndrome_Disorder,24297,24305,emphysema,Procedure,24472,24475,BTVA,0.9713973
+TrAP,Disease_Syndrome_Disorder,24297,24305,emphysema,Modifier,24497,24506,controlled,0.6732009
+PIP,Disease_Syndrome_Disorder,24297,24305,emphysema,Symptom,24508,24551,inflammatory airway and parenchymal response,0.901896
+TrAP,Direction,24317,24326,unilateral,Procedure,24328,24352,bronchoscopic application,0.5956385
+TrAP,Direction,24317,24326,unilateral,Procedure,24438,24469,bronchial thermal vapor ablation,0.50264806
+TrAP,Direction,24317,24326,unilateral,Procedure,24472,24475,BTVA,0.65146065
+TrAP,Direction,24317,24326,unilateral,Modifier,24497,24506,controlled,0.9226244
+TrAP,Direction,24317,24326,unilateral,Symptom,24508,24551,inflammatory airway and parenchymal response,0.8690668
+TrAP,Procedure,24328,24352,bronchoscopic application,Internal_organ_or_component,24397,24411,alveolar tissue,0.5116959
+TrAP,Procedure,24328,24352,bronchoscopic application,Procedure,24438,24469,bronchial thermal vapor ablation,0.6810541
+TrAP,Procedure,24328,24352,bronchoscopic application,Procedure,24472,24475,BTVA,0.6025638
+TrAP,Procedure,24328,24352,bronchoscopic application,Modifier,24497,24506,controlled,0.95479614
+TrAP,Procedure,24328,24352,bronchoscopic application,Symptom,24508,24551,inflammatory airway and parenchymal response,0.9203852
+TrAP,Internal_organ_or_component,24397,24411,alveolar tissue,Procedure,24438,24469,bronchial thermal vapor ablation,0.7750639
+TrAP,Internal_organ_or_component,24397,24411,alveolar tissue,Procedure,24472,24475,BTVA,0.74466103
+TrAP,Internal_organ_or_component,24397,24411,alveolar tissue,Modifier,24497,24506,controlled,0.58386713
+TrAP,Procedure,24438,24469,bronchial thermal vapor ablation,Procedure,24472,24475,BTVA,0.52637136
+TrAP,Procedure,24438,24469,bronchial thermal vapor ablation,Modifier,24497,24506,controlled,0.91045064
+TrAP,Procedure,24438,24469,bronchial thermal vapor ablation,Symptom,24508,24551,inflammatory airway and parenchymal response,0.9379063
+TrAP,Procedure,24472,24475,BTVA,Modifier,24497,24506,controlled,0.9339798
+TrAP,Procedure,24472,24475,BTVA,Symptom,24508,24551,inflammatory airway and parenchymal response,0.9599139
+PIP,Modifier,24497,24506,controlled,Symptom,24508,24551,inflammatory airway and parenchymal response,0.86442363
+PIP,Disease_Syndrome_Disorder,24865,24883,bacterial pneumonia,Disease_Syndrome_Disorder,24889,24920,exacerbations of airways disease,0.90300804
+TeRP,Modifier,24941,24949,important,Symptom,24951,24968,FEV1 or RV changes,0.50715137
+TeRP,Modifier,24941,24949,important,RelativeDate,24979,24993,during 6 months,0.7308195
+TeRP,Symptom,24951,24968,FEV1 or RV changes,RelativeDate,24979,24993,during 6 months,0.5874374
+TeRP,Symptom,24951,24968,FEV1 or RV changes,Test_Result,25215,25218,64.4,0.5806654
+TrAP,Treatment,25452,25468,bronchoscopic LVR,Modifier,25563,25568,severe,0.53600645
+TrIP,Treatment,25452,25468,bronchoscopic LVR,Modifier,25570,25582,heterogeneous,0.7111278
+TrIP,Treatment,25452,25468,bronchoscopic LVR,Disease_Syndrome_Disorder,25584,25597,lung emphysema,0.5791617
+PIP,Modifier,25563,25568,severe,Modifier,25570,25582,heterogeneous,0.9796228
+PIP,Modifier,25563,25568,severe,Disease_Syndrome_Disorder,25584,25597,lung emphysema,0.9773751
+PIP,Modifier,25570,25582,heterogeneous,Disease_Syndrome_Disorder,25584,25597,lung emphysema,0.95309204
+TrAP,Procedure,25628,25648,1-way valve placement,Modifier,25653,25663,homogeneous,0.9801139
+TrAP,Procedure,25628,25648,1-way valve placement,Disease_Syndrome_Disorder,25665,25673,emphysema,0.96161455
+PIP,Modifier,25653,25663,homogeneous,Disease_Syndrome_Disorder,25665,25673,emphysema,0.87866116
+TeRP,Employment,25848,25858,researchers,Direction,25870,25879,unilateral,0.80379677
+TeRP,Direction,25870,25879,unilateral,Test,25946,25965,nuclear scintigraphy,0.8091702
+TrAP,Procedure,25881,25883,LVR,Internal_organ_or_component,25902,25905,lobe,0.735008
+TeRP,Procedure,25881,25883,LVR,Test,25946,25965,nuclear scintigraphy,0.5517083
+TeRP,Internal_organ_or_component,25902,25905,lobe,Test,25946,25965,nuclear scintigraphy,0.90757054
+TrAP,Disease_Syndrome_Disorder,26498,26509,pneumothorax,Medical_Device,26538,26543,valves,0.72756344
+TrAP,Disease_Syndrome_Disorder,26498,26509,pneumothorax,RelativeDate,26558,26570,after 90 days,0.8632143
+PIP,Disease_Syndrome_Disorder,26498,26509,pneumothorax,Modifier,26583,26591,recurrent,0.8580227
+PIP,Disease_Syndrome_Disorder,26498,26509,pneumothorax,Disease_Syndrome_Disorder,26593,26602,infections,0.7757091
+TrAP,Medical_Device,26538,26543,valves,RelativeDate,26558,26570,after 90 days,0.505174
+TrAP,Medical_Device,26538,26543,valves,Modifier,26583,26591,recurrent,0.9000234
+TrAP,Medical_Device,26538,26543,valves,Disease_Syndrome_Disorder,26593,26602,infections,0.6945382
+TrAP,RelativeDate,26558,26570,after 90 days,Modifier,26583,26591,recurrent,0.82405144
+TrAP,RelativeDate,26558,26570,after 90 days,Disease_Syndrome_Disorder,26593,26602,infections,0.9036346
+PIP,Modifier,26583,26591,recurrent,Disease_Syndrome_Disorder,26593,26602,infections,0.7056156
+TrAP,Procedure,26672,26688,bronchoscopic LVR,Modifier,26707,26712,severe,0.95833355
+TrAP,Procedure,26672,26688,bronchoscopic LVR,Modifier,26714,26724,homogeneous,0.8123654
+TrAP,Procedure,26672,26688,bronchoscopic LVR,Disease_Syndrome_Disorder,26726,26734,emphysema,0.9507005
+PIP,Modifier,26707,26712,severe,Modifier,26714,26724,homogeneous,0.95083797
+PIP,Modifier,26707,26712,severe,Disease_Syndrome_Disorder,26726,26734,emphysema,0.64040154
+PIP,Modifier,26714,26724,homogeneous,Disease_Syndrome_Disorder,26726,26734,emphysema,0.7440048
+PIP,Modifier,27161,27166,severe,Disease_Syndrome_Disorder,27168,27176,emphysema,0.781667
+PIP,Internal_organ_or_component,27406,27415,parenchyma,Symptom,27429,27441,diseased area,0.6995146
+PIP,Symptom,27429,27441,diseased area,Disease_Syndrome_Disorder,27472,27494,parenchymal compression,0.57104605
+PIP,Disease_Syndrome_Disorder,28232,28255,obstructive lung disease,Disease_Syndrome_Disorder,28271,28296,emphysematous lung disease,0.9863114
+TrAP,Procedure,28506,28518,bronchoscopic,Disease_Syndrome_Disorder,28645,28648,COPD,0.7396522
+PIP,Modifier,29082,29087,severe,Disease_Syndrome_Disorder,29089,29097,emphysema,0.94472456
+TrAP,Modifier,29082,29087,severe,Procedure,29128,29159,flexible bronchoscopic placement,0.97922736
+TrAP,Modifier,29082,29087,severe,Medical_Device,29164,29201,self-expanding endobronchial occluders,0.96501976
+TrAP,Disease_Syndrome_Disorder,29089,29097,emphysema,Procedure,29128,29159,flexible bronchoscopic placement,0.93300825
+TrAP,Disease_Syndrome_Disorder,29089,29097,emphysema,Medical_Device,29164,29201,self-expanding endobronchial occluders,0.9796616
+PIP,Symptom,29755,29759,cough,Disease_Syndrome_Disorder,29781,29795,lobar pneumonia,0.5384813
+TeRP,Modifier,30075,30085,significant,Symptom,30087,30114,changes were observed in FVC,0.5146344
+TeRP,Modifier,30075,30085,significant,Test,30151,30153,TLC,0.61048806
+TrAP,Date,30943,30946,2013,Disease_Syndrome_Disorder,31193,31201,emphysema,0.5537415
+TrAP,Procedure,30973,30996,bronchoscopic techniques,Disease_Syndrome_Disorder,31193,31201,emphysema,0.506882
+TrAP,Procedure,31034,31068,bronchoscopic lung volume reduction,Disease_Syndrome_Disorder,31193,31201,emphysema,0.5953755
+TrAP,Internal_organ_or_component,31155,31158,lung,Disease_Syndrome_Disorder,31193,31201,emphysema,0.79446644
+TrAP,Internal_organ_or_component,31288,31307,endobronchial valves,Internal_organ_or_component,31323,31329,airways,0.6088008
+TrAP,Internal_organ_or_component,31288,31307,endobronchial valves,Internal_organ_or_component,31347,31351,lobes,0.693207
+TrAP,Internal_organ_or_component,31288,31307,endobronchial valves,Internal_organ_or_component,31406,31415,parenchyma,0.6738708
+TrAP,Internal_organ_or_component,31288,31307,endobronchial valves,Internal_organ_or_component,31503,31509,alveoli,0.73296183
+PIP,Internal_organ_or_component,31323,31329,airways,Internal_organ_or_component,31347,31351,lobes,0.5884807
+TrAP,Internal_organ_or_component,31347,31351,lobes,Internal_organ_or_component,31503,31509,alveoli,0.6535198
+TrAP,Medical_Device,31354,31372,endobronchial coils,Internal_organ_or_component,31406,31415,parenchyma,0.7714833
+TrAP,Internal_organ_or_component,31406,31415,parenchyma,Internal_organ_or_component,31503,31509,alveoli,0.61694926
+TrAP,Internal_organ_or_component,31715,31730,Bronchial valves,Modifier,31769,31779,very narrow,0.70794684
+TrAP,Internal_organ_or_component,31715,31730,Bronchial valves,Disease_Syndrome_Disorder,31794,31802,emphysema,0.85296637
+PIP,Modifier,31769,31779,very narrow,Disease_Syndrome_Disorder,31794,31802,emphysema,0.94195503
+TrCP,Internal_organ_or_component,31880,31890,Parenchymal,Symptom,31931,31947,permanent effects,0.6734565
+TrCP,Internal_organ_or_component,31880,31890,Parenchymal,Disease_Syndrome_Disorder,31965,31985,inflammatory syndrome,0.61725146
+PIP,Symptom,31931,31947,permanent effects,Modifier,31955,31963,transient,0.65381783
+PIP,Symptom,31931,31947,permanent effects,Disease_Syndrome_Disorder,31965,31985,inflammatory syndrome,0.8150986
+PIP,Symptom,31931,31947,permanent effects,Internal_organ_or_component,32051,32057,fissure,0.6042678
+PIP,Modifier,31955,31963,transient,Disease_Syndrome_Disorder,31965,31985,inflammatory syndrome,0.84542704
+PIP,Modifier,31955,31963,transient,Internal_organ_or_component,32051,32057,fissure,0.74182326
+PIP,Disease_Syndrome_Disorder,31965,31985,inflammatory syndrome,Internal_organ_or_component,32051,32057,fissure,0.8166262
+PIP,Modifier,32382,32387,severe,Disease_Syndrome_Disorder,32389,32402,lung emphysema,0.95883405
+PIP,Disease_Syndrome_Disorder,32518,32526,Emphysema,Disease_Syndrome_Disorder,32546,32549,COPD,0.99040866
+PIP,Disease_Syndrome_Disorder,32518,32526,Emphysema,Symptom,32597,32616,reduced gas exchange,0.98559153
+PIP,Disease_Syndrome_Disorder,32518,32526,Emphysema,Symptom,32622,32658,interference with breathing mechanics,0.98140275
+PIP,Disease_Syndrome_Disorder,32546,32549,COPD,Symptom,32597,32616,reduced gas exchange,0.9864609
+PIP,Disease_Syndrome_Disorder,32546,32549,COPD,Symptom,32622,32658,interference with breathing mechanics,0.97859955
+PIP,Symptom,32597,32616,reduced gas exchange,Symptom,32622,32658,interference with breathing mechanics,0.87203246
+TrAP,Procedure,32662,32693,Endoscopic lung volume reduction,Medical_Device,32701,32712,1-way valves,0.90652096
+TrAP,Procedure,32662,32693,Endoscopic lung volume reduction,Disease_Syndrome_Disorder,32724,32734,atelectasis,0.95649385
+TrAP,Procedure,32662,32693,Endoscopic lung volume reduction,Internal_organ_or_component,32743,32761,hyper-inflated lobe,0.9692811
+TrAP,Medical_Device,32701,32712,1-way valves,Disease_Syndrome_Disorder,32724,32734,atelectasis,0.87903756
+TrAP,Medical_Device,32701,32712,1-way valves,Internal_organ_or_component,32743,32761,hyper-inflated lobe,0.94348055
+TrAP,Medical_Device,32701,32712,1-way valves,RelativeDate,32813,32832,over the last decade,0.8760319
+PIP,Disease_Syndrome_Disorder,32724,32734,atelectasis,Internal_organ_or_component,32743,32761,hyper-inflated lobe,0.9722855
+TrAP,Disease_Syndrome_Disorder,32724,32734,atelectasis,RelativeDate,32813,32832,over the last decade,0.51037335
+TrAP,Internal_organ_or_component,32743,32761,hyper-inflated lobe,RelativeDate,32813,32832,over the last decade,0.8010223
+PIP,Modifier,33092,33099,complete,Internal_organ_or_component,33186,33198,lobar fissure,0.5869544
+TrAP,Disease_Syndrome_Disorder,33101,33115,lobar occlusion,Internal_organ_or_component,33186,33198,lobar fissure,0.53283
+PIP,Modifier,33268,33274,greater,Symptom,33276,33288,heterogeneity,0.950162
+PIP,Modifier,33268,33274,greater,Internal_organ_or_component,33322,33342,upper and lower lobes,0.92068887
+PIP,Symptom,33276,33288,heterogeneity,Internal_organ_or_component,33322,33342,upper and lower lobes,0.92885834
+TrAP,Internal_organ_or_component,33515,33534,endobronchial valves,Disease_Syndrome_Disorder,33585,33593,emphysema,0.7814932
+TrCP,Internal_organ_or_component,33515,33534,endobronchial valves,Disease_Syndrome_Disorder,33665,33678,pneumothoraces,0.7702785
+PIP,Disease_Syndrome_Disorder,33585,33593,emphysema,Disease_Syndrome_Disorder,33665,33678,pneumothoraces,0.8523764
+TrAP,Modifier,33749,33759,significant,Modifier,33944,33950,chronic,0.6068741
+TrAP,Modifier,33749,33759,significant,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,0.64099044
+TrAP,Modifier,33749,33759,significant,Test,34027,34030,BLVR,0.634602
+TrAP,Modifier,33749,33759,significant,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,0.72929704
+TrAP,Modifier,33749,33759,significant,Disease_Syndrome_Disorder,34073,34076,COPD,0.812247
+TrAP,Modifier,33749,33759,significant,Test_Result,34124,34134,15 % - 45 %,0.5424132
+TrAP,Modifier,33749,33759,significant,Modifier,34148,34160,heterogeneous,0.63470316
+TrAP,Modifier,33749,33759,significant,Disease_Syndrome_Disorder,34162,34170,emphysema,0.6050716
+TeRP,Modifier,33749,33759,significant,Test,34175,34193,computed tomography,0.7448841
+TrAP,Modifier,33749,33759,significant,Test,34200,34203,scan,0.7223737
+TrAP,Modifier,33749,33759,significant,Symptom,34210,34223,hyperinflation,0.61308885
+TrAP,Modifier,33749,33759,significant,Test,34226,34244,total lung capacity,0.68965405
+TrAP,Modifier,33749,33759,significant,Modifier,34339,34344,modest,0.5746186
+TrAP,Modifier,33749,33759,significant,Modifier,34430,34437,frequent,0.5431026
+TrAP,Modifier,33749,33759,significant,Modifier,34439,34451,exacerbations,0.6845236
+TrAP,Modifier,33749,33759,significant,Disease_Syndrome_Disorder,34456,34459,COPD,0.6769152
+TrAP,Modifier,33749,33759,significant,Disease_Syndrome_Disorder,34462,34470,pneumonia,0.56460524
+TrAP,Modifier,33749,33759,significant,Symptom,34477,34486,hemoptysis,0.6122458
+TrAP,Symptom,33761,33793,benefit in terms of lung function,Modifier,33944,33950,chronic,0.6664096
+TrAP,Symptom,33761,33793,benefit in terms of lung function,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,0.5234628
+TrAP,Symptom,33761,33793,benefit in terms of lung function,Date,33984,33987,2013,0.5875225
+TeRP,Symptom,33761,33793,benefit in terms of lung function,Test,34008,34024,post-hoc analysis,0.56661683
+TrAP,Symptom,33761,33793,benefit in terms of lung function,Test,34027,34030,BLVR,0.7373419
+TrAP,Symptom,33761,33793,benefit in terms of lung function,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,0.87947744
+TrAP,Symptom,33761,33793,benefit in terms of lung function,Disease_Syndrome_Disorder,34073,34076,COPD,0.7179495
+TrAP,Symptom,33761,33793,benefit in terms of lung function,Modifier,34092,34097,severe,0.74047756
+TrAP,Symptom,33761,33793,benefit in terms of lung function,Symptom,34099,34116,airflow limitation,0.6694977
+TeRP,Symptom,33761,33793,benefit in terms of lung function,Test,34175,34193,computed tomography,0.8779729
+TrAP,Symptom,33761,33793,benefit in terms of lung function,Test,34200,34203,scan,0.6865408
+TrAP,Symptom,33761,33793,benefit in terms of lung function,Symptom,34210,34223,hyperinflation,0.6300297
+TrAP,Symptom,33761,33793,benefit in terms of lung function,Test,34226,34244,total lung capacity,0.7218259
+TrAP,Symptom,33761,33793,benefit in terms of lung function,Modifier,34339,34344,modest,0.6756547
+TrAP,Symptom,33761,33793,benefit in terms of lung function,Symptom,34377,34394,exercise tolerance,0.638527
+TrAP,Symptom,33761,33793,benefit in terms of lung function,Modifier,34430,34437,frequent,0.6314641
+TrAP,Symptom,33761,33793,benefit in terms of lung function,Disease_Syndrome_Disorder,34456,34459,COPD,0.6865645
+TrAP,Symptom,33761,33793,benefit in terms of lung function,Disease_Syndrome_Disorder,34462,34470,pneumonia,0.6511288
+TrAP,Symptom,33761,33793,benefit in terms of lung function,Symptom,34477,34486,hemoptysis,0.8062261
+TrAP,Modifier,33944,33950,chronic,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,0.6193895
+TrAP,Modifier,33944,33950,chronic,Date,33984,33987,2013,0.72339725
+TeRP,Modifier,33944,33950,chronic,Test,34008,34024,post-hoc analysis,0.7270377
+TrAP,Modifier,33944,33950,chronic,Test,34027,34030,BLVR,0.7210846
+TrAP,Modifier,33944,33950,chronic,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,0.9808069
+TrAP,Modifier,33944,33950,chronic,Disease_Syndrome_Disorder,34073,34076,COPD,0.5614435
+TrAP,Modifier,33944,33950,chronic,Modifier,34092,34097,severe,0.56158036
+TeRP,Modifier,33944,33950,chronic,Test,34119,34122,FEV1,0.5037831
+PIP,Modifier,33944,33950,chronic,Modifier,34148,34160,heterogeneous,0.556357
+PIP,Modifier,33944,33950,chronic,Disease_Syndrome_Disorder,34162,34170,emphysema,0.7453032
+TeRP,Modifier,33944,33950,chronic,Test,34175,34193,computed tomography,0.7140732
+TrAP,Modifier,33944,33950,chronic,Test,34196,34197,CT,0.7087882
+TrAP,Modifier,33944,33950,chronic,Test,34200,34203,scan,0.849511
+TrAP,Modifier,33944,33950,chronic,Symptom,34210,34223,hyperinflation,0.718765
+TrAP,Modifier,33944,33950,chronic,Test,34226,34244,total lung capacity,0.7833153
+TrAP,Modifier,33944,33950,chronic,Modifier,34339,34344,modest,0.6120483
+TrAP,Modifier,33944,33950,chronic,Symptom,34346,34374,improvements in lung function,0.7210235
+TrAP,Modifier,33944,33950,chronic,Symptom,34377,34394,exercise tolerance,0.70687634
+TrAP,Modifier,33944,33950,chronic,Modifier,34430,34437,frequent,0.8362501
+TrAP,Modifier,33944,33950,chronic,Modifier,34439,34451,exacerbations,0.8455787
+TrAP,Modifier,33944,33950,chronic,Disease_Syndrome_Disorder,34456,34459,COPD,0.7946861
+TrAP,Modifier,33944,33950,chronic,Disease_Syndrome_Disorder,34462,34470,pneumonia,0.71083665
+TrAP,Modifier,33944,33950,chronic,Symptom,34477,34486,hemoptysis,0.8426734
+TrAP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Date,33984,33987,2013,0.6682961
+TeRP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Test,34008,34024,post-hoc analysis,0.5623312
+TrAP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Test,34027,34030,BLVR,0.77454585
+TrAP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,0.8895879
+TrAP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Disease_Syndrome_Disorder,34073,34076,COPD,0.75909495
+TrAP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Modifier,34092,34097,severe,0.66427714
+TrAP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Symptom,34099,34116,airflow limitation,0.6546585
+TrAP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Test_Result,34124,34134,15 % - 45 %,0.67530096
+TrAP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Modifier,34148,34160,heterogeneous,0.58235466
+TeRP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Test,34175,34193,computed tomography,0.9219439
+TrAP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Test,34196,34197,CT,0.7133951
+TrAP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Test,34200,34203,scan,0.63868695
+TrAP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Symptom,34210,34223,hyperinflation,0.6187892
+TrAP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Test,34226,34244,total lung capacity,0.707377
+TrAP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Modifier,34339,34344,modest,0.7800664
+TrAP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Symptom,34346,34374,improvements in lung function,0.7876108
+TrAP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Symptom,34377,34394,exercise tolerance,0.6630254
+TrAP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Modifier,34430,34437,frequent,0.6194083
+TrAP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Modifier,34439,34451,exacerbations,0.783788
+TrAP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Disease_Syndrome_Disorder,34456,34459,COPD,0.7606381
+TrAP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Disease_Syndrome_Disorder,34462,34470,pneumonia,0.75037295
+TrAP,Disease_Syndrome_Disorder,33952,33981,obstructive pulmonary disease”,Symptom,34477,34486,hemoptysis,0.8544222
+TrAP,Date,33984,33987,2013,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,0.8346788
+TrAP,Date,33984,33987,2013,Disease_Syndrome_Disorder,34073,34076,COPD,0.8054521
+TrAP,Date,33984,33987,2013,Modifier,34092,34097,severe,0.7798647
+TrAP,Date,33984,33987,2013,Symptom,34099,34116,airflow limitation,0.6590199
+TrAP,Date,33984,33987,2013,Test_Result,34124,34134,15 % - 45 %,0.57861185
+TrAP,Date,33984,33987,2013,Modifier,34148,34160,heterogeneous,0.6325718
+TrAP,Date,33984,33987,2013,Disease_Syndrome_Disorder,34162,34170,emphysema,0.601968
+TeRP,Date,33984,33987,2013,Test,34175,34193,computed tomography,0.8126329
+TrAP,Date,33984,33987,2013,Symptom,34210,34223,hyperinflation,0.68771666
+TrAP,Date,33984,33987,2013,Test,34226,34244,total lung capacity,0.7514297
+TrAP,Date,33984,33987,2013,Modifier,34339,34344,modest,0.7664897
+TrAP,Date,33984,33987,2013,Symptom,34346,34374,improvements in lung function,0.7770566
+TrAP,Date,33984,33987,2013,Symptom,34377,34394,exercise tolerance,0.6878303
+TrAP,Date,33984,33987,2013,Modifier,34430,34437,frequent,0.6715731
+TrAP,Date,33984,33987,2013,Modifier,34439,34451,exacerbations,0.6874288
+TrAP,Date,33984,33987,2013,Disease_Syndrome_Disorder,34456,34459,COPD,0.66678905
+TrAP,Date,33984,33987,2013,Disease_Syndrome_Disorder,34462,34470,pneumonia,0.7968027
+TrAP,Date,33984,33987,2013,Symptom,34477,34486,hemoptysis,0.67249084
+TrAP,Test,34008,34024,post-hoc analysis,Disease_Syndrome_Disorder,34073,34076,COPD,0.7156702
+TeRP,Test,34008,34024,post-hoc analysis,Modifier,34092,34097,severe,0.6624429
+TeRP,Test,34008,34024,post-hoc analysis,Symptom,34099,34116,airflow limitation,0.529404
+TeRP,Test,34008,34024,post-hoc analysis,Test,34119,34122,FEV1,0.54096615
+TeRP,Test,34008,34024,post-hoc analysis,Test_Result,34124,34134,15 % - 45 %,0.5014008
+TeRP,Test,34008,34024,post-hoc analysis,Modifier,34148,34160,heterogeneous,0.57768804
+TeRP,Test,34008,34024,post-hoc analysis,Disease_Syndrome_Disorder,34162,34170,emphysema,0.5164497
+TeRP,Test,34008,34024,post-hoc analysis,Test,34175,34193,computed tomography,0.8888513
+TeRP,Test,34008,34024,post-hoc analysis,Test,34196,34197,CT,0.57125986
+TeRP,Test,34008,34024,post-hoc analysis,Test,34200,34203,scan,0.7237443
+TeRP,Test,34008,34024,post-hoc analysis,Modifier,34439,34451,exacerbations,0.54340345
+TrAP,Test,34027,34030,BLVR,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,0.6122623
+TrAP,Test,34027,34030,BLVR,Disease_Syndrome_Disorder,34073,34076,COPD,0.97965163
+TrAP,Test,34027,34030,BLVR,Modifier,34092,34097,severe,0.813277
+TrAP,Test,34027,34030,BLVR,Symptom,34099,34116,airflow limitation,0.96286875
+TrAP,Test,34027,34030,BLVR,Test,34119,34122,FEV1,0.58502644
+TrAP,Test,34027,34030,BLVR,Test_Result,34124,34134,15 % - 45 %,0.8327589
+TrAP,Test,34027,34030,BLVR,Modifier,34148,34160,heterogeneous,0.9658184
+TrAP,Test,34027,34030,BLVR,Test,34196,34197,CT,0.8359998
+TrAP,Test,34027,34030,BLVR,Test,34200,34203,scan,0.81511503
+TrAP,Test,34027,34030,BLVR,Symptom,34210,34223,hyperinflation,0.84745795
+TrAP,Test,34027,34030,BLVR,Test,34226,34244,total lung capacity,0.7737268
+TrAP,Test,34027,34030,BLVR,Modifier,34339,34344,modest,0.89467597
+TrAP,Test,34027,34030,BLVR,Symptom,34346,34374,improvements in lung function,0.8207026
+TrAP,Test,34027,34030,BLVR,Symptom,34377,34394,exercise tolerance,0.710676
+TrAP,Test,34027,34030,BLVR,Modifier,34430,34437,frequent,0.88298535
+TrAP,Test,34027,34030,BLVR,Modifier,34439,34451,exacerbations,0.64311886
+TrAP,Test,34027,34030,BLVR,Disease_Syndrome_Disorder,34456,34459,COPD,0.7709803
+TrAP,Test,34027,34030,BLVR,Symptom,34477,34486,hemoptysis,0.899901
+TrAP,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,Disease_Syndrome_Disorder,34073,34076,COPD,0.98769265
+TrAP,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,Modifier,34092,34097,severe,0.9647909
+TrAP,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,Symptom,34099,34116,airflow limitation,0.9822986
+TrAP,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,Test,34119,34122,FEV1,0.7810244
+TrAP,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,Test_Result,34124,34134,15 % - 45 %,0.5242358
+TrAP,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,Modifier,34148,34160,heterogeneous,0.91899735
+TrAP,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,Disease_Syndrome_Disorder,34162,34170,emphysema,0.92344
+TrAP,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,Test,34175,34193,computed tomography,0.7777519
+TrAP,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,Test,34196,34197,CT,0.8804546
+TrAP,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,Test,34200,34203,scan,0.8319054
+TrAP,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,Symptom,34210,34223,hyperinflation,0.9362737
+TrAP,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,Test,34226,34244,total lung capacity,0.96622455
+TrAP,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,Modifier,34339,34344,modest,0.93230116
+TrAP,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,Symptom,34346,34374,improvements in lung function,0.8758025
+TrAP,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,Symptom,34377,34394,exercise tolerance,0.9119877
+TrAP,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,Modifier,34430,34437,frequent,0.93490475
+TrAP,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,Modifier,34439,34451,exacerbations,0.9318503
+TrAP,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,Disease_Syndrome_Disorder,34456,34459,COPD,0.81630754
+TrAP,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,Disease_Syndrome_Disorder,34462,34470,pneumonia,0.88720244
+TrAP,Procedure,34033,34067,Bronchoscopic Lung Volume Reduction,Symptom,34477,34486,hemoptysis,0.8912851
+PIP,Disease_Syndrome_Disorder,34073,34076,COPD,Symptom,34099,34116,airflow limitation,0.54775476
+TrAP,Disease_Syndrome_Disorder,34073,34076,COPD,Test_Result,34124,34134,15 % - 45 %,0.5155633
+PIP,Disease_Syndrome_Disorder,34073,34076,COPD,Disease_Syndrome_Disorder,34162,34170,emphysema,0.70745397
+TeRP,Disease_Syndrome_Disorder,34073,34076,COPD,Test,34175,34193,computed tomography,0.7380638
+TrAP,Disease_Syndrome_Disorder,34073,34076,COPD,Test,34196,34197,CT,0.525046
+TrAP,Disease_Syndrome_Disorder,34073,34076,COPD,Test,34200,34203,scan,0.7454025
+TrAP,Disease_Syndrome_Disorder,34073,34076,COPD,Symptom,34210,34223,hyperinflation,0.71966153
+TrAP,Disease_Syndrome_Disorder,34073,34076,COPD,Test,34226,34244,total lung capacity,0.71785444
+TrAP,Disease_Syndrome_Disorder,34073,34076,COPD,Modifier,34339,34344,modest,0.82109153
+TrAP,Disease_Syndrome_Disorder,34073,34076,COPD,Symptom,34346,34374,improvements in lung function,0.6606716
+TrAP,Disease_Syndrome_Disorder,34073,34076,COPD,Symptom,34377,34394,exercise tolerance,0.73842007
+TrAP,Disease_Syndrome_Disorder,34073,34076,COPD,Modifier,34430,34437,frequent,0.6637584
+TrAP,Disease_Syndrome_Disorder,34073,34076,COPD,Modifier,34439,34451,exacerbations,0.80300665
+TrAP,Disease_Syndrome_Disorder,34073,34076,COPD,Disease_Syndrome_Disorder,34456,34459,COPD,0.78694
+TrAP,Disease_Syndrome_Disorder,34073,34076,COPD,Disease_Syndrome_Disorder,34462,34470,pneumonia,0.80372506
+TrAP,Disease_Syndrome_Disorder,34073,34076,COPD,Symptom,34477,34486,hemoptysis,0.91762704
+PIP,Modifier,34092,34097,severe,Symptom,34099,34116,airflow limitation,0.75574446
+TeRP,Modifier,34092,34097,severe,Test,34119,34122,FEV1,0.72352105
+PIP,Modifier,34092,34097,severe,Modifier,34148,34160,heterogeneous,0.86250633
+TeRP,Modifier,34092,34097,severe,Test,34175,34193,computed tomography,0.81850004
+TrAP,Modifier,34092,34097,severe,Test,34196,34197,CT,0.52501124
+TrAP,Modifier,34092,34097,severe,Test,34200,34203,scan,0.80738896
+TrAP,Modifier,34092,34097,severe,Symptom,34210,34223,hyperinflation,0.69817686
+TrAP,Modifier,34092,34097,severe,Test,34226,34244,total lung capacity,0.60506207
+TrAP,Modifier,34092,34097,severe,Modifier,34339,34344,modest,0.74944127
+TrAP,Modifier,34092,34097,severe,Symptom,34346,34374,improvements in lung function,0.70887977
+TrAP,Modifier,34092,34097,severe,Symptom,34377,34394,exercise tolerance,0.71410024
+TrAP,Modifier,34092,34097,severe,Modifier,34430,34437,frequent,0.5678826
+TrAP,Modifier,34092,34097,severe,Modifier,34439,34451,exacerbations,0.5798637
+TrAP,Modifier,34092,34097,severe,Disease_Syndrome_Disorder,34456,34459,COPD,0.52967304
+TrAP,Modifier,34092,34097,severe,Disease_Syndrome_Disorder,34462,34470,pneumonia,0.6586513
+TrAP,Modifier,34092,34097,severe,Symptom,34477,34486,hemoptysis,0.72230005
+TeRP,Symptom,34099,34116,airflow limitation,Test,34119,34122,FEV1,0.7347451
+PIP,Symptom,34099,34116,airflow limitation,Modifier,34148,34160,heterogeneous,0.7148498
+PIP,Symptom,34099,34116,airflow limitation,Disease_Syndrome_Disorder,34162,34170,emphysema,0.555486
+TeRP,Symptom,34099,34116,airflow limitation,Test,34175,34193,computed tomography,0.87528235
+TeRP,Symptom,34099,34116,airflow limitation,Test,34196,34197,CT,0.5412692
+TrAP,Symptom,34099,34116,airflow limitation,Test,34200,34203,scan,0.57818395
+TrAP,Symptom,34099,34116,airflow limitation,Symptom,34210,34223,hyperinflation,0.71425456
+TrAP,Symptom,34099,34116,airflow limitation,Test,34226,34244,total lung capacity,0.5218569
+TrAP,Symptom,34099,34116,airflow limitation,Modifier,34339,34344,modest,0.7111878
+TrAP,Symptom,34099,34116,airflow limitation,Symptom,34346,34374,improvements in lung function,0.63311756
+TrAP,Symptom,34099,34116,airflow limitation,Symptom,34377,34394,exercise tolerance,0.676144
+TrAP,Symptom,34099,34116,airflow limitation,Modifier,34430,34437,frequent,0.64677006
+TrAP,Symptom,34099,34116,airflow limitation,Modifier,34439,34451,exacerbations,0.6190743
+TrAP,Symptom,34099,34116,airflow limitation,Disease_Syndrome_Disorder,34456,34459,COPD,0.5589376
+TrAP,Symptom,34099,34116,airflow limitation,Disease_Syndrome_Disorder,34462,34470,pneumonia,0.70714325
+TeRP,Test,34119,34122,FEV1,Modifier,34148,34160,heterogeneous,0.5714609
+TeRP,Test,34119,34122,FEV1,Disease_Syndrome_Disorder,34162,34170,emphysema,0.74111253
+TeRP,Test,34119,34122,FEV1,Test,34175,34193,computed tomography,0.56666404
+TeRP,Test,34119,34122,FEV1,Test,34196,34197,CT,0.5343716
+TeRP,Test,34119,34122,FEV1,Symptom,34210,34223,hyperinflation,0.53467995
+TeRP,Test,34119,34122,FEV1,Test,34226,34244,total lung capacity,0.57031727
+TeRP,Test,34119,34122,FEV1,Symptom,34377,34394,exercise tolerance,0.5114329
+TeRP,Test_Result,34124,34134,15 % - 45 %,Test,34175,34193,computed tomography,0.87090707
+TeRP,Test_Result,34124,34134,15 % - 45 %,Test,34196,34197,CT,0.543792
+TrAP,Test_Result,34124,34134,15 % - 45 %,Symptom,34210,34223,hyperinflation,0.5770615
+TrAP,Test_Result,34124,34134,15 % - 45 %,Test,34226,34244,total lung capacity,0.69268143
+PIP,Modifier,34148,34160,heterogeneous,Disease_Syndrome_Disorder,34162,34170,emphysema,0.75214577
+TeRP,Modifier,34148,34160,heterogeneous,Test,34175,34193,computed tomography,0.9401339
+TeRP,Modifier,34148,34160,heterogeneous,Test,34196,34197,CT,0.60749274
+TrAP,Modifier,34148,34160,heterogeneous,Symptom,34210,34223,hyperinflation,0.6609902
+TrAP,Modifier,34148,34160,heterogeneous,Symptom,34346,34374,improvements in lung function,0.5157406
+TrAP,Modifier,34148,34160,heterogeneous,Symptom,34377,34394,exercise tolerance,0.6315041
+TrAP,Modifier,34148,34160,heterogeneous,Modifier,34439,34451,exacerbations,0.6816279
+TrAP,Modifier,34148,34160,heterogeneous,Disease_Syndrome_Disorder,34456,34459,COPD,0.71553844
+TrAP,Modifier,34148,34160,heterogeneous,Disease_Syndrome_Disorder,34462,34470,pneumonia,0.70011485
+TrAP,Modifier,34148,34160,heterogeneous,Symptom,34477,34486,hemoptysis,0.78422797
+TeRP,Disease_Syndrome_Disorder,34162,34170,emphysema,Test,34175,34193,computed tomography,0.9646034
+TeRP,Disease_Syndrome_Disorder,34162,34170,emphysema,Test,34196,34197,CT,0.72033864
+TrAP,Disease_Syndrome_Disorder,34162,34170,emphysema,Test,34226,34244,total lung capacity,0.50861925
+TrAP,Disease_Syndrome_Disorder,34162,34170,emphysema,Modifier,34339,34344,modest,0.8033983
+TrAP,Disease_Syndrome_Disorder,34162,34170,emphysema,Symptom,34346,34374,improvements in lung function,0.5959019
+TrAP,Disease_Syndrome_Disorder,34162,34170,emphysema,Modifier,34439,34451,exacerbations,0.6301306
+TeRP,Test,34175,34193,computed tomography,Test,34200,34203,scan,0.7460837
+TeRP,Test,34175,34193,computed tomography,Symptom,34210,34223,hyperinflation,0.8489685
+TeRP,Test,34175,34193,computed tomography,Test,34226,34244,total lung capacity,0.8345365
+TeRP,Test,34175,34193,computed tomography,Modifier,34339,34344,modest,0.7886971
+TeRP,Test,34175,34193,computed tomography,Symptom,34346,34374,improvements in lung function,0.68478435
+TeRP,Test,34175,34193,computed tomography,Symptom,34377,34394,exercise tolerance,0.6441229
+TeRP,Test,34175,34193,computed tomography,Modifier,34430,34437,frequent,0.5830019
+TeRP,Test,34175,34193,computed tomography,Modifier,34439,34451,exacerbations,0.8192349
+TeRP,Test,34175,34193,computed tomography,Disease_Syndrome_Disorder,34456,34459,COPD,0.8623728
+TeRP,Test,34175,34193,computed tomography,Disease_Syndrome_Disorder,34462,34470,pneumonia,0.90646017
+TeRP,Test,34175,34193,computed tomography,Symptom,34477,34486,hemoptysis,0.78652287
+TeRP,Test,34196,34197,CT,Test,34226,34244,total lung capacity,0.5364655
+TeRP,Test,34196,34197,CT,Modifier,34339,34344,modest,0.77821124
+TeRP,Test,34196,34197,CT,Symptom,34377,34394,exercise tolerance,0.5663816
+TeRP,Test,34196,34197,CT,Modifier,34430,34437,frequent,0.8038138
+TeRP,Test,34196,34197,CT,Modifier,34439,34451,exacerbations,0.55710113
+TeRP,Test,34196,34197,CT,Disease_Syndrome_Disorder,34462,34470,pneumonia,0.5002589
+TeRP,Test,34196,34197,CT,Symptom,34477,34486,hemoptysis,0.60355526
+TrAP,Test,34200,34203,scan,Modifier,34439,34451,exacerbations,0.53035194
+TrAP,Test,34200,34203,scan,Disease_Syndrome_Disorder,34456,34459,COPD,0.5014669
+TrAP,Symptom,34210,34223,hyperinflation,Test,34226,34244,total lung capacity,0.6608862
+TrAP,Symptom,34210,34223,hyperinflation,Modifier,34339,34344,modest,0.59008265
+TrAP,Symptom,34210,34223,hyperinflation,Symptom,34346,34374,improvements in lung function,0.6575878
+TrAP,Symptom,34210,34223,hyperinflation,Symptom,34377,34394,exercise tolerance,0.57484573
+TrAP,Symptom,34210,34223,hyperinflation,Modifier,34430,34437,frequent,0.7645605
+TrAP,Symptom,34210,34223,hyperinflation,Modifier,34439,34451,exacerbations,0.69477516
+TrAP,Symptom,34210,34223,hyperinflation,Disease_Syndrome_Disorder,34456,34459,COPD,0.8159033
+TrAP,Symptom,34210,34223,hyperinflation,Disease_Syndrome_Disorder,34462,34470,pneumonia,0.72532624
+TrAP,Symptom,34210,34223,hyperinflation,Symptom,34477,34486,hemoptysis,0.68031615
+TrAP,Test,34226,34244,total lung capacity,Modifier,34339,34344,modest,0.664852
+TrAP,Test,34226,34244,total lung capacity,Symptom,34346,34374,improvements in lung function,0.7440549
+TrAP,Test,34226,34244,total lung capacity,Symptom,34377,34394,exercise tolerance,0.805626
+TrAP,Test,34226,34244,total lung capacity,Modifier,34430,34437,frequent,0.64608717
+TrAP,Test,34226,34244,total lung capacity,Modifier,34439,34451,exacerbations,0.6376202
+TrAP,Test,34226,34244,total lung capacity,Disease_Syndrome_Disorder,34456,34459,COPD,0.7691852
+TrAP,Test,34226,34244,total lung capacity,Disease_Syndrome_Disorder,34462,34470,pneumonia,0.6250018
+TrAP,Test,34226,34244,total lung capacity,Symptom,34477,34486,hemoptysis,0.65516216
+TrAP,Modifier,34339,34344,modest,Symptom,34346,34374,improvements in lung function,0.59843117
+TrAP,Modifier,34339,34344,modest,Symptom,34377,34394,exercise tolerance,0.7644702
+TrAP,Modifier,34339,34344,modest,Modifier,34430,34437,frequent,0.76382565
+TrAP,Modifier,34339,34344,modest,Modifier,34439,34451,exacerbations,0.6946414
+TrAP,Modifier,34339,34344,modest,Disease_Syndrome_Disorder,34456,34459,COPD,0.77542245
+TrAP,Modifier,34339,34344,modest,Disease_Syndrome_Disorder,34462,34470,pneumonia,0.6096639
+TrAP,Modifier,34339,34344,modest,Symptom,34477,34486,hemoptysis,0.6075915
+TrAP,Symptom,34346,34374,improvements in lung function,Symptom,34377,34394,exercise tolerance,0.7398858
+TrAP,Symptom,34346,34374,improvements in lung function,Modifier,34430,34437,frequent,0.7942354
+TrAP,Symptom,34346,34374,improvements in lung function,Modifier,34439,34451,exacerbations,0.78839
+TrAP,Symptom,34346,34374,improvements in lung function,Disease_Syndrome_Disorder,34456,34459,COPD,0.692418
+TrAP,Symptom,34346,34374,improvements in lung function,Disease_Syndrome_Disorder,34462,34470,pneumonia,0.7166654
+TrAP,Symptom,34346,34374,improvements in lung function,Symptom,34477,34486,hemoptysis,0.7834822
+TrAP,Symptom,34377,34394,exercise tolerance,Modifier,34430,34437,frequent,0.71955293
+TrAP,Symptom,34377,34394,exercise tolerance,Modifier,34439,34451,exacerbations,0.6434125
+TrAP,Symptom,34377,34394,exercise tolerance,Disease_Syndrome_Disorder,34456,34459,COPD,0.8635574
+TrAP,Symptom,34377,34394,exercise tolerance,Disease_Syndrome_Disorder,34462,34470,pneumonia,0.7299195
+TrAP,Symptom,34377,34394,exercise tolerance,Symptom,34477,34486,hemoptysis,0.73106897
+TrAP,Modifier,34430,34437,frequent,Modifier,34439,34451,exacerbations,0.6642178
+TrAP,Modifier,34430,34437,frequent,Disease_Syndrome_Disorder,34456,34459,COPD,0.8154557
+TrAP,Modifier,34430,34437,frequent,Disease_Syndrome_Disorder,34462,34470,pneumonia,0.5898817
+TrAP,Modifier,34430,34437,frequent,Symptom,34477,34486,hemoptysis,0.578174
+TrAP,Modifier,34439,34451,exacerbations,Disease_Syndrome_Disorder,34456,34459,COPD,0.6960092
+TrAP,Modifier,34439,34451,exacerbations,Disease_Syndrome_Disorder,34462,34470,pneumonia,0.6056224
+TrAP,Modifier,34439,34451,exacerbations,Symptom,34477,34486,hemoptysis,0.6538986
+TrAP,Disease_Syndrome_Disorder,34456,34459,COPD,Disease_Syndrome_Disorder,34462,34470,pneumonia,0.7947705
+TrAP,Disease_Syndrome_Disorder,34456,34459,COPD,Symptom,34477,34486,hemoptysis,0.6943115
+TrAP,Disease_Syndrome_Disorder,34462,34470,pneumonia,Symptom,34477,34486,hemoptysis,0.7015316
+TrAP,Disease_Syndrome_Disorder,34642,34651,“Diagnosis,Disease_Syndrome_Disorder,34835,34838,COPD,0.70268506
+TrAP,Disease_Syndrome_Disorder,34671,34707,chronic obstructive pulmonary disease,Procedure,34752,34769,“Bronchoscopic LVR,0.7241624
+TrAP,Date,34730,34737,"al, 2013",Disease_Syndrome_Disorder,34835,34838,COPD,0.6985495
+TrAP,Procedure,34752,34769,“Bronchoscopic LVR,Disease_Syndrome_Disorder,34835,34838,COPD,0.8957075
+PIP,RelativeDate,34871,34874,2014,Disease_Syndrome_Disorder,34888,34891,COPD,0.6998701
+PIP,Disease_Syndrome_Disorder,34888,34891,COPD,Modifier,34898,34908,progressive,0.97836226
+PIP,Modifier,35140,35150,debilitated,Disease_Syndrome_Disorder,35152,35155,COPD,0.9383038
+TrAP,Procedure,35469,35503,Bronchoscopic lung volume reduction,Internal_organ_or_component,35536,35550,hyper-inflation,0.7717239
+TrAP,Procedure,35469,35503,Bronchoscopic lung volume reduction,Disease_Syndrome_Disorder,35559,35567,emphysema,0.8787366
+PIP,Internal_organ_or_component,35536,35550,hyper-inflation,Disease_Syndrome_Disorder,35559,35567,emphysema,0.994439
+TrAP,Internal_organ_or_component,35915,35934,Endobronchial valves,Modifier,35969,35976,affected,0.948038
+TrAP,Internal_organ_or_component,35915,35934,Endobronchial valves,Symptom,35978,35998,emphysematous regions,0.9083934
+TrAP,Internal_organ_or_component,35915,35934,Endobronchial valves,Disease_Syndrome_Disorder,36036,36063,lobar absorption atelectasis,0.856653
+PIP,Modifier,35969,35976,affected,Symptom,35978,35998,emphysematous regions,0.84555614
+PIP,Modifier,35969,35976,affected,Disease_Syndrome_Disorder,36036,36063,lobar absorption atelectasis,0.8468777
+PIP,Symptom,35978,35998,emphysematous regions,Disease_Syndrome_Disorder,36036,36063,lobar absorption atelectasis,0.7710417
+TrAP,Procedure,36067,36086,Airway bypass stents,Modifier,36095,36104,homogenous,0.98973465
+TrAP,Procedure,36067,36086,Airway bypass stents,Disease_Syndrome_Disorder,36106,36114,emphysema,0.9850847
+TrAP,Procedure,36067,36086,Airway bypass stents,Procedure,36125,36157,valves and thermal vapor ablation,0.80140835
+TrAP,Procedure,36067,36086,Airway bypass stents,Modifier,36166,36178,heterogeneous,0.9646707
+TrAP,Procedure,36067,36086,Airway bypass stents,Disease_Syndrome_Disorder,36180,36188,emphysema,0.9851083
+PIP,Modifier,36095,36104,homogenous,Disease_Syndrome_Disorder,36106,36114,emphysema,0.91772115
+TrAP,Modifier,36095,36104,homogenous,Procedure,36125,36157,valves and thermal vapor ablation,0.9766842
+PIP,Modifier,36095,36104,homogenous,Disease_Syndrome_Disorder,36180,36188,emphysema,0.7439042
+TrAP,Disease_Syndrome_Disorder,36106,36114,emphysema,Procedure,36125,36157,valves and thermal vapor ablation,0.9709989
+PIP,Disease_Syndrome_Disorder,36106,36114,emphysema,Modifier,36166,36178,heterogeneous,0.5616803
+PIP,Disease_Syndrome_Disorder,36106,36114,emphysema,Disease_Syndrome_Disorder,36180,36188,emphysema,0.6489003
+TrAP,Procedure,36125,36157,valves and thermal vapor ablation,Modifier,36166,36178,heterogeneous,0.98611397
+TrAP,Procedure,36125,36157,valves and thermal vapor ablation,Disease_Syndrome_Disorder,36180,36188,emphysema,0.9827901
+PIP,Modifier,36166,36178,heterogeneous,Disease_Syndrome_Disorder,36180,36188,emphysema,0.79640204
+TrAP,Medical_Device,36216,36239,endoscopic coil implants,Modifier,36279,36291,heterogeneous,0.9760465
+TrAP,Medical_Device,36216,36239,endoscopic coil implants,Disease_Syndrome_Disorder,36293,36301,emphysema,0.9905681
+PIP,Modifier,36279,36291,heterogeneous,Disease_Syndrome_Disorder,36293,36301,emphysema,0.8408607
+TrAP,Procedure,36331,36334,BLVR,Disease_Syndrome_Disorder,36429,36432,COPD,0.80356985
+TrAP,Clinical_Dept,36654,36679,Ludwig Boltzmann Institute,Procedure,36717,36748,endobronchial valve implantation,0.8786415
+TrAP,Clinical_Dept,36654,36679,Ludwig Boltzmann Institute,Disease_Syndrome_Disorder,36754,36762,emphysema,0.8611214
+TrAP,Clinical_Dept,36654,36679,Ludwig Boltzmann Institute,Procedure,36860,36892,‘endobronchial valve implantation,0.52255833
+TrAP,Clinical_Dept,36654,36679,Ludwig Boltzmann Institute,Modifier,36920,36925,severe,0.8594237
+TrAP,Clinical_Dept,36654,36679,Ludwig Boltzmann Institute,Symptom,36927,36946,pulmonary emphysema’,0.8284688
+TrAP,Procedure,36717,36748,endobronchial valve implantation,Disease_Syndrome_Disorder,36754,36762,emphysema,0.99241394
+TrAP,Procedure,36717,36748,endobronchial valve implantation,Procedure,36860,36892,‘endobronchial valve implantation,0.8159344
+TrAP,Procedure,36717,36748,endobronchial valve implantation,Modifier,36920,36925,severe,0.96820235
+TrAP,Procedure,36717,36748,endobronchial valve implantation,Symptom,36927,36946,pulmonary emphysema’,0.91156036
+TrAP,Disease_Syndrome_Disorder,36754,36762,emphysema,Procedure,36860,36892,‘endobronchial valve implantation,0.97459126
+TrAP,Disease_Syndrome_Disorder,36754,36762,emphysema,Modifier,36920,36925,severe,0.9265092
+TrAP,Disease_Syndrome_Disorder,36754,36762,emphysema,Symptom,36927,36946,pulmonary emphysema’,0.96400374
+TrAP,Procedure,36860,36892,‘endobronchial valve implantation,Modifier,36920,36925,severe,0.9828196
+TrAP,Procedure,36860,36892,‘endobronchial valve implantation,Symptom,36927,36946,pulmonary emphysema’,0.9799171
+TrAP,Modifier,36920,36925,severe,Symptom,36927,36946,pulmonary emphysema’,0.86160564
+TrAP,Procedure,37001,37035,Bronchoscopic Lung Volume Reduction,Modifier,37058,37063,Severe,0.992646
+TrAP,Procedure,37001,37035,Bronchoscopic Lung Volume Reduction,Disease_Syndrome_Disorder,37065,37073,Emphysema,0.9885697
+TrAP,Modifier,37058,37063,Severe,Disease_Syndrome_Disorder,37065,37073,Emphysema,0.8283099
+TrAP,Modifier,37131,37136,severe,Modifier,37152,37158,limited,0.8085494
+TrAP,Disease_Syndrome_Disorder,37138,37146,emphysema,Modifier,37152,37158,limited,0.6413952
+TrAP,Employment,37317,37327,researchers,Modifier,37428,37433,severe,0.65527016
+TrAP,Employment,37317,37327,researchers,Disease_Syndrome_Disorder,37435,37443,emphysema,0.7379132
+TrAP,Medical_Device,37398,37410,nitinol coils,Modifier,37428,37433,severe,0.98314935
+TrAP,Medical_Device,37398,37410,nitinol coils,Disease_Syndrome_Disorder,37435,37443,emphysema,0.9890487
+PIP,Modifier,37428,37433,severe,Disease_Syndrome_Disorder,37435,37443,emphysema,0.8910991
+PIP,Modifier,39717,39722,severe,Disease_Syndrome_Disorder,39724,39732,emphysema,0.89389163
+TrAP,Modifier,39717,39722,severe,Procedure,39760,39782,bronchoscopic treatment,0.92653227
+TrAP,Modifier,39717,39722,severe,Medical_Device,39789,39801,nitinol coils,0.93845403
+TrAP,Disease_Syndrome_Disorder,39724,39732,emphysema,Procedure,39760,39782,bronchoscopic treatment,0.81511647
+TrAP,Disease_Syndrome_Disorder,39724,39732,emphysema,Medical_Device,39789,39801,nitinol coils,0.9597587
+PIP,Modifier,40133,40145,heterogeneous,Disease_Syndrome_Disorder,40147,40155,emphysema,0.9681627
+PIP,Modifier,40239,40251,heterogeneous,Disease_Syndrome_Disorder,40253,40261,emphysema,0.9772923
+TrAP,Medical_Device,40727,40746,Endobronchial Valves,Modifier,40752,40759,Advanced,0.9972053
+TrAP,Medical_Device,40727,40746,Endobronchial Valves,Disease_Syndrome_Disorder,40761,40769,Emphysema,0.9746041
+TrAP,Modifier,40752,40759,Advanced,Disease_Syndrome_Disorder,40761,40769,Emphysema,0.9127203
+TrAP,Procedure,40867,40901,bronchoscopic lung volume reduction,Test,40930,40932,EBV,0.5397803
+TrAP,Procedure,40867,40901,bronchoscopic lung volume reduction,Modifier,40939,40946,advanced,0.9903369
+TrAP,Procedure,40867,40901,bronchoscopic lung volume reduction,Disease_Syndrome_Disorder,40948,40956,emphysema,0.99129033
+TrAP,Procedure,40908,40927,endobronchial valves,Modifier,40939,40946,advanced,0.9966633
+TrAP,Procedure,40908,40927,endobronchial valves,Disease_Syndrome_Disorder,40948,40956,emphysema,0.9935027
+TrAP,Test,40930,40932,EBV,Modifier,40939,40946,advanced,0.9897683
+TrAP,Test,40930,40932,EBV,Disease_Syndrome_Disorder,40948,40956,emphysema,0.98755264
+PIP,Modifier,40939,40946,advanced,Disease_Syndrome_Disorder,40948,40956,emphysema,0.91378665
+TrAP,Disease_Syndrome_Disorder,41100,41108,emphysema,Duration,41110,41127,for 3 to 12 months,0.9222357
+TrAP,Disease_Syndrome_Disorder,41100,41108,emphysema,Test,41138,41140,EBV,0.9674307
+TrAP,Disease_Syndrome_Disorder,41100,41108,emphysema,Test,41186,41188,EBV,0.9765009
+TrAP,Duration,41110,41127,for 3 to 12 months,Test,41138,41140,EBV,0.7325828
+TrAP,Duration,41110,41127,for 3 to 12 months,Test,41186,41188,EBV,0.8534695
+TrAP,Modifier,41262,41269,advanced,Disease_Syndrome_Disorder,41271,41279,emphysema,0.5944591
+TrAP,Modifier,41262,41269,advanced,Test,41294,41296,EBV,0.9897349
+TrAP,Disease_Syndrome_Disorder,41271,41279,emphysema,Test,41294,41296,EBV,0.9884964
+TrCP,Test,42300,42302,EBV,Symptom,42329,42338,hemoptysis,0.8511254
+TrCP,Test,42300,42302,EBV,Test,42341,42342,RR,0.7263334
+TrCP,Test,42300,42302,EBV,Disease_Syndrome_Disorder,42427,42429,AES,0.82854176
+TrCP,Test,42300,42302,EBV,VS_Finding,42453,42471,respiratory failure,0.74530536
+TrCP,Test,42300,42302,EBV,Disease_Syndrome_Disorder,42474,42480,empyema,0.8756803
+TrCP,Test,42300,42302,EBV,Disease_Syndrome_Disorder,42483,42491,pneumonia,0.78040886
+TrCP,Test,42300,42302,EBV,Disease_Syndrome_Disorder,42494,42505,pneumothorax,0.832154
+PIP,Symptom,42329,42338,hemoptysis,Disease_Syndrome_Disorder,42427,42429,AES,0.93471956
+PIP,Symptom,42329,42338,hemoptysis,VS_Finding,42453,42471,respiratory failure,0.8213574
+PIP,Symptom,42329,42338,hemoptysis,Disease_Syndrome_Disorder,42474,42480,empyema,0.9350243
+PIP,Symptom,42329,42338,hemoptysis,Disease_Syndrome_Disorder,42483,42491,pneumonia,0.8828115
+PIP,Symptom,42329,42338,hemoptysis,Disease_Syndrome_Disorder,42494,42505,pneumothorax,0.9105783
+PIP,Test,42341,42342,RR,Disease_Syndrome_Disorder,42427,42429,AES,0.71058047
+PIP,Disease_Syndrome_Disorder,42427,42429,AES,VS_Finding,42453,42471,respiratory failure,0.75031126
+PIP,Disease_Syndrome_Disorder,42427,42429,AES,Disease_Syndrome_Disorder,42474,42480,empyema,0.7626902
+PIP,Disease_Syndrome_Disorder,42427,42429,AES,Disease_Syndrome_Disorder,42483,42491,pneumonia,0.5318839
+PIP,Disease_Syndrome_Disorder,42427,42429,AES,Disease_Syndrome_Disorder,42494,42505,pneumothorax,0.92482895
+TrAP,Procedure,42691,42715,EBV lung volume reduction,Modifier,42721,42728,advanced,0.9643627
+TrAP,Procedure,42691,42715,EBV lung volume reduction,Disease_Syndrome_Disorder,42730,42738,emphysema,0.93814737
+PIP,Modifier,42721,42728,advanced,Disease_Syndrome_Disorder,42730,42738,emphysema,0.7957528
+TrAP,Modifier,42721,42728,advanced,Test,42844,42846,EBV,0.8401841
+TrAP,Disease_Syndrome_Disorder,42730,42738,emphysema,Test,42844,42846,EBV,0.61867565
+TrAP,Procedure,42995,43029,bronchoscopic lung volume reduction,Modifier,43043,43050,advanced,0.95777595
+TrAP,Procedure,42995,43029,bronchoscopic lung volume reduction,Disease_Syndrome_Disorder,43052,43060,emphysema,0.9258064
+TrAP,Test,43036,43038,EBV,Modifier,43043,43050,advanced,0.965046
+TrAP,Test,43036,43038,EBV,Disease_Syndrome_Disorder,43052,43060,emphysema,0.9749245
+PIP,Modifier,43043,43050,advanced,Disease_Syndrome_Disorder,43052,43060,emphysema,0.9394816
+PIP,Modifier,43361,43373,heterogeneous,Disease_Syndrome_Disorder,43375,43383,emphysema,0.9750938
+PIP,Modifier,43361,43373,heterogeneous,Internal_organ_or_component,43415,43434,inter-lobar fissures,0.9138042
+PIP,Modifier,43361,43373,heterogeneous,Modifier,43462,43472,significant,0.84230447
+PIP,Modifier,43361,43373,heterogeneous,Symptom,43474,43485,gas trapping,0.9542417
+PIP,Modifier,43361,43373,heterogeneous,Symptom,43585,43598,breathlessness,0.8795489
+PIP,Modifier,43361,43373,heterogeneous,Symptom,43606,43673,dyspnea score of greater than or equal to 3] and exercise limitation,0.6807435
+PIP,Disease_Syndrome_Disorder,43375,43383,emphysema,Internal_organ_or_component,43415,43434,inter-lobar fissures,0.95106304
+PIP,Disease_Syndrome_Disorder,43375,43383,emphysema,Modifier,43462,43472,significant,0.9249046
+PIP,Disease_Syndrome_Disorder,43375,43383,emphysema,Symptom,43474,43485,gas trapping,0.9278943
+PIP,Disease_Syndrome_Disorder,43375,43383,emphysema,Symptom,43585,43598,breathlessness,0.53891563
+PIP,Internal_organ_or_component,43398,43401,lobe,Internal_organ_or_component,43415,43434,inter-lobar fissures,0.8506546
+PIP,Internal_organ_or_component,43398,43401,lobe,Modifier,43462,43472,significant,0.8364675
+PIP,Internal_organ_or_component,43398,43401,lobe,Symptom,43474,43485,gas trapping,0.7502814
+PIP,Internal_organ_or_component,43415,43434,inter-lobar fissures,Modifier,43462,43472,significant,0.90747696
+PIP,Internal_organ_or_component,43415,43434,inter-lobar fissures,Symptom,43474,43485,gas trapping,0.9251525
+PIP,Internal_organ_or_component,43415,43434,inter-lobar fissures,Symptom,43585,43598,breathlessness,0.71233976
+PIP,Modifier,43462,43472,significant,Symptom,43474,43485,gas trapping,0.8271743
+TeRP,Modifier,43462,43472,significant,Symptom,43488,43506,total lung capacity,0.72185
+PIP,Modifier,43462,43472,significant,Symptom,43606,43673,dyspnea score of greater than or equal to 3] and exercise limitation,0.53856486
+TeRP,Symptom,43474,43485,gas trapping,Symptom,43488,43506,total lung capacity,0.85562384
+PIP,Symptom,43474,43485,gas trapping,Symptom,43606,43673,dyspnea score of greater than or equal to 3] and exercise limitation,0.7090233
+PIP,Symptom,43585,43598,breathlessness,Symptom,43606,43673,dyspnea score of greater than or equal to 3] and exercise limitation,0.5030574
+TrAP,Direction,43814,43823,unilateral,Disease_Syndrome_Disorder,43863,43879,lobar atelectasis,0.9813758
+TrAP,Procedure,43825,43843,lobar EBV placement,Disease_Syndrome_Disorder,43863,43879,lobar atelectasis,0.9770965
+TrAP,Disease_Syndrome_Disorder,43863,43879,lobar atelectasis,Procedure,43884,43895,bronchoscopy,0.7399111
+TrAP,Disease_Syndrome_Disorder,43863,43879,lobar atelectasis,Procedure,43901,43922,“sham” valve placement,0.97480756
+PIP,Modifier,44932,44940,prolonged,Disease_Syndrome_Disorder,44942,44953,pneumothorax,0.99147004
+TrAP,Modifier,44932,44940,prolonged,External_body_part_or_region,44999,45001,arm,0.50137544
+TrAP,Disease_Syndrome_Disorder,45182,45196,lobar occlusion,Modifier,45211,45223,heterogeneous,0.9404714
+TrAP,Disease_Syndrome_Disorder,45182,45196,lobar occlusion,Disease_Syndrome_Disorder,45225,45233,emphysema,0.9048355
+PIP,Modifier,45211,45223,heterogeneous,Disease_Syndrome_Disorder,45225,45233,emphysema,0.89528555
+TrAP,Procedure,45319,45322,BLVR,Modifier,45574,45591,moderate-to-severe,0.79067844
+TrAP,Procedure,45319,45322,BLVR,Disease_Syndrome_Disorder,45593,45596,COPD,0.570206
+TrAP,Procedure,45476,45490,BLVR procedures,Modifier,45574,45591,moderate-to-severe,0.67438257
+TrAP,Procedure,45476,45490,BLVR procedures,Disease_Syndrome_Disorder,45593,45596,COPD,0.5576493
+PIP,Modifier,45574,45591,moderate-to-severe,Disease_Syndrome_Disorder,45593,45596,COPD,0.8087337
+TrAP,Procedure,45666,45669,BLVR,Modifier,45736,45753,moderate-to-severe,0.7795379
+TrAP,Procedure,45666,45669,BLVR,Disease_Syndrome_Disorder,45755,45758,COPD,0.53109974
+PIP,Modifier,45736,45753,moderate-to-severe,Disease_Syndrome_Disorder,45755,45758,COPD,0.8739338
+PIP,Clinical_Dept,46804,46805,OR,Symptom,46839,46841,AEs,0.6461922
+TrCP,Symptom,46839,46841,AEs,Drug_BrandName,46890,46897,AeriSeal,0.7286478
+PIP,Symptom,46839,46841,AEs,Clinical_Dept,46900,46901,OR,0.74493057
+TrCP,Medical_Device,47045,47064,airway bypass stents,Medical_Device,47094,47097,lead,0.56047106
+PIP,Clinical_Dept,47864,47865,OR,Symptom,47901,47903,AEs,0.582229
+TrCP,Symptom,47901,47903,AEs,Medical_Device,47966,47970,coils,0.8487424
+PIP,Symptom,47901,47903,AEs,Clinical_Dept,47973,47974,OR,0.71408004
+PIP,Clinical_Dept,48400,48401,OR,Symptom,48437,48439,AEs,0.50467664
+TrCP,Symptom,48437,48439,AEs,Internal_organ_or_component,48465,48483,endobronchial valve,0.64781725
+PIP,Modifier,49001,49011,significant,Symptom,49150,49152,AEs,0.7319157
+PIP,Symptom,49013,49038,differences in SGRQ scores,Symptom,49150,49152,AEs,0.5077815
+PIP,Dosage,49066,49075,0.28 units,Symptom,49150,49152,AEs,0.52026016
+PIP,Dosage,49080,49089,5.56 units,Symptom,49150,49152,AEs,0.59033644
+PIP,Clinical_Dept,49112,49113,OR,Symptom,49150,49152,AEs,0.55579203
+PIP,Symptom,49150,49152,AEs,Clinical_Dept,49174,49180,OR 3.41,0.8840912
+TrCP,Symptom,49150,49152,AEs,Medical_Device,49235,49256,intra-bronchial valves,0.52951473
+TrCP,Clinical_Dept,49867,49873,OR 2.82,Procedure,49905,49918,vapor ablation,0.88866854
+TrCP,Clinical_Dept,49867,49873,OR 2.82,Symptom,49946,49948,AEs,0.55308914
+TrCP,Procedure,49905,49918,vapor ablation,Symptom,49946,49948,AEs,0.9368213
+TrCP,Procedure,49905,49918,vapor ablation,Clinical_Dept,49951,49952,OR,0.9274214
+TrCP,Procedure,50088,50102,BLVR procedures,Modifier,50261,50269,increased,0.7936606
+TrCP,Procedure,50088,50102,BLVR procedures,Symptom,50271,50273,AEs,0.7000535
+PIP,Modifier,50516,50526,significant,Symptom,50528,50540,heterogeneity,0.7978281
+TrAP,Clinical_Dept,51211,51228,National Institute,Test,51234,51263,Clinical Excellence’s guidance,0.7667923
+TrAP,Clinical_Dept,51211,51228,National Institute,Procedure,51268,51297,“Endobronchial valve insertion,0.8858027
+TrAP,Clinical_Dept,51211,51228,National Institute,Internal_organ_or_component,51309,51319,lung volume,0.86071223
+TrAP,Clinical_Dept,51211,51228,National Institute,Procedure,51436,51464,endobronchial valve insertion,0.6301618
+TrAP,Clinical_Dept,51211,51228,National Institute,Internal_organ_or_component,51476,51486,lung volume,0.88159406
+TrAP,Clinical_Dept,51211,51228,National Institute,Disease_Syndrome_Disorder,51491,51499,emphysema,0.83459204
+TrAP,Test,51234,51263,Clinical Excellence’s guidance,Procedure,51268,51297,“Endobronchial valve insertion,0.82838994
+TrAP,Test,51234,51263,Clinical Excellence’s guidance,Internal_organ_or_component,51309,51319,lung volume,0.8623257
+TrAP,Test,51234,51263,Clinical Excellence’s guidance,Procedure,51436,51464,endobronchial valve insertion,0.6837843
+TrAP,Test,51234,51263,Clinical Excellence’s guidance,Internal_organ_or_component,51476,51486,lung volume,0.8875041
+TrAP,Test,51234,51263,Clinical Excellence’s guidance,Disease_Syndrome_Disorder,51491,51499,emphysema,0.95213115
+TrAP,Procedure,51268,51297,“Endobronchial valve insertion,Internal_organ_or_component,51309,51319,lung volume,0.9626997
+TrAP,Procedure,51268,51297,“Endobronchial valve insertion,Procedure,51436,51464,endobronchial valve insertion,0.59265494
+TrAP,Procedure,51268,51297,“Endobronchial valve insertion,Internal_organ_or_component,51476,51486,lung volume,0.9475574
+TrAP,Procedure,51268,51297,“Endobronchial valve insertion,Disease_Syndrome_Disorder,51491,51499,emphysema,0.9826034
+TrAP,Internal_organ_or_component,51309,51319,lung volume,Procedure,51436,51464,endobronchial valve insertion,0.95250213
+TrAP,Internal_organ_or_component,51309,51319,lung volume,Internal_organ_or_component,51476,51486,lung volume,0.7393576
+TrAP,Procedure,51436,51464,endobronchial valve insertion,Internal_organ_or_component,51476,51486,lung volume,0.9476259
+TrAP,Procedure,51436,51464,endobronchial valve insertion,Disease_Syndrome_Disorder,51491,51499,emphysema,0.97249717
+TrAP,Clinical_Dept,51705,51727,multi-disciplinary team,Modifier,51744,51751,managing,0.84130776
+TrAP,Clinical_Dept,51705,51727,multi-disciplinary team,Disease_Syndrome_Disorder,51753,51761,emphysema,0.743753
+PIP,Modifier,51744,51751,managing,Disease_Syndrome_Disorder,51753,51761,emphysema,0.58612293
+TrAP,Modifier,51744,51751,managing,Employment,51797,51811,chest physician,0.7853315
+TrAP,Modifier,51744,51751,managing,Employment,51816,51826,radiologist,0.5656335
+TrAP,Modifier,51744,51751,managing,Employment,51831,51846,thoracic surgeon,0.8123829
+TrAP,Modifier,51744,51751,managing,Employment,51854,51870,respiratory nurse,0.8051429
+TrAP,Disease_Syndrome_Disorder,51753,51761,emphysema,Employment,51797,51811,chest physician,0.6679492
+TrAP,Disease_Syndrome_Disorder,51753,51761,emphysema,Employment,51831,51846,thoracic surgeon,0.8045231
+TrAP,Disease_Syndrome_Disorder,51753,51761,emphysema,Employment,51854,51870,respiratory nurse,0.6943117
+TrAP,Modifier,52149,52155,Chronic,Disease_Syndrome_Disorder,52157,52182,Obstructive Lung Disease’s,0.808162
+TrAP,Modifier,52149,52155,Chronic,Modifier,52250,52256,chronic,0.89390993
+TrAP,Modifier,52149,52155,Chronic,Disease_Syndrome_Disorder,52258,52287,obstructive pulmonary disease”,0.8884262
+TrAP,Modifier,52149,52155,Chronic,Date,52339,52342,2010,0.88153243
+TrAP,Modifier,52149,52155,Chronic,Procedure,52367,52384,endobronchial vale,0.97199124
+TrAP,Modifier,52149,52155,Chronic,Modifier,52407,52413,advance,0.93263525
+TrAP,Modifier,52149,52155,Chronic,Disease_Syndrome_Disorder,52415,52423,emphysema,0.8454498
+TrAP,Disease_Syndrome_Disorder,52157,52182,Obstructive Lung Disease’s,Modifier,52250,52256,chronic,0.9212936
+TrAP,Disease_Syndrome_Disorder,52157,52182,Obstructive Lung Disease’s,Disease_Syndrome_Disorder,52258,52287,obstructive pulmonary disease”,0.8147166
+TrAP,Disease_Syndrome_Disorder,52157,52182,Obstructive Lung Disease’s,Date,52339,52342,2010,0.9106496
+TrAP,Disease_Syndrome_Disorder,52157,52182,Obstructive Lung Disease’s,Procedure,52367,52384,endobronchial vale,0.91800165
+TrAP,Disease_Syndrome_Disorder,52157,52182,Obstructive Lung Disease’s,Modifier,52407,52413,advance,0.95830435
+TrAP,Disease_Syndrome_Disorder,52157,52182,Obstructive Lung Disease’s,Disease_Syndrome_Disorder,52415,52423,emphysema,0.93769306
+TrAP,Modifier,52250,52256,chronic,Disease_Syndrome_Disorder,52258,52287,obstructive pulmonary disease”,0.84114385
+TrAP,Modifier,52250,52256,chronic,Date,52339,52342,2010,0.87589175
+TrAP,Modifier,52250,52256,chronic,Procedure,52367,52384,endobronchial vale,0.9853129
+TrAP,Modifier,52250,52256,chronic,Modifier,52407,52413,advance,0.8496495
+TrAP,Modifier,52250,52256,chronic,Disease_Syndrome_Disorder,52415,52423,emphysema,0.9627397
+TrAP,Disease_Syndrome_Disorder,52258,52287,obstructive pulmonary disease”,Date,52339,52342,2010,0.5856688
+TrAP,Disease_Syndrome_Disorder,52258,52287,obstructive pulmonary disease”,Procedure,52367,52384,endobronchial vale,0.9808812
+TrAP,Disease_Syndrome_Disorder,52258,52287,obstructive pulmonary disease”,Modifier,52407,52413,advance,0.9355387
+TrAP,Disease_Syndrome_Disorder,52258,52287,obstructive pulmonary disease”,Disease_Syndrome_Disorder,52415,52423,emphysema,0.9578628
+TrAP,Date,52339,52342,2010,Procedure,52367,52384,endobronchial vale,0.9000404
+TrAP,Date,52339,52342,2010,Modifier,52407,52413,advance,0.90432584
+TrAP,Date,52339,52342,2010,Disease_Syndrome_Disorder,52415,52423,emphysema,0.82554257
+TrAP,Procedure,52367,52384,endobronchial vale,Modifier,52407,52413,advance,0.9933062
+TrAP,Procedure,52367,52384,endobronchial vale,Disease_Syndrome_Disorder,52415,52423,emphysema,0.99414116
+TrAP,Modifier,52407,52413,advance,Disease_Syndrome_Disorder,52415,52423,emphysema,0.92723155
+TrAP,Procedure,52441,52478,“choosing bronchoscopic lung reduction,Procedure,52574,52577,LVRS,0.5891022
+TrAP,Procedure,52441,52478,“choosing bronchoscopic lung reduction,Disease_Syndrome_Disorder,52611,52623,emphysematous,0.9558542
+TrAP,Procedure,52481,52494,coil placement,Disease_Syndrome_Disorder,52611,52623,emphysematous,0.9689613
+TrAP,Procedure,52499,52517,endobronchial valve,Disease_Syndrome_Disorder,52611,52623,emphysematous,0.9479813
+TrAP,Procedure,52523,52540,surgical resection,Disease_Syndrome_Disorder,52611,52623,emphysematous,0.9584077
+TrAP,Procedure,52543,52571,lung volume reduction surgery,Disease_Syndrome_Disorder,52611,52623,emphysematous,0.8891644
+TrAP,Procedure,52574,52577,LVRS,Disease_Syndrome_Disorder,52611,52623,emphysematous,0.9642927
+TeRP,Disease_Syndrome_Disorder,52707,52715,emphysema,Test,52731,52765,high-resolution computed tomography,0.96694005
+TeRP,Disease_Syndrome_Disorder,52707,52715,emphysema,Test,52768,52771,HRCT,0.8035508
+PIP,Disease_Syndrome_Disorder,52707,52715,emphysema,Test,52791,52823,interlobar collateral ventilation,0.68529004
+TeRP,Disease_Syndrome_Disorder,52707,52715,emphysema,Test,52858,52861,HRCT,0.80841726
+TeRP,Disease_Syndrome_Disorder,52707,52715,emphysema,Test,52866,52889,physiological assessment,0.7590702
+TeRP,Test,52731,52765,high-resolution computed tomography,Test,52791,52823,interlobar collateral ventilation,0.9585113
+TeRP,Test,52731,52765,high-resolution computed tomography,Test,52858,52861,HRCT,0.7785136
+TeRP,Test,52768,52771,HRCT,Test,52791,52823,interlobar collateral ventilation,0.56598896
+TeRP,Test,52791,52823,interlobar collateral ventilation,Test,52858,52861,HRCT,0.7973072
+TeRP,Test,52791,52823,interlobar collateral ventilation,Test,52866,52889,physiological assessment,0.60052145
+TrAP,Test,52791,52823,interlobar collateral ventilation,Procedure,52892,52919,endoscopic balloon occlusion,0.72576785
+PIP,Modifier,53091,53118,heterogeneous or homogeneous,Disease_Syndrome_Disorder,53120,53128,emphysema,0.9331028
+TrAP,Modifier,53091,53118,heterogeneous or homogeneous,Procedure,53200,53255,surgical or bronchoscopic modes of lung volume reduction,0.98304707
+TrAP,Modifier,53091,53118,heterogeneous or homogeneous,Medical_Device,53264,53289,endobronchial 1-way valves,0.9529776
+TrAP,Modifier,53091,53118,heterogeneous or homogeneous,Medical_Device,53294,53303,lung coils,0.9749361
+TrAP,Disease_Syndrome_Disorder,53120,53128,emphysema,Procedure,53200,53255,surgical or bronchoscopic modes of lung volume reduction,0.9786643
+TrAP,Disease_Syndrome_Disorder,53120,53128,emphysema,Medical_Device,53264,53289,endobronchial 1-way valves,0.970122
+TrAP,Disease_Syndrome_Disorder,53120,53128,emphysema,Medical_Device,53294,53303,lung coils,0.9674013
+TrAP,Procedure,53200,53255,surgical or bronchoscopic modes of lung volume reduction,Medical_Device,53264,53289,endobronchial 1-way valves,0.70377773
+TrAP,Procedure,53200,53255,surgical or bronchoscopic modes of lung volume reduction,Medical_Device,53294,53303,lung coils,0.6369664
+TrAP,Modifier,53351,53358,advanced,Disease_Syndrome_Disorder,53360,53382,emphysema bronchoscopic,0.9540374
+TrAP,Modifier,53351,53358,advanced,RelativeDate,53500,53523,6 to 12 months following,0.76348895
+TrAP,Disease_Syndrome_Disorder,53360,53382,emphysema bronchoscopic,Symptom,53405,53430,end-expiratory lung volume,0.8094296
+TrAP,Disease_Syndrome_Disorder,53360,53382,emphysema bronchoscopic,Internal_organ_or_component,53483,53486,lung,0.79584795
+TrAP,Disease_Syndrome_Disorder,53360,53382,emphysema bronchoscopic,RelativeDate,53500,53523,6 to 12 months following,0.74348074
+TrAP,Date,53601,53613,"June 29, 2018",Symptom,53718,53737,breathing difficulty,0.8320482
+TrAP,Date,53601,53613,"June 29, 2018",Modifier,53755,53760,severe,0.6502122
+TrAP,Medical_Device,53637,53662,Zephyr Endobronchial Valve,Symptom,53718,53737,breathing difficulty,0.98531693
+TrAP,Medical_Device,53637,53662,Zephyr Endobronchial Valve,Modifier,53755,53760,severe,0.9764899
+TrAP,Medical_Device,53637,53662,Zephyr Endobronchial Valve,Disease_Syndrome_Disorder,53762,53770,emphysema,0.98572284
+TrAP,Medical_Device,53665,53676,Zephyr Valve,Symptom,53718,53737,breathing difficulty,0.9722012
+TrAP,Medical_Device,53665,53676,Zephyr Valve,Modifier,53755,53760,severe,0.9593695
+TrAP,Medical_Device,53665,53676,Zephyr Valve,Disease_Syndrome_Disorder,53762,53770,emphysema,0.9770637
+PIP,Symptom,53718,53737,breathing difficulty,Modifier,53755,53760,severe,0.9967429
+PIP,Symptom,53718,53737,breathing difficulty,Disease_Syndrome_Disorder,53762,53770,emphysema,0.9956442
+PIP,Modifier,53755,53760,severe,Disease_Syndrome_Disorder,53762,53770,emphysema,0.98370636
+TrAP,Medical_Device,53778,53796,Zephyr Valve device,Modifier,53835,53840,active,0.71333057
+TrAP,Medical_Device,53778,53796,Zephyr Valve device,Disease_Syndrome_Disorder,53842,53856,lung infections,0.727444
+TrNAP,Medical_Device,53778,53796,Zephyr Valve device,Disease_Syndrome_Disorder,53873,53880,allergic,0.57045865
+TrNAP,Medical_Device,53778,53796,Zephyr Valve device,Medical_Device,53885,53891,nitinol,0.56996614
+TrNAP,Medical_Device,53778,53796,Zephyr Valve device,Medical_Device,53902,53909,titanium,0.56933147
+TrNAP,Medical_Device,53778,53796,Zephyr Valve device,Medical_Device,53914,53921,silicone,0.5670806
+TrAP,Medical_Device,53778,53796,Zephyr Valve device,Smoking,53931,53937,smokers,0.5205377
+PIP,Modifier,53835,53840,active,Disease_Syndrome_Disorder,53842,53856,lung infections,0.94024295
+TrCP,Modifier,53835,53840,active,Medical_Device,53885,53891,nitinol,0.9064486
+TrCP,Modifier,53835,53840,active,Drug_Ingredient,53894,53899,nickel,0.81920946
+TrCP,Modifier,53835,53840,active,Medical_Device,53902,53909,titanium,0.54112655
+TrCP,Modifier,53835,53840,active,Medical_Device,53914,53921,silicone,0.6809656
+TrAP,Modifier,53835,53840,active,Procedure,53982,54004,bronchoscopic procedure,0.68664837
+TrCP,Disease_Syndrome_Disorder,53842,53856,lung infections,Medical_Device,53885,53891,nitinol,0.75781786
+TrCP,Disease_Syndrome_Disorder,53842,53856,lung infections,Medical_Device,53914,53921,silicone,0.69414496
+TrAP,Disease_Syndrome_Disorder,53842,53856,lung infections,Procedure,53982,54004,bronchoscopic procedure,0.65684634
+TrCP,Disease_Syndrome_Disorder,53873,53880,allergic,Medical_Device,53885,53891,nitinol,0.9951633
+TrCP,Disease_Syndrome_Disorder,53873,53880,allergic,Drug_Ingredient,53894,53899,nickel,0.9786606
+TrCP,Disease_Syndrome_Disorder,53873,53880,allergic,Medical_Device,53902,53909,titanium,0.97267836
+TrCP,Disease_Syndrome_Disorder,53873,53880,allergic,Medical_Device,53914,53921,silicone,0.9549481
+TrCP,Disease_Syndrome_Disorder,53873,53880,allergic,Procedure,53982,54004,bronchoscopic procedure,0.7962168
+TrCP,Medical_Device,53885,53891,nitinol,Medical_Device,53902,53909,titanium,0.7047781
+TrCP,Medical_Device,53885,53891,nitinol,Smoking,53931,53937,smokers,0.6415105
+TrCP,Drug_Ingredient,53894,53899,nickel,Smoking,53931,53937,smokers,0.6980116
+TrCP,Medical_Device,53914,53921,silicone,Smoking,53931,53937,smokers,0.6265064
+PIP,Heart_Disease,54053,54065,heart disease,Modifier,54068,54072,large,0.63048893
+TrAP,Heart_Disease,54053,54065,heart disease,Medical_Device,54208,54226,Zephyr Valve device,0.7599194
+PIP,Modifier,54068,54072,large,Symptom,54074,54107,bubbles of air trapped in the lung,0.71764475
+TrAP,Modifier,54068,54072,large,Medical_Device,54208,54226,Zephyr Valve device,0.54172987
+TrAP,Symptom,54074,54107,bubbles of air trapped in the lung,Medical_Device,54208,54226,Zephyr Valve device,0.8817347
+TrAP,Date,54284,54299,"December 3, 2018",Medical_Device,54323,54344,Spiration Valve System,0.54188377
+TrAP,Date,54284,54299,"December 3, 2018",Modifier,54434,54439,severe,0.575817
+TrAP,Date,54284,54299,"December 3, 2018",Disease_Syndrome_Disorder,54441,54449,emphysema,0.5512393
+TrAP,Date,54284,54299,"December 3, 2018",Treatment,54497,54520,pulmonary rehabilitation,0.5632012
+TrAP,Date,54284,54299,"December 3, 2018",Oxygen_Therapy,54527,54532,oxygen,0.5467898
+TrAP,Medical_Device,54323,54344,Spiration Valve System,Internal_organ_or_component,54388,54392,lungs,0.97870034
+TrAP,Medical_Device,54323,54344,Spiration Valve System,Modifier,54434,54439,severe,0.992203
+TrAP,Medical_Device,54323,54344,Spiration Valve System,Disease_Syndrome_Disorder,54441,54449,emphysema,0.991234
+TrAP,Medical_Device,54323,54344,Spiration Valve System,Treatment,54497,54520,pulmonary rehabilitation,0.95197266
+TrAP,Medical_Device,54323,54344,Spiration Valve System,Oxygen_Therapy,54527,54532,oxygen,0.8994693
+PIP,Internal_organ_or_component,54388,54392,lungs,Modifier,54434,54439,severe,0.7461777
+PIP,Internal_organ_or_component,54388,54392,lungs,Disease_Syndrome_Disorder,54441,54449,emphysema,0.9041894
+TrAP,Internal_organ_or_component,54388,54392,lungs,Treatment,54497,54520,pulmonary rehabilitation,0.887284
+TrAP,Internal_organ_or_component,54388,54392,lungs,Oxygen_Therapy,54527,54532,oxygen,0.94678533
+PIP,Modifier,54434,54439,severe,Disease_Syndrome_Disorder,54441,54449,emphysema,0.99220544
+TrAP,Modifier,54434,54439,severe,Treatment,54497,54520,pulmonary rehabilitation,0.9468235
+TrAP,Modifier,54434,54439,severe,Oxygen_Therapy,54527,54532,oxygen,0.9897126
+TrAP,Disease_Syndrome_Disorder,54441,54449,emphysema,Treatment,54497,54520,pulmonary rehabilitation,0.9662455
+TrAP,Disease_Syndrome_Disorder,54441,54449,emphysema,Oxygen_Therapy,54527,54532,oxygen,0.9691711
+PIP,Disease_Syndrome_Disorder,54580,54583,COPD,Smoking,54654,54666,tobacco smoke,0.7856366
+TrAP,Medical_Device,54861,54882,Spiration Valve System,Disease_Syndrome_Disorder,54927,54930,COPD,0.97047454
+TrAP,Medical_Device,54861,54882,Spiration Valve System,Modifier,54946,54951,severe,0.7679324
+TrAP,Medical_Device,54861,54882,Spiration Valve System,Disease_Syndrome_Disorder,54953,54961,emphysema,0.8887587
+PIP,Disease_Syndrome_Disorder,54927,54930,COPD,Modifier,54946,54951,severe,0.9810448
+PIP,Disease_Syndrome_Disorder,54927,54930,COPD,Disease_Syndrome_Disorder,54953,54961,emphysema,0.82178986
+PIP,Modifier,54946,54951,severe,Disease_Syndrome_Disorder,54953,54961,emphysema,0.96062636
+PIP,Modifier,54979,54984,severe,Disease_Syndrome_Disorder,54986,55004,airflow obstruction,0.8990674
+PIP,Modifier,54979,54984,severe,Modifier,55007,55021,hyper-inflation,0.60999805
+PIP,Modifier,54979,54984,severe,Modifier,55028,55033,severe,0.62603307
+PIP,Modifier,54979,54984,severe,Symptom,55035,55041,dyspnea,0.9276649
+PIP,Modifier,54979,54984,severe,Internal_organ_or_component,55048,55065,interlobar fissure,0.94741476
+PIP,Disease_Syndrome_Disorder,54986,55004,airflow obstruction,Symptom,55035,55041,dyspnea,0.53445095
+PIP,Disease_Syndrome_Disorder,54986,55004,airflow obstruction,Internal_organ_or_component,55048,55065,interlobar fissure,0.85962117
+PIP,Modifier,55007,55021,hyper-inflation,Internal_organ_or_component,55048,55065,interlobar fissure,0.7769003
+PIP,Modifier,55028,55033,severe,Symptom,55035,55041,dyspnea,0.55222493
+PIP,Modifier,55028,55033,severe,Internal_organ_or_component,55048,55065,interlobar fissure,0.9829646
+PIP,Symptom,55035,55041,dyspnea,Internal_organ_or_component,55048,55065,interlobar fissure,0.97578603
+PIP,Modifier,55926,55930,acute,Modifier,55932,55944,exacerbations,0.9886642
+PIP,Modifier,55926,55930,acute,Disease_Syndrome_Disorder,55949,55952,COPD,0.9905211
+PIP,Modifier,55926,55930,acute,Internal_organ_or_component,55962,55967,groups,0.9674587
+PIP,Modifier,55932,55944,exacerbations,Disease_Syndrome_Disorder,55949,55952,COPD,0.9938299
+PIP,Modifier,55932,55944,exacerbations,Internal_organ_or_component,55962,55967,groups,0.8557106
+PIP,Disease_Syndrome_Disorder,55949,55952,COPD,Internal_organ_or_component,55962,55967,groups,0.8601359
+PIP,Modifier,56133,56138,severe,Disease_Syndrome_Disorder,56140,56148,emphysema,0.6065908
+PIP,Age,56364,56367,aged,Modifier,56415,56420,severe,0.5883843
+PIP,Age,56364,56367,aged,Modifier,56423,56435,heterogeneous,0.77173615
+PIP,Age,56364,56367,aged,Disease_Syndrome_Disorder,56437,56445,emphysema,0.5990556
+PIP,Age,56394,56408,40 years of age,Modifier,56415,56420,severe,0.8004228
+PIP,Age,56394,56408,40 years of age,Modifier,56423,56435,heterogeneous,0.50203156
+PIP,Age,56394,56408,40 years of age,Disease_Syndrome_Disorder,56437,56445,emphysema,0.6829551
+PIP,Modifier,56415,56420,severe,Modifier,56423,56435,heterogeneous,0.5844687
+PIP,Modifier,56415,56420,severe,Disease_Syndrome_Disorder,56437,56445,emphysema,0.81051517
+PIP,Modifier,56423,56435,heterogeneous,Disease_Syndrome_Disorder,56437,56445,emphysema,0.7994667
+PIP,Disease_Syndrome_Disorder,57553,57574,Composite thoracic SAE,Modifier,57701,57707,serious,0.97856414
+PIP,Disease_Syndrome_Disorder,57553,57574,Composite thoracic SAE,Disease_Syndrome_Disorder,57709,57720,pneumothorax,0.8929073
+PIP,Modifier,57701,57707,serious,Disease_Syndrome_Disorder,57709,57720,pneumothorax,0.9779022
+PIP,Modifier,57768,57773,severe,Modifier,57775,57787,heterogeneous,0.96406597
+PIP,Modifier,57768,57773,severe,Disease_Syndrome_Disorder,57789,57797,emphysema,0.97736347
+PIP,Modifier,57775,57787,heterogeneous,Disease_Syndrome_Disorder,57789,57797,emphysema,0.9366123
+PIP,Modifier,58928,58941,post-operative,Symptom,58943,58945,AEs,0.54326016
+PIP,Modifier,59028,59041,post-operative,Symptom,59043,59050,air leak,0.90720797
+TrAP,Modifier,59028,59041,post-operative,Procedure,59103,59122,chest tube placement,0.5112069
+PIP,Modifier,59028,59041,post-operative,Modifier,59183,59196,post-operative,0.74075603
+PIP,Modifier,59028,59041,post-operative,Symptom,59198,59205,air leak,0.7970528
+PIP,Symptom,59043,59050,air leak,Modifier,59183,59196,post-operative,0.7810894
+PIP,Symptom,59043,59050,air leak,Symptom,59198,59205,air leak,0.584679
+PIP,Modifier,59183,59196,post-operative,Symptom,59198,59205,air leak,0.5138397
+TrCP,Medical_Device,60091,60123,traditional chest drainage system,Modifier,60176,60184,prolonged,0.61568
+PIP,Modifier,60176,60184,prolonged,Symptom,60186,60193,air leak,0.9092785
+PIP,Modifier,60176,60184,prolonged,Procedure,60442,60460,pulmonary resection,0.775949
+PIP,Symptom,60186,60193,air leak,Procedure,60442,60460,pulmonary resection,0.64991635
+TrAP,Test_Result,60830,60837,Positive,Test,60839,60858,Pressure Ventilation,0.94473636
+TrAP,Test_Result,60830,60837,Positive,Procedure,60898,60916,Pulmonary Resection,0.85911036
+TrAP,Test_Result,60830,60837,Positive,Oncological,60921,60931,Lung Cancer,0.93082017
+TrAP,Test,60839,60858,Pressure Ventilation,Procedure,60898,60916,Pulmonary Resection,0.80864996
+TrAP,Test,60839,60858,Pressure Ventilation,Oncological,60921,60931,Lung Cancer,0.9804695
+TrAP,Procedure,60898,60916,Pulmonary Resection,Oncological,60921,60931,Lung Cancer,0.9088672
+TrCP,Symptom,60983,61005,pulmonary complications,Procedure,61069,61082,lung resection,0.9073146
+PIP,Symptom,60983,61005,pulmonary complications,Oncological,61102,61112,lung cancer,0.97139615
+TrAP,Test,61320,61331,Non-invasive,Symptom,61439,61461,pulmonary complications,0.7313941
+TrAP,Test_Result,61333,61340,positive,Symptom,61439,61461,pulmonary complications,0.8241109
+TrAP,Test,61342,61361,pressure ventilation,Symptom,61439,61461,pulmonary complications,0.70964825
+TrAP,Oxygen_Therapy,61364,61368,NIPPV,Symptom,61439,61461,pulmonary complications,0.66182476
+TrAP,Oxygen_Therapy,61588,61592,NIPPV,Procedure,61645,61663,pulmonary resection,0.5818439
+TrAP,Oxygen_Therapy,61588,61592,NIPPV,Oncological,61669,61679,lung cancer,0.9401949
+TrAP,Procedure,61645,61663,pulmonary resection,Oncological,61669,61679,lung cancer,0.98977965
+TrAP,Symptom,63120,63142,pulmonary complications,Oxygen_Therapy,63192,63196,NIPPV,0.51676804
+PIP,Modifier,64540,64545,severe,Disease_Syndrome_Disorder,64547,64553,disease,0.8656333
+TrAP,Oxygen_Therapy,64839,64843,NIPPV,Disease_Syndrome_Disorder,64927,64949,pulmonary complications,0.511332
+TrCP,Disease_Syndrome_Disorder,64927,64949,pulmonary complications,Oxygen_Therapy,65101,65105,NIPPV,0.6902373
+TrCP,Procedure,64960,64969,intubation,Oxygen_Therapy,65101,65105,NIPPV,0.56784433
+TrAP,Procedure,65425,65460,Bronchoscopic Thermal Vapor Ablation,Disease_Syndrome_Disorder,65483,65502,Upper-Lobe Emphysema,0.9952324
+TrAP,Procedure,65587,65616,surgical lung volume reduction,Disease_Syndrome_Disorder,65722,65730,emphysema,0.7941526
+TrAP,Procedure,65777,65812,bronchoscopic thermal vapor ablation,Disease_Syndrome_Disorder,65867,65875,emphysema,0.889066
+PIP,Direction,65907,65911,upper,Disease_Syndrome_Disorder,65913,65938,lobe-predominant emphysema,0.7522892
+TrAP,Direction,65907,65911,upper,Direction,65953,65964,unilaterally,0.96759105
+TrAP,Direction,65907,65911,upper,Drug_BrandName,65971,65974,BTVA,0.9628109
+TrAP,Disease_Syndrome_Disorder,65913,65938,lobe-predominant emphysema,Direction,65953,65964,unilaterally,0.9688098
+TrAP,Disease_Syndrome_Disorder,65913,65938,lobe-predominant emphysema,Drug_BrandName,65971,65974,BTVA,0.9858357
+TeRP,Age,66003,66023,age of 40 to 75 years,Test,66168,66171,HRCT,0.67571586
+TeRP,Test,66099,66117,heterogeneity index,Test,66168,66171,HRCT,0.57837504
+TeRP,Test,66120,66160,tissue/air ratio of lower lobe/upper lobe,Test,66168,66171,HRCT,0.8573828
+TeRP,Test,66168,66171,HRCT,Test_Result,66176,66203,greater than or equal to 1.2,0.8462948
+TeRP,Symptom,66207,66221,Changes in FEV1,Symptom,66260,66273,hyperinflation,0.6166204
+TrIP,Treatment,66813,66824,BTVA therapy,Internal_organ_or_component,66874,66877,lung,0.6165242
+TrIP,Treatment,66813,66824,BTVA therapy,Internal_organ_or_component,66919,66928,upper lobe,0.903619
+TrIP,Treatment,66813,66824,BTVA therapy,Modifier,66930,66940,predominant,0.8273329
+TrIP,Treatment,66813,66824,BTVA therapy,Disease_Syndrome_Disorder,66942,66950,emphysema,0.6796574
+PIP,Internal_organ_or_component,66919,66928,upper lobe,Modifier,66930,66940,predominant,0.9712308
+PIP,Internal_organ_or_component,66919,66928,upper lobe,Disease_Syndrome_Disorder,66942,66950,emphysema,0.96217674
+PIP,Modifier,66930,66940,predominant,Disease_Syndrome_Disorder,66942,66950,emphysema,0.934447
+PIP,Disease_Syndrome_Disorder,67664,67692,GOLD stage III and IV disease,Modifier,67735,67745,significant,0.9473192
+PIP,Disease_Syndrome_Disorder,67664,67692,GOLD stage III and IV disease,Symptom,67747,67779,impairments in health-related QOL,0.8070414
+TrWP,Disease_Syndrome_Disorder,67664,67692,GOLD stage III and IV disease,Treatment,67815,67838,pulmonary rehabilitation,0.6920784
+PIP,Modifier,67735,67745,significant,Symptom,67747,67779,impairments in health-related QOL,0.8765567
+TrWP,Modifier,67735,67745,significant,Treatment,67815,67838,pulmonary rehabilitation,0.8186858
+TrWP,Symptom,67747,67779,impairments in health-related QOL,Treatment,67815,67838,pulmonary rehabilitation,0.59814495
+TrAP,Procedure,68488,68519,endoscopic lung volume reduction,Procedure,68552,68576,hyper-inflation reduction,0.5814257
+TrAP,Procedure,68488,68519,endoscopic lung volume reduction,Modifier,68595,68602,advanced,0.88328445
+TrAP,Procedure,68488,68519,endoscopic lung volume reduction,Disease_Syndrome_Disorder,68604,68612,emphysema,0.8579382
+TrAP,Procedure,68522,68525,ELVR,Procedure,68552,68576,hyper-inflation reduction,0.58267576
+TrAP,Procedure,68522,68525,ELVR,Modifier,68595,68602,advanced,0.90186965
+TrAP,Procedure,68522,68525,ELVR,Disease_Syndrome_Disorder,68604,68612,emphysema,0.8784985
+TrAP,Procedure,68552,68576,hyper-inflation reduction,Modifier,68595,68602,advanced,0.94947386
+TrAP,Procedure,68552,68576,hyper-inflation reduction,Disease_Syndrome_Disorder,68604,68612,emphysema,0.963452
+TrIP,Procedure,68661,68684,segmental vapor ablation,Internal_organ_or_component,68719,68724,tissue,0.51594776
+TrIP,Procedure,68661,68684,segmental vapor ablation,Procedure,68730,68745,volume reduction,0.6343336
+TrIP,Procedure,68661,68684,segmental vapor ablation,Symptom,68768,68789,emphysematous segments,0.6790576
+PIP,Symptom,68690,68710,inflammatory response,Internal_organ_or_component,68719,68724,tissue,0.94298375
+PIP,Symptom,68690,68710,inflammatory response,Procedure,68730,68745,volume reduction,0.5831035
+PIP,Symptom,68690,68710,inflammatory response,Modifier,68759,68766,diseased,0.8459088
+PIP,Symptom,68690,68710,inflammatory response,Symptom,68768,68789,emphysematous segments,0.9657905
+PIP,Internal_organ_or_component,68719,68724,tissue,Modifier,68759,68766,diseased,0.56963986
+PIP,Internal_organ_or_component,68719,68724,tissue,Symptom,68768,68789,emphysematous segments,0.6380806
+PIP,Modifier,68759,68766,diseased,Symptom,68768,68789,emphysematous segments,0.9672746
+PIP,Direction,68952,68956,upper,Disease_Syndrome_Disorder,68958,68983,lobe-predominant emphysema,0.83557475
+PIP,Direction,69133,69137,upper,Disease_Syndrome_Disorder,69139,69164,lobe-predominant emphysema,0.81015766
+TrAP,Direction,69133,69137,upper,Procedure,69318,69331,BTVA treatment,0.98505545
+TrAP,Disease_Syndrome_Disorder,69139,69164,lobe-predominant emphysema,Procedure,69318,69331,BTVA treatment,0.9922125
+PIP,Disease_Syndrome_Disorder,69438,69446,emphysema,Direction,69515,69525,ipsilateral,0.6717432
+PIP,Modifier,69923,69931,localized,Symptom,69933,69953,inflammatory reaction,0.98966986
+TrAP,Clinical_Dept,70251,70268,National Institute,Procedure,70341,70377,“Bronchoscopic thermal vapor ablation,0.8192189
+TrAP,Clinical_Dept,70251,70268,National Institute,Procedure,70506,70541,bronchoscopic thermal vapor ablation,0.96698487
+TrAP,Clinical_Dept,70251,70268,National Institute,Disease_Syndrome_Disorder,70547,70566,upper-lobe emphysema,0.929627
+TrAP,Procedure,70341,70377,“Bronchoscopic thermal vapor ablation,Procedure,70506,70541,bronchoscopic thermal vapor ablation,0.98342186
+TrAP,Procedure,70341,70377,“Bronchoscopic thermal vapor ablation,Disease_Syndrome_Disorder,70547,70566,upper-lobe emphysema,0.9867194
+TrAP,Procedure,70341,70377,“Bronchoscopic thermal vapor ablation,Symptom,70571,70604,inadequate in quantity and quality,0.9631414
+TrAP,Procedure,70506,70541,bronchoscopic thermal vapor ablation,Disease_Syndrome_Disorder,70547,70566,upper-lobe emphysema,0.9935144
+TrAP,Procedure,70506,70541,bronchoscopic thermal vapor ablation,Symptom,70571,70604,inadequate in quantity and quality,0.6097852
+TrAP,Disease_Syndrome_Disorder,70547,70566,upper-lobe emphysema,Symptom,70571,70604,inadequate in quantity and quality,0.67244375
+TrAP,Procedure,71548,71561,vapor ablation,Procedure,71604,71624,lung volume reduction,0.5025694
+TrAP,Procedure,71548,71561,vapor ablation,Disease_Syndrome_Disorder,71629,71637,emphysema,0.8153423
+TrAP,Procedure,71604,71624,lung volume reduction,Disease_Syndrome_Disorder,71629,71637,emphysema,0.8101519
+PIP,Disease_Syndrome_Disorder,71756,71766,Pneumonitis,Disease_Syndrome_Disorder,71772,71780,infection,0.8980095
+PIP,Disease_Syndrome_Disorder,72101,72104,COPD,Modifier,72111,72119,prevalent,0.97574097
+PIP,Disease_Syndrome_Disorder,72101,72104,COPD,Modifier,72125,72135,progressive,0.9816405
+PIP,Disease_Syndrome_Disorder,72101,72104,COPD,Disease_Syndrome_Disorder,72137,72143,disease,0.98772997
+PIP,Modifier,72111,72119,prevalent,Modifier,72125,72135,progressive,0.9195694
+PIP,Modifier,72111,72119,prevalent,Disease_Syndrome_Disorder,72137,72143,disease,0.9164752
+PIP,Modifier,72125,72135,progressive,Disease_Syndrome_Disorder,72137,72143,disease,0.93130046
+TrAP,Procedure,72170,72184,BLVR techniques,Modifier,72255,72260,severe,0.9417386
+TrAP,Procedure,72170,72184,BLVR techniques,Disease_Syndrome_Disorder,72262,72270,emphysema,0.96023476
+TrAP,Procedure,72170,72184,BLVR techniques,Procedure,72273,72309,EBV/IBV achieve lung volume reduction,0.64563143
+TrAP,Procedure,72170,72184,BLVR techniques,Disease_Syndrome_Disorder,72314,72330,lobar atelectasis,0.82773405
+PIP,Modifier,72255,72260,severe,Disease_Syndrome_Disorder,72262,72270,emphysema,0.97388566
+TrAP,Modifier,72255,72260,severe,Procedure,72273,72309,EBV/IBV achieve lung volume reduction,0.70682347
+PIP,Modifier,72255,72260,severe,Disease_Syndrome_Disorder,72314,72330,lobar atelectasis,0.56019855
+TrAP,Disease_Syndrome_Disorder,72262,72270,emphysema,Procedure,72273,72309,EBV/IBV achieve lung volume reduction,0.9019379
+PIP,Disease_Syndrome_Disorder,72262,72270,emphysema,Disease_Syndrome_Disorder,72314,72330,lobar atelectasis,0.69359034
+TrCP,Medical_Device,72338,72364,lung volume reduction coils,Symptom,72390,72407,tissue compression,0.6970716
+TrCP,Medical_Device,72338,72364,lung volume reduction coils,Symptom,72441,72462,inflammatory processes,0.6891882
+TrCP,Internal_organ_or_component,72367,72371,LVRCs,Symptom,72390,72407,tissue compression,0.65450233
+PIP,Internal_organ_or_component,72367,72371,LVRCs,Symptom,72441,72462,inflammatory processes,0.55048186
+TrCP,Internal_organ_or_component,72378,72381,BTVA,Symptom,72390,72407,tissue compression,0.62251663
+TrCP,Internal_organ_or_component,72378,72381,BTVA,Symptom,72441,72462,inflammatory processes,0.80752563
+PIP,Symptom,72390,72407,tissue compression,Symptom,72441,72462,inflammatory processes,0.8632234
+TrAP,Procedure,73095,73118,Thoracoscopic Bullectomy,Modifier,73171,73177,Primary,0.9834873
+TrAP,Procedure,73095,73118,Thoracoscopic Bullectomy,Disease_Syndrome_Disorder,73179,73202,Spontaneous Pneumothorax,0.9182024
+TrAP,Medical_Device,73128,73149,Trans-Areolar Approach,Modifier,73171,73177,Primary,0.9894667
+TrAP,Medical_Device,73128,73149,Trans-Areolar Approach,Disease_Syndrome_Disorder,73179,73202,Spontaneous Pneumothorax,0.9712035
+TrAP,Modifier,73171,73177,Primary,Disease_Syndrome_Disorder,73179,73202,Spontaneous Pneumothorax,0.5327157
+TrAP,Disease_Syndrome_Disorder,73265,73276,pneumothorax,Procedure,73310,73345,video-assisted thoracoscopic surgery,0.9875223
+TrAP,Disease_Syndrome_Disorder,73265,73276,pneumothorax,Procedure,73348,73351,VATS,0.98133093
+TrAP,Disease_Syndrome_Disorder,73265,73276,pneumothorax,Procedure,73354,73381,apical blebectomy/bullectomy,0.98399967
+TrAP,Disease_Syndrome_Disorder,73265,73276,pneumothorax,Procedure,73403,73413,pleurodesis,0.97890776
+TrAP,Drug_BrandName,73681,73693,VATS-directed,Drug_Ingredient,73711,73714,talc,0.5408421
+TrAP,Procedure,73940,73967,conventional tri-portal VATS,Modifier,74028,74034,primary,0.9952583
+TrAP,Procedure,73940,73967,conventional tri-portal VATS,Disease_Syndrome_Disorder,74036,74059,spontaneous pneumothorax,0.9871925
+PIP,Modifier,74028,74034,primary,Disease_Syndrome_Disorder,74036,74059,spontaneous pneumothorax,0.97063947
+TrAP,Age,74321,74323,112,Medical_Device,74410,74421,thoracoscope,0.52155674
+TrAP,Gender,74325,74328,male,Procedure,74358,74391,trans-areolar pulmonary bullectomy,0.84419954
+TrAP,Gender,74325,74328,male,Medical_Device,74410,74421,thoracoscope,0.6300391
+TrCP,Modifier,74996,75003,surgical,Symptom,75005,75008,scar,0.5469651
+PIP,Symptom,75005,75008,scar,External_body_part_or_region,75017,75026,chest wall,0.5218193
+TrAP,Procedure,75228,75261,trans-areolar pulmonary bullectomy,Test,75314,75316,PSP,0.96899855
+TrAP,Procedure,75228,75261,trans-areolar pulmonary bullectomy,Disease_Syndrome_Disorder,75328,75343,pulmonary bullae,0.9343278
+PIP,Test,75314,75316,PSP,Disease_Syndrome_Disorder,75328,75343,pulmonary bullae,0.9752734
+PIP,Disease_Syndrome_Disorder,75561,75574,common disease,Gender,75609,75611,men,0.8592804
+PIP,Employment,76053,76063,researchers,Symptom,76214,76218,wound,0.50242925
+PIP,Modifier,76133,76142,recurrence,Modifier,76205,76212,surgical,0.9081812
+PIP,Modifier,76133,76142,recurrence,Symptom,76214,76218,wound,0.9261801
+PIP,Modifier,76145,76157,wound-related,Modifier,76205,76212,surgical,0.97161305
+PIP,Modifier,76145,76157,wound-related,Symptom,76214,76218,wound,0.9643079
+PIP,Symptom,76159,76162,pain,Modifier,76205,76212,surgical,0.9703879
+PIP,Symptom,76159,76162,pain,Symptom,76214,76218,wound,0.90157074
+PIP,Symptom,76356,76361,Bullae,Internal_organ_or_component,76416,76419,lung,0.7743968
+PIP,Symptom,76367,76371,blebs,Internal_organ_or_component,76416,76419,lung,0.8285642
+TrAP,Procedure,77128,77175,trans-areolar thoracoscopic pulmonary bullectomy,Procedure,77181,77196,treatment of PSP,0.9805802
+TrAP,Procedure,77128,77175,trans-areolar thoracoscopic pulmonary bullectomy,Modifier,77260,77273,post-operative,0.7826603
+TrAP,Procedure,77128,77175,trans-areolar thoracoscopic pulmonary bullectomy,Symptom,77275,77278,pain,0.5175813
+TrAP,Procedure,77181,77196,treatment of PSP,Modifier,77260,77273,post-operative,0.6249114
+TrAP,Procedure,77181,77196,treatment of PSP,Symptom,77275,77278,pain,0.80569816
+TrAP,Medical_Device,77766,77788,Polyglycolic Acid Patch,Disease_Syndrome_Disorder,77810,77821,Pneumothorax,0.9828469
+TrAP,Medical_Device,77766,77788,Polyglycolic Acid Patch,Procedure,77826,77849,Thoracoscopic Bullectomy,0.93423164
+TrCP,Disease_Syndrome_Disorder,77810,77821,Pneumothorax,Procedure,77826,77849,Thoracoscopic Bullectomy,0.644445
+PIP,Modifier,78432,78453,average post-operative,Symptom,78455,78465,air leakage,0.5183494
+PIP,Symptom,78455,78465,air leakage,Symptom,78478,78486,air leaks,0.7322135
+PIP,Modifier,78468,78476,prolonged,Symptom,78478,78486,air leaks,0.6535094
+TrAP,Symptom,78478,78486,air leaks,Procedure,78489,78509,drainage tube removal,0.74264914
+PIP,Modifier,78765,78773,prolonged,Symptom,78775,78783,air leaks,0.8815806
+TrAP,Disease_Syndrome_Disorder,79106,79117,pneumothorax,Procedure,79122,79145,thoracoscopic bullectomy,0.8686797
+TrAP,Disease_Syndrome_Disorder,79106,79117,pneumothorax,Medical_Device,79161,79169,PGA patch,0.97521234
+PIP,Disease_Syndrome_Disorder,79106,79117,pneumothorax,Disease_Syndrome_Disorder,79202,79213,pneumothorax,0.54134524
+TrAP,Disease_Syndrome_Disorder,79106,79117,pneumothorax,Symptom,79239,79255,thoracic drainage,0.86026824
+PIP,Disease_Syndrome_Disorder,79106,79117,pneumothorax,Modifier,79271,79284,post-operative,0.55462873
+TrAP,Procedure,79122,79145,thoracoscopic bullectomy,Disease_Syndrome_Disorder,79202,79213,pneumothorax,0.76473266
+TrAP,Procedure,79122,79145,thoracoscopic bullectomy,Modifier,79261,79269,prolonged,0.5653428
+TrAP,Medical_Device,79161,79169,PGA patch,Disease_Syndrome_Disorder,79202,79213,pneumothorax,0.7590081
+TrAP,Medical_Device,79161,79169,PGA patch,Symptom,79239,79255,thoracic drainage,0.53762704
+TrAP,Medical_Device,79161,79169,PGA patch,Modifier,79261,79269,prolonged,0.5344945
+TrAP,Medical_Device,79161,79169,PGA patch,Modifier,79271,79284,post-operative,0.63293946
+TrAP,Medical_Device,79161,79169,PGA patch,Symptom,79286,79296,air leakage,0.7200847
+TrAP,Disease_Syndrome_Disorder,79202,79213,pneumothorax,Symptom,79239,79255,thoracic drainage,0.57114637
+PIP,Disease_Syndrome_Disorder,79202,79213,pneumothorax,Modifier,79261,79269,prolonged,0.7352003
+PIP,Disease_Syndrome_Disorder,79202,79213,pneumothorax,Modifier,79271,79284,post-operative,0.8219264
+PIP,Disease_Syndrome_Disorder,79202,79213,pneumothorax,Symptom,79286,79296,air leakage,0.78072757
+TrCP,Symptom,79239,79255,thoracic drainage,Modifier,79261,79269,prolonged,0.6196966
+TrCP,Symptom,79239,79255,thoracic drainage,Modifier,79271,79284,post-operative,0.5620024
+PIP,Modifier,79261,79269,prolonged,Modifier,79271,79284,post-operative,0.7968889
+PIP,Modifier,79261,79269,prolonged,Symptom,79286,79296,air leakage,0.78468245
+PIP,Modifier,79271,79284,post-operative,Symptom,79286,79296,air leakage,0.6489497
+PIP,Modifier,80433,80447,intra-operative,Disease_Syndrome_Disorder,80500,80518,pulmonary infection,0.707815
+PIP,Symptom,80449,80463,bleeding volume,Disease_Syndrome_Disorder,80500,80518,pulmonary infection,0.53850067
+PIP,Disease_Syndrome_Disorder,80500,80518,pulmonary infection,Heart_Disease,80521,80541,heart rate arrhythmia,0.6395248
+PIP,Disease_Syndrome_Disorder,80500,80518,pulmonary infection,Disease_Syndrome_Disorder,80544,80559,pleural effusion,0.8240905

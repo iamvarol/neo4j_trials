@@ -1,0 +1,1468 @@
+chunks,entities,assertion
+Lung Volume Reduction Surgery,Procedure,present
+lung volume reduction surgery,Procedure,present
+LVRS,Procedure,present
+LVRS,Procedure,present
+severe,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+disabling,Modifier,present
+dyspnea,Symptom,present
+severe,Modifier,present
+air trapping,Symptom,present
+National Emphysema,Disease_Syndrome_Disorder,present
+cardiac ejection fraction,Test,present
+less than 45 %,Test_Result,present
+congestive heart failure,Heart_Disease,absent
+myocardial infarction,Heart_Disease,absent
+6 months,RelativeDate,absent
+emphysema,Disease_Syndrome_Disorder,possible
+smoked,Smoking,absent
+for 4 or more months,Duration,absent
+CT scan,Test,hypothetical
+bilateral,Direction,hypothetical
+emphysema,Disease_Syndrome_Disorder,hypothetical
+Forced expiratory volume,Test,hypothetical
+FEV1,Test,hypothetical
+maximum of pre-,Test_Result,hypothetical
+post-bronchodilator values,Test,hypothetical
+less than or equal to 45 %,Test_Result,present
+aged 70 year,Age,hypothetical
+FEV1,Test,hypothetical
+15 % of predicted or more,Test_Result,present
+Plasma cotinine,Test,hypothetical
+less than or equal to 13.7 ng/ml,Test_Result,absent
+nicotine,Substance,hypothetical
+carboxyhemoglobin,Test,hypothetical
+less than or equal to 2.5 %,Test_Result,hypothetical
+nicotine products,Drug_Ingredient,hypothetical
+Post-bronchodilator total lung capacity,Test,hypothetical
+TLC,Test,hypothetical
+greater than or equal to 100 %,Test_Result,hypothetical
+RV,Test,hypothetical
+greater than or equal to 150 % of predicted value,Test_Result,hypothetical
+Resting partial pressure of carbon dioxide,Test,hypothetical
+PaCO2,Test,hypothetical
+less than or equal to 60 mm Hg on room air,Test_Result,present
+Resting partial pressure of oxygen,Test,present
+PaO2,Test,hypothetical
+45 mm Hg,Test_Result,hypothetical
+greater,Test_Result,hypothetical
+Six-minute walk test,Test,hypothetical
+greater than 140 meters,Test_Result,hypothetical
+Lung volume reduction surgery,Procedure,present
+Post-bronchodilator FEV1,Test,hypothetical
+20 %,Test_Result,possible
+carbon monoxide diffusion capacity,Test,present
+DLCO,Test,present
+20 %,Test_Result,present
+Persons,Gender,present
+death,Death_Entity,possible
+LVRS,Procedure,possible
+emphysema,Disease_Syndrome_Disorder,present
+CT scan,Test,present
+predominantly,Modifier,present
+non-upper lobe emphysema,Disease_Syndrome_Disorder,present
+high maximal work-load,Symptom,present
+after 3 mins,RelativeTime,associated_with_someone_else
+women,Gender,present
+men,Gender,present
+non-upper lobe,Internal_organ_or_component,present
+emphysema,Disease_Syndrome_Disorder,present
+CT,Test,present
+radiologist,Employment,present
+upper lobes of the lung,Internal_organ_or_component,present
+lower lobe,Internal_organ_or_component,present
+diffuse,Modifier,present
+superior segments,Internal_organ_or_component,possible
+lower lobes,Internal_organ_or_component,present
+Persons,Gender,present
+predominantly,Modifier,present
+non-upper-lobe,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+LVRS,Procedure,present
+Alpha-1 antitrypsin deficiency,Disease_Syndrome_Disorder,possible
+Clinically,Modifier,present
+significant,Modifier,present
+bronchiectasis,Disease_Syndrome_Disorder,present
+systemic disease,Disease_Syndrome_Disorder,associated_with_someone_else
+neoplasia,Oncological,associated_with_someone_else
+"compromise survival
+Giant bulla",Symptom,possible
+lung,Internal_organ_or_component,present
+bulla,Internal_organ_or_component,present
+recurrent,Modifier,present
+infections,Disease_Syndrome_Disorder,present
+clinically,Modifier,present
+significant,Modifier,present
+production of sputum,Symptom,present
+Oxygen,Oxygen_Therapy,present
+6 L/min,Dosage,present
+90 %,Strength,present
+Pleural or interstitial disease,Disease_Syndrome_Disorder,present
+lobectomy,Procedure,present
+LVRS,Procedure,present
+laser,Medical_Device,present
+excision,Procedure,possible
+Pulmonary hypertension,Heart_Disease,present
+mean pulmonary artery pressure,Test,present
+35 mm Hg,Test_Result,present
+right,Direction,absent
+heart catheterization,Procedure,present
+peak systolic pulmonary artery pressure,Test,present
+45 mm Hg,Test_Result,possible
+Right,Direction,present
+heart catheterization,Procedure,present
+pulmonary hypertension,Heart_Disease,possible
+peak systolic pulmonary artery pressure,Test,present
+greater than 45 mm Hg,Test_Result,present
+echocardiogram,Test,possible
+Pulmonary nodule,Symptom,present
+Resting,Modifier,present
+bradycardia,VS_Finding,present
+less than 50 beats/min,Modifier,present
+frequent,Modifier,present
+multifocal premature ventricular contractions,EKG_Findings,present
+PVCs,Heart_Disease,present
+complex ventricular arrhythmia,Heart_Disease,present
+sustained,Modifier,present
+supraventricular tachycardia,Heart_Disease,present
+SVT,Heart_Disease,present
+Uncontrolled,Modifier,present
+hypertension,Hypertension,present
+Unplanned,Modifier,present
+weight loss,Symptom,present
+within 3 months prior,RelativeDate,hypothetical
+lung volume reduction surgery,Procedure,present
+bullectomy,Procedure,present
+dyspneic,Symptom,present
+giant,Modifier,present
+bulbous emphysema,Disease_Syndrome_Disorder,present
+single large bulla,Symptom,present
+significant,Modifier,present
+respiratory compromise,Symptom,present
+FEV1,Test,present
+less than 50 %,Test_Result,present
+video-assisted thoracoscopic,Procedure,present
+VATS,Procedure,present
+pneumothorax,Disease_Syndrome_Disorder,absent
+thoracoscopic bullectomy,Procedure,present
+primary,Modifier,present
+spontaneous pneumothorax,Disease_Syndrome_Disorder,present
+bullectomy,Procedure,present
+thoracoscopic laser bullectomy,Procedure,present
+emphysematous lung disease,Disease_Syndrome_Disorder,possible
+thoracoscopic laser surgery,Procedure,present
+decreased symptoms and improved pulmonary function,Symptom,present
+endobronchial valve,Medical_Device,present
+Spiration Valve System,Medical_Device,present
+Zephyr Valve System,Medical_Device,present
+bronchoscopic treatment,Procedure,present
+hyperinflation,Symptom,present
+severe,Modifier,present
+emphysema in regions of the lung,Disease_Syndrome_Disorder,present
+collateral ventilation,Oxygen_Therapy,absent
+bronchoscopic lung volume reduction procedures,Procedure,present
+emphysema,Disease_Syndrome_Disorder,present
+Biologic lung volume reduction,Procedure,possible
+Aeris Therapeutics,Medical_Device,present
+Woburn,Medical_Device,absent
+MA,Medical_Device,absent
+Biologic Lung Volume Reduction,Procedure,present
+BLVR,Procedure,present
+System,Medical_Device,present
+bronchoscopic thermal vapor ablation,Procedure,present
+emphysema,Disease_Syndrome_Disorder,present
+Lung volume reduction surgery,Procedure,present
+LVRS,Procedure,present
+advanced,Modifier,present
+chronic obstructive pulmonary disease,Disease_Syndrome_Disorder,possible
+COPD,Disease_Syndrome_Disorder,present
+emphysema,Disease_Syndrome_Disorder,present
+emphysema,Disease_Syndrome_Disorder,present
+excision of large bullae,Procedure,present
+thoracotomy,Procedure,possible
+thoracoscopy,Procedure,possible
+resection of diffusely emphysematous lung tissue,Procedure,present
+lung reduction surgery,Procedure,present
+pneumectomy,Procedure,present
+reduction pneumoplasty,Procedure,present
+sternotomy,Procedure,present
+clam shell,Medical_Device,present
+thoracotomy,Procedure,present
+thoracoscopy,Procedure,present
+laser applications,Procedure,present
+LVRS,Procedure,present
+advanced,Modifier,present
+COPD,Disease_Syndrome_Disorder,present
+emphysema,Disease_Syndrome_Disorder,present
+post-operative improvement,Modifier,present
+exertional,Modifier,conditional
+dyspnea,Symptom,conditional
+pulmonary rehabilitation,Treatment,present
+bilateral,Direction,present
+pneumectomy,Procedure,present
+spirometry,Test,present
+unilateral,Direction,present
+stapled lung reduction,Procedure,present
+laser bullectomy surgery,Procedure,present
+delayed,Modifier,present
+pneumothorax,Disease_Syndrome_Disorder,present
+oxygen,Oxygen_Therapy,present
+FEV1,Test,present
+at 6 months,RelativeDate,present
+stapled lung reduction technique,Procedure,present
+laser treatment,Medical_Device,present
+2003,Date,present
+National Emphysema,Disease_Syndrome_Disorder,present
+LVRS,Procedure,present
+severe,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+LVRS,Procedure,possible
+Lung volume reduction surgery,Procedure,present
+After 24 months,RelativeDate,present
+Lung volume reduction surgery,Procedure,present
+predominantly,Modifier,present
+upper-lobe emphysema,Disease_Syndrome_Disorder,present
+low base-line exercise capacity,Symptom,present
+2003,Date,present
+predominantly,Modifier,present
+upper-lobe emphysema,Disease_Syndrome_Disorder,present
+low exercise capacity,Symptom,present
+lower,Direction,present
+contrast,Drug_Ingredient,present
+LVRS,Procedure,present
+negligible functional gain,Symptom,present
+predominantly,Modifier,present
+non-upper lobe emphysema,Disease_Syndrome_Disorder,present
+high base-line exercise capacity,Symptom,present
+2003,Date,present
+non-upper-lobe emphysema,Disease_Syndrome_Disorder,present
+high exercise capacity,Symptom,present
+Lung volume reduction surgery,Procedure,present
+National Emphysema,Disease_Syndrome_Disorder,present
+"Group, 2001",Date,present
+death,Death_Entity,present
+low,Test_Result,present
+FEV1,Test,present
+homogenous,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+very,Modifier,present
+low carbon monoxide diffusing capacity,Symptom,present
+2003,Date,present
+meta analysis,Test,present
+2005,Date,present
+advanced,Modifier,present
+heterogeneous,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+low exercise tolerance,Symptom,present
+LVRS,Procedure,present
+improvements in survival,Symptom,absent
+predominantly,Modifier,present
+upper-lobe emphysema,Disease_Syndrome_Disorder,present
+high base-line exercise capacity,Symptom,present
+non-upper lobe emphysema,Disease_Syndrome_Disorder,present
+low,Test_Result,present
+base-line exercise capacity,Test,present
+2003,Date,present
+pulmonary rehabilitation,Treatment,present
+LVRS,Procedure,present
+2007,Date,present
+LVRS,Procedure,present
+alpha-1 antitrypsin,Test,present
+AAT,Test,present
+deficiency,Disease_Syndrome_Disorder,present
+LVRS,Procedure,present
+severe,Modifier,present
+deficiency of AAT,Disease_Syndrome_Disorder,present
+Emphysema,Disease_Syndrome_Disorder,present
+severe,Modifier,present
+AAT deficiency,Disease_Syndrome_Disorder,present
+serum level,Test,present
+less than 80 mg/dL,Test_Result,present
+male,Gender,present
+median serum AAT level,Test,present
+55.5 mg/dL,Test_Result,present
+age of 66 years,Age,present
+FEV1,Test,present
+27 %,Test_Result,present
+upper-lobe-predominant emphysema,Disease_Syndrome_Disorder,present
+LVRS,Procedure,present
+LVRS,Procedure,present
+greater,Modifier,present
+increase in exercise capacity,Symptom,present
+at 6 months,RelativeDate,present
+FEV1,Test,present
+LVRS,Procedure,present
+severe,Modifier,present
+AAT deficiency,Disease_Syndrome_Disorder,present
+FEV1,Test,present
+LVRS,Procedure,present
+AAT deficiency,Disease_Syndrome_Disorder,present
+Giant,Modifier,present
+bullous emphysema,Disease_Syndrome_Disorder,possible
+GBE,Drug_Ingredient,present
+COPD,Disease_Syndrome_Disorder,present
+single,Modifier,present
+multiple large,Modifier,present
+bullae,Disease_Syndrome_Disorder,present
+hemi-thorax,Disease_Syndrome_Disorder,possible
+often,Modifier,present
+displacing potentially functional lung tissue,Symptom,possible
+large airspaces,Internal_organ_or_component,present
+surgical resection of these bullae,Procedure,present
+pulmonary,Internal_organ_or_component,present
+Computed tomography,Test,present
+CT,Test,present
+scan,Test,absent
+ICSI,Procedure,present
+2004,Date,present
+bullectomy,Procedure,present
+COPD,Disease_Syndrome_Disorder,present
+Global Initiative,Clinical_Dept,present
+Chronic Obstructive Pulmonary Disease,Disease_Syndrome_Disorder,present
+GOLD,Disease_Syndrome_Disorder,present
+2005,Date,present
+reducing,Modifier,present
+dyspnea,Symptom,present
+improving lung function,Symptom,present
+thoracic computed tomography scan,Test,present
+arterial blood gas measurement,Test,present
+comprehensive respiratory function tests,Test,present
+resection of a bulla.”,Procedure,present
+National Institute,Clinical_Dept,present
+2004,Date,present
+breathless,Symptom,present
+single large bulla,Symptom,present
+CT scan,Test,present
+FEV1,Test,possible
+less than 50 %,Test_Result,possible
+bullectomy,Procedure,possible
+2005,Date,present
+GBE,Drug_Ingredient,present
+bullae,Symptom,present
+GBE,Drug_Ingredient,present
+bullectomy,Procedure,absent
+underlying,Modifier,possible
+diffuse,Modifier,possible
+emphysema,Disease_Syndrome_Disorder,possible
+underlying,Modifier,possible
+diffuse,Modifier,possible
+emphysema,Disease_Syndrome_Disorder,possible
+within the 1st year,RelativeDate,present
+Bullae,Disease_Syndrome_Disorder,absent
+re-appear,Modifier,absent
+residual,Modifier,absent
+bullae,Symptom,absent
+enlarged,Symptom,absent
+bullectomy,Procedure,absent
+dyspnea score,Symptom,present
+bullectomy,Procedure,present
+up to the fourth year,RelativeDate,present
+intra-thoracic gas volume,Test,present
+0.7 L,Dosage,present
+FEV1,Test,absent
+FEV1/vital capacity ratio,Test,present
+until the 2nd year,RelativeDate,present
+from the 3rd year,RelativeDate,present
+until the 5th year,RelativeDate,present
+FEV1,Test,possible
+up to the 2nd year,RelativeDate,present
+LVRS,Procedure,present
+GBE,Drug_Ingredient,present
+yearly,Frequency,present
+bullectomy,Procedure,present
+for at least 5 years,Duration,present
+underlying,Modifier,possible
+diffuse,Modifier,possible
+emphysema,Disease_Syndrome_Disorder,possible
+2009,Date,present
+alpha-1 antitrypsin deficiency,Disease_Syndrome_Disorder,present
+A1AD,Disease_Syndrome_Disorder,present
+emphysema,Disease_Syndrome_Disorder,present
+young age,Age,present
+emphysema,Disease_Syndrome_Disorder,present
+smoking,Smoking,present
+augmentation therapy,Treatment,present
+moderate,Modifier,present
+airflow obstruction,Disease_Syndrome_Disorder,present
+severe,Modifier,present
+airflow obstruction,Disease_Syndrome_Disorder,present
+transplantation,Procedure,present
+transplanted,Procedure,present
+smoking-related,Modifier,present
+COPD,Disease_Syndrome_Disorder,present
+LVRS,Procedure,present
+bridge to transplantation,Procedure,present
+Lung volume reduction surgery,Procedure,present
+A1AD remains relatively uncommon despite a general perception,Symptom,present
+European thoracic surgical centers,Clinical_Dept,present
+LVRS,Procedure,present
+LVRS,Procedure,present
+COPD,Disease_Syndrome_Disorder,present
+improved 6-min walk distances,Symptom,present
+decreased,Modifier,present
+dyspnea,Symptom,present
+for 1 to 2 years,Duration,present
+LVRS,Procedure,present
+A1AD,Disease_Syndrome_Disorder,present
+LVRS,Procedure,present
+LVRS,Procedure,present
+bronchoscopic methods,Procedure,present
+lung volume,Internal_organ_or_component,present
+advanced,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+LVRS,Procedure,possible
+placement of endobronchial 1-way valves,Procedure,present
+atelectasis,Disease_Syndrome_Disorder,present
+formation of airway bypass,Procedure,present
+radiofrequency catheter,Medical_Device,present
+lung regions,Internal_organ_or_component,present
+biological adhesives,Medical_Device,present
+hyper-inflated lung,Internal_organ_or_component,present
+placement of endobronchial 1-way valves,Procedure,present
+atelectasis,Disease_Syndrome_Disorder,present
+formation of airway bypass tracts,Procedure,present
+radiofrequency catheter,Medical_Device,present
+lung regions,Internal_organ_or_component,present
+biological adhesives,Medical_Device,present
+hyper-inflated lung,Internal_organ_or_component,present
+LVRS,Procedure,present
+2008,Date,present
+Bronchoscopic placement of small self-expanding 1-way valves,Procedure,present
+airways,Internal_organ_or_component,present
+open LVRS,Procedure,possible
+valves,Internal_organ_or_component,present
+lung,Internal_organ_or_component,present
+lungs,Internal_organ_or_component,present
+valves,Internal_organ_or_component,present
+hypoxemia,VS_Finding,present
+hypercarbia,VS_Finding,present
+less,Modifier,present
+impaired,Symptom,present
+Zephyr Endobronchial Valve,Medical_Device,present
+EBV,Test,present
+Emphasys Medical,Medical_Device,present
+Redwood City,Medical_Device,present
+1-way silicone duckbill valve,Medical_Device,present
+self-expanding nitinol stent retainer,Medical_Device,present
+Endobronchial Valve,Internal_organ_or_component,present
+Emphysema,Disease_Syndrome_Disorder,present
+aged,Age,present
+40 to 75 years,RelativeDate,present
+heterogeneous,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+at various times throughout the course of 1 year,RelativeDate,present
+valves,Internal_organ_or_component,present
+device,Medical_Device,present
+September 2007,Date,present
+Umbrella Implantable IntraBronchial Valve,Medical_Device,present
+Spiration,Medical_Device,present
+Redmond,Medical_Device,absent
+WA,Medical_Device,absent
+polyurethane membrane,Medical_Device,present
+umbrella-shaped nitinol,Medical_Device,present
+proximal,Direction,present
+support stents,Medical_Device,present
+radially,Direction,present
+valve,Internal_organ_or_component,possible
+distally,Direction,possible
+membrane,Internal_organ_or_component,possible
+support stents,Medical_Device,present
+proximally,Direction,present
+valve,Internal_organ_or_component,present
+decompression of collateral ventilation,Procedure,present
+mucous impaction,Disease_Syndrome_Disorder,possible
+obstruction pneumonia,Disease_Syndrome_Disorder,possible
+valve,Internal_organ_or_component,present
+proximal,Direction,possible
+center rod,Medical_Device,present
+IBV Valve system,Medical_Device,present
+prolonged,Modifier,present
+air leaks,Symptom,present
+lung,Internal_organ_or_component,absent
+significant,Modifier,possible
+air leaks,Symptom,present
+prolonged,Modifier,present
+lobectomy,Procedure,present
+segmentectomy,Procedure,possible
+LVRS,Procedure,possible
+humanitarian device,Medical_Device,present
+severe,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+Biologic Lung Volume Reduction,Procedure,present
+BLVR,Medical_Device,present
+System,Medical_Device,present
+Aeris Therapeutics,Medical_Device,present
+Woburn,Medical_Device,present
+MA,Medical_Device,present
+pharmacologic agents,Drug_Ingredient,conditional
+lung,Internal_organ_or_component,present
+BLVR procedure,Procedure,present
+physician,Employment,present
+lung tissue,Internal_organ_or_component,present
+bronchoscope,Medical_Device,present
+pulmonary surfactant,Internal_organ_or_component,possible
+pulmonary epithelium,Internal_organ_or_component,present
+air space to collapse on exhalation,Symptom,present
+fibrin-based hydrogel,Medical_Device,present
+lung,Internal_organ_or_component,present
+scar,Symptom,present
+lung,Internal_organ_or_component,present
+over a period of weeks,RelativeDate,present
+diseased lung tissue,Symptom,possible
+collapse,Symptom,present
+hospital,Clinical_Dept,present
+general,Route,present
+anesthesia,Drug_Ingredient,present
+phase III study,Test,present
+emphysema,Disease_Syndrome_Disorder,present
+BLVR procedure,Procedure,present
+advanced,Modifier,present
+upper lobe predominant emphysema,Disease_Syndrome_Disorder,present
+advanced,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+2009,Date,present
+bronchoscopic lung volume reduction,Procedure,present
+collateral ventilation,Oxygen_Therapy,possible
+severe,Modifier,present
+heterogeneous,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+unilateral,Direction,present
+bronchoscopic application,Procedure,present
+alveolar tissue,Internal_organ_or_component,present
+bronchial thermal vapor ablation,Procedure,present
+BTVA,Procedure,present
+controlled,Modifier,present
+inflammatory airway and parenchymal response,Symptom,present
+women,Gender,present
+men,Gender,present
+age of 61 years,Age,present
+FEV1,Test,present
+unilateral,Direction,present
+upper lobe treatments,Procedure,present
+bacterial pneumonia,Disease_Syndrome_Disorder,possible
+exacerbations of airways disease,Disease_Syndrome_Disorder,present
+important,Modifier,absent
+FEV1 or RV changes,Symptom,absent
+during 6 months,RelativeDate,present
+Dyspnoea Score,Test,present
+2.6 to 2.1,Test_Result,present
+St. George Respiratory Questionnaire Total Score,Test,present
+64.4,Test_Result,present
+49.1,Test_Result,present
+unilateral,Direction,present
+BTVA therapy,Procedure,present
+2009,Date,present
+bronchoscopic LVR,Treatment,present
+pulmonary,Internal_organ_or_component,present
+severe,Modifier,present
+heterogeneous,Modifier,present
+lung emphysema,Disease_Syndrome_Disorder,present
+1-way valve placement,Procedure,present
+homogeneous,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+CT-scans,Test,present
+researchers,Employment,present
+unilateral,Direction,present
+LVR,Procedure,present
+lobe,Internal_organ_or_component,present
+nuclear scintigraphy,Test,present
+lung function test,Test,present
+90,Test_Result,present
+mean FEV1,Test,present
+0.93 L,Test_Result,possible
+dyspnoe and exercising tolerance,Symptom,present
+major changes in lung function,Symptom,absent
+pneumothorax,Disease_Syndrome_Disorder,present
+valves,Medical_Device,present
+after 90 days,RelativeDate,present
+recurrent,Modifier,present
+infections,Disease_Syndrome_Disorder,present
+bronchoscopic LVR,Procedure,present
+severe,Modifier,present
+homogeneous,Modifier,present
+emphysema,Disease_Syndrome_Disorder,possible
+contrast,Drug_Ingredient,present
+bronchoscopic treatment,Procedure,present
+clinical pilot study,Test,present
+2010,Date,present
+endoscopic LVR,Procedure,present
+collateral ventilation,Oxygen_Therapy,present
+severe,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+Emphysema,Disease_Syndrome_Disorder,present
+Homogenous and heterogeneous disease,Disease_Syndrome_Disorder,present
+parenchyma,Internal_organ_or_component,present
+diseased area,Symptom,present
+parenchymal compression,Disease_Syndrome_Disorder,present
+general,Route,present
+anesthesia,Drug_Ingredient,present
+coils,Medical_Device,present
+7 to 11 months,Duration,present
+severe,Modifier,present
+pneumothorax,Disease_Syndrome_Disorder,absent
+endoscopic LVR,Medical_Device,present
+coils,Medical_Device,present
+2013,Date,present
+obstructive lung disease,Disease_Syndrome_Disorder,possible
+emphysematous lung disease,Disease_Syndrome_Disorder,possible
+lung volume reduction,Procedure,present
+bronchoscopic,Procedure,hypothetical
+COPD,Disease_Syndrome_Disorder,hypothetical
+bronchoscopic lung volume reduction,Procedure,present
+2013,Date,present
+self-expanding endobronchial occluder,Medical_Device,present
+bronchoscopic lung volume reduction,Procedure,present
+36 month,Duration,present
+severe,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+flexible bronchoscopic placement,Procedure,present
+self-expanding endobronchial occluders,Medical_Device,present
+1 week,Age,present
+pulmonary function testing,Test,present
+6-min walk test,Test,conditional
+dyspnea score,Test,conditional
+BODE,Test,present
+body mass index,Test,conditional
+air-flow obstruction,Disease_Syndrome_Disorder,present
+dyspnea,Symptom,present
+exercise capacity,Test,present
+index,Test,present
+St George's Respiratory Questionnaire,Test,present
+self-expanding endobronchial occluders,Medical_Device,present
+displacement,Symptom,absent
+cough,Symptom,present
+lobar pneumonia,Disease_Syndrome_Disorder,present
+FEV1,Test,absent
+significant,Modifier,absent
+changes were observed in FVC,Symptom,absent
+TLC,Test,absent
+dyspnea score,Test,present
+St George's Respiratory Questionnaire total score,Test,present
+improved in 22,Test_Result,present
+over a 24-month period,RelativeDate,present
+early,Modifier,absent
+significant,Modifier,absent
+improvements in pulmonary function,Symptom,present
+6-min walk distance,Symptom,present
+dyspnea score,Symptom,present
+placement of the self-expanding endobronchial occluder,Procedure,present
+bronchoscopic lung volume reduction,Procedure,present
+2013,Date,present
+bronchoscopic techniques,Procedure,present
+bronchoscopic lung volume reduction,Procedure,possible
+lung,Internal_organ_or_component,present
+emphysema,Disease_Syndrome_Disorder,present
+airway bypass,Procedure,present
+creation of airway/parenchyma communications,Procedure,present
+endobronchial valves,Internal_organ_or_component,present
+airways,Internal_organ_or_component,present
+lobes,Internal_organ_or_component,present
+endobronchial coils,Medical_Device,present
+parenchyma,Internal_organ_or_component,present
+alveoli,Internal_organ_or_component,present
+Bronchial valves,Internal_organ_or_component,present
+very narrow,Modifier,present
+emphysema,Disease_Syndrome_Disorder,possible
+reversible,Modifier,present
+Parenchymal,Internal_organ_or_component,present
+permanent effects,Symptom,present
+transient,Modifier,present
+inflammatory syndrome,Disease_Syndrome_Disorder,present
+fissure,Internal_organ_or_component,present
+severe,Modifier,present
+lung emphysema,Disease_Syndrome_Disorder,present
+2014,RelativeDate,present
+COPD,Disease_Syndrome_Disorder,present
+Emphysema,Disease_Syndrome_Disorder,present
+COPD,Disease_Syndrome_Disorder,present
+reduced gas exchange,Symptom,present
+interference with breathing mechanics,Symptom,present
+Endoscopic lung volume reduction,Procedure,present
+1-way valves,Medical_Device,present
+atelectasis,Disease_Syndrome_Disorder,present
+hyper-inflated lobe,Internal_organ_or_component,present
+over the last decade,RelativeDate,present
+Clinical Trials Databases,Test,present
+COPD,Disease_Syndrome_Disorder,present
+emphysema,Disease_Syndrome_Disorder,present
+lung volume reduction,Procedure,possible
+endobronchial valves,Internal_organ_or_component,present
+complete,Modifier,present
+lobar occlusion,Disease_Syndrome_Disorder,hypothetical
+lobar fissure,Internal_organ_or_component,present
+greater,Modifier,present
+heterogeneity,Symptom,present
+upper and lower lobes,Internal_organ_or_component,present
+endobronchial valves,Internal_organ_or_component,present
+emphysema,Disease_Syndrome_Disorder,present
+pneumothoraces,Disease_Syndrome_Disorder,possible
+significant,Modifier,present
+benefit in terms of lung function,Symptom,present
+chronic,Modifier,present
+obstructive pulmonary disease”,Disease_Syndrome_Disorder,present
+2013,Date,present
+post-hoc analysis,Test,present
+BLVR,Test,present
+Bronchoscopic Lung Volume Reduction,Procedure,present
+COPD,Disease_Syndrome_Disorder,present
+severe,Modifier,present
+airflow limitation,Symptom,present
+FEV1,Test,present
+15 % - 45 %,Test_Result,present
+heterogeneous,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+computed tomography,Test,present
+CT,Test,present
+scan,Test,present
+hyperinflation,Symptom,present
+total lung capacity,Test,present
+modest,Modifier,present
+improvements in lung function,Symptom,present
+exercise tolerance,Symptom,present
+frequent,Modifier,present
+exacerbations,Modifier,present
+COPD,Disease_Syndrome_Disorder,present
+pneumonia,Disease_Syndrome_Disorder,present
+hemoptysis,Symptom,present
+“Diagnosis,Disease_Syndrome_Disorder,present
+chronic obstructive pulmonary disease,Disease_Syndrome_Disorder,present
+"al, 2013",Date,present
+“Bronchoscopic LVR,Procedure,present
+COPD,Disease_Syndrome_Disorder,present
+2014,RelativeDate,present
+COPD,Disease_Syndrome_Disorder,present
+progressive,Modifier,present
+National Emphysema,Disease_Syndrome_Disorder,present
+LVRS,Procedure,present
+debilitated,Modifier,present
+COPD,Disease_Syndrome_Disorder,present
+BLVR,Medical_Device,present
+In recent years,RelativeDate,present
+non-invasive BLVR procedures,Procedure,present
+Bronchoscopic lung volume reduction,Procedure,present
+hyper-inflation,Internal_organ_or_component,present
+emphysema,Disease_Syndrome_Disorder,present
+surgical resection,Procedure,present
+BLVR devices,Medical_Device,present
+endobronchial valves,Medical_Device,present
+foam sealant,Medical_Device,present
+metallic coils,Medical_Device,present
+airway bypass stents,Medical_Device,present
+vapor thermal ablation,Procedure,present
+Endobronchial valves,Internal_organ_or_component,present
+affected,Modifier,present
+emphysematous regions,Symptom,present
+lobar absorption atelectasis,Disease_Syndrome_Disorder,present
+Airway bypass stents,Procedure,present
+homogenous,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+valves and thermal vapor ablation,Procedure,present
+heterogeneous,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+endoscopic coil implants,Medical_Device,present
+heterogeneous,Modifier,absent
+emphysema,Disease_Syndrome_Disorder,absent
+BLVR,Procedure,possible
+COPD,Disease_Syndrome_Disorder,present
+Ludwig Boltzmann Institute,Clinical_Dept,present
+endobronchial valve implantation,Procedure,present
+emphysema,Disease_Syndrome_Disorder,present
+‘endobronchial valve implantation,Procedure,present
+severe,Modifier,present
+pulmonary emphysema’,Symptom,present
+Bronchoscopic Lung Volume Reduction,Procedure,present
+Severe,Modifier,present
+Emphysema,Disease_Syndrome_Disorder,present
+severe,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+limited,Modifier,present
+Lung volume reduction,Procedure,present
+nitinol coils,Medical_Device,present
+bronchoscopic intervention,Procedure,present
+regional parenchymal volume reduction,Procedure,present
+lung recoil,Symptom,present
+researchers,Employment,present
+nitinol coils,Medical_Device,present
+severe,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+10 university hospitals,Clinical_Dept,present
+emphysema,Disease_Syndrome_Disorder,present
+March,Date,present
+October 2013,Date,present
+December 2014,Date,present
+bronchodilators,Drug_Ingredient,hypothetical
+inhaled,Route,hypothetical
+corticosteroids,Drug_Ingredient,hypothetical
+oxygen,Oxygen_Therapy,hypothetical
+bilateral,Direction,hypothetical
+coil treatment,Procedure,hypothetical
+bilateral,Direction,hypothetical
+lobes,Internal_organ_or_component,hypothetical
+at 6 months,RelativeDate,present
+at 6 and 12 months,RelativeDate,present
+lung,Internal_organ_or_component,present
+St George's Respiratory Questionnaire,Test,present
+71,Age,present
+men,Gender,present
+29,Age,present
+women,Gender,present
+mean age of 62 years,Age,present
+At 6 months,RelativeDate,present
+St George's Respiratory Questionnaire,Test,present
+Within 12 months,RelativeDate,present
+severe,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+for 6 months,Duration,present
+bronchoscopic treatment,Procedure,present
+nitinol coils,Medical_Device,present
+heterogeneous,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+heterogeneous,Modifier,absent
+emphysema,Disease_Syndrome_Disorder,present
+physicians,Employment,present
+COPD,Disease_Syndrome_Disorder,present
+Endobronchial Valves,Medical_Device,present
+Advanced,Modifier,present
+Emphysema,Disease_Syndrome_Disorder,present
+bronchoscopic lung volume reduction,Procedure,present
+endobronchial valves,Procedure,present
+EBV,Test,present
+advanced,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+emphysema,Disease_Syndrome_Disorder,present
+for 3 to 12 months,Duration,present
+EBV,Test,present
+EBV,Test,present
+advanced,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+EBV,Test,present
+FEV1,Test,present
+FEV1%,Test,present
+St George's Respiratory Questionnaire,Test,present
+SGRQ,Test,present
+6MWD test,Test,conditional
+Modified Medical Research Council,Clinical_Dept,conditional
+MMRC,Symptom,conditional
+dyspnea score,Symptom,conditional
+at 3 or 12 months,RelativeDate,hypothetical
+EBV,Test,possible
+FEV1%,Test,possible
+EBV,Test,absent
+SGRQ score,Test,possible
+MMRC dyspnea score,Symptom,present
+EBV,Test,absent
+hemoptysis,Symptom,absent
+RR,Test,absent
+AES,Disease_Syndrome_Disorder,absent
+respiratory failure,VS_Finding,present
+empyema,Disease_Syndrome_Disorder,present
+pneumonia,Disease_Syndrome_Disorder,present
+pneumothorax,Disease_Syndrome_Disorder,present
+EBV,Test,possible
+EBV,Test,absent
+not significant,Test_Result,absent
+2.03,Test_Result,absent
+EBV lung volume reduction,Procedure,present
+advanced,Modifier,possible
+emphysema,Disease_Syndrome_Disorder,possible
+EBV,Test,possible
+bronchoscopic lung volume reduction,Procedure,present
+EBV,Test,hypothetical
+advanced,Modifier,hypothetical
+emphysema,Disease_Syndrome_Disorder,hypothetical
+EBV placement,Procedure,present
+single specialist center,Employment,present
+heterogeneous,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+lobe,Internal_organ_or_component,present
+inter-lobar fissures,Internal_organ_or_component,present
+significant,Modifier,absent
+gas trapping,Symptom,present
+total lung capacity,Symptom,present
+breathlessness,Symptom,present
+dyspnea score of greater than or equal to 3] and exercise limitation,Symptom,hypothetical
+Subjects,Gender,present
+non-smokers,Smoking,present
+unilateral,Direction,present
+lobar EBV placement,Procedure,present
+lobar atelectasis,Disease_Syndrome_Disorder,present
+bronchoscopy,Procedure,possible
+“sham” valve placement,Procedure,present
+FEV1,Test,present
+arm,External_body_part_or_region,present
+arm,External_body_part_or_region,present
+90 days post-procedure,RelativeDate,present
+lung,Internal_organ_or_component,present
+arm,External_body_part_or_region,present
+male,Gender,present
+FEV1%,Test,present
+FEV1,Test,present
+arm,External_body_part_or_region,present
+arm,External_body_part_or_region,present
+clinically significant,Modifier,present
+improvements in lung volumes,Symptom,present
+carbon monoxide gas transfer,ImagingFindings,present
+arm,External_body_part_or_region,present
+prolonged,Modifier,present
+pneumothorax,Disease_Syndrome_Disorder,present
+arm,External_body_part_or_region,present
+significant,Modifier,present
+improvement in lung function,Symptom,present
+lobar occlusion,Disease_Syndrome_Disorder,present
+heterogeneous,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+BLVR,Procedure,present
+in the recent years,RelativeDate,present
+BLVR procedures,Procedure,present
+moderate-to-severe,Modifier,present
+COPD,Disease_Syndrome_Disorder,present
+BLVR,Procedure,present
+moderate-to-severe,Modifier,present
+COPD,Disease_Syndrome_Disorder,present
+"December 7, 2016",Date,present
+RCTs,Test,present
+95,Test_Result,present
+FEV1,Test,present
+IQR,Test,present
+12 units,Dosage,present
+22 units to -5 units,Dosage,present
+3 units,Dosage,present
+5 units,Dosage,present
+1 units,Dosage,present
+OR,Clinical_Dept,possible
+AEs,Symptom,possible
+AeriSeal,Drug_BrandName,possible
+OR,Clinical_Dept,possible
+airway bypass stents,Medical_Device,present
+lead,Medical_Device,absent
+5.58 units,Dosage,present
+1.58 units,Dosage,present
+OR 0.76,Clinical_Dept,possible
+significant,Modifier,possible
+differences in adverse events,Symptom,hypothetical
+endobronchial coils,Medical_Device,present
+9.14 units,Dosage,present
+OR,Clinical_Dept,possible
+AEs,Symptom,possible
+coils,Medical_Device,possible
+OR,Clinical_Dept,possible
+endobronchial valves,Internal_organ_or_component,possible
+significant,Modifier,absent
+improvements in FEV1,Symptom,present
+7.29 units,Dosage,present
+11.12 units,Dosage,present
+3.45 units,Dosage,present
+OR,Clinical_Dept,possible
+AEs,Symptom,possible
+endobronchial valve,Internal_organ_or_component,present
+collateral ventilation,Oxygen_Therapy,possible
+partial,Modifier,possible
+bilateral,Direction,possible
+placement of intra-bronchial valves,Procedure,present
+FEV1,Test,possible
+groups,Internal_organ_or_component,absent
+significant,Modifier,hypothetical
+differences in SGRQ scores,Symptom,present
+0.28 units,Dosage,possible
+5.56 units,Dosage,present
+OR,Clinical_Dept,hypothetical
+AEs,Symptom,hypothetical
+OR 3.41,Clinical_Dept,hypothetical
+intra-bronchial valves,Medical_Device,present
+unilateral,Direction,absent
+bilateral,Direction,absent
+placement,Procedure,present
+significant,Modifier,present
+improvements in FEV1,Symptom,present
+unilateral,Direction,absent
+significant,Modifier,present
+mean between-group differences in FEV1,Symptom,present
+9.70 units,Dosage,present
+15.62 units,Dosage,present
+3.78 units,Dosage,present
+vapor ablation,Procedure,present
+OR 2.82,Clinical_Dept,possible
+vapor ablation,Procedure,present
+AEs,Symptom,possible
+OR,Clinical_Dept,possible
+BLVR procedures,Procedure,present
+up to 1 year,RelativeDate,present
+increased,Modifier,present
+AEs,Symptom,present
+BLVR procedures,Procedure,present
+significant,Modifier,present
+heterogeneity,Symptom,present
+endobronchial valves,Internal_organ_or_component,present
+endobronchial valves,Internal_organ_or_component,present
+National Institute,Clinical_Dept,present
+Clinical Excellence’s guidance,Test,present
+“Endobronchial valve insertion,Procedure,present
+lung volume,Internal_organ_or_component,hypothetical
+endobronchial valve insertion,Procedure,hypothetical
+lung volume,Internal_organ_or_component,hypothetical
+emphysema,Disease_Syndrome_Disorder,hypothetical
+multi-disciplinary team,Clinical_Dept,hypothetical
+managing,Modifier,hypothetical
+emphysema,Disease_Syndrome_Disorder,hypothetical
+chest physician,Employment,hypothetical
+radiologist,Employment,hypothetical
+thoracic surgeon,Employment,hypothetical
+respiratory nurse,Employment,hypothetical
+pulmonary rehabilitation,Treatment,present
+lung,Internal_organ_or_component,present
+inter-lobar collateral ventilation,Symptom,hypothetical
+Chronic,Modifier,present
+Obstructive Lung Disease’s,Disease_Syndrome_Disorder,present
+chronic,Modifier,present
+obstructive pulmonary disease”,Disease_Syndrome_Disorder,present
+2010,Date,present
+endobronchial vale,Procedure,present
+advance,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+“choosing bronchoscopic lung reduction,Procedure,present
+coil placement,Procedure,present
+endobronchial valve,Procedure,possible
+surgical resection,Procedure,possible
+lung volume reduction surgery,Procedure,present
+LVRS,Procedure,present
+emphysematous,Disease_Syndrome_Disorder,possible
+emphysema,Disease_Syndrome_Disorder,present
+high-resolution computed tomography,Test,present
+HRCT,Test,present
+interlobar collateral ventilation,Test,present
+HRCT,Test,present
+physiological assessment,Test,present
+endoscopic balloon occlusion,Procedure,present
+flow assessment,Test,present
+provider,Employment,present
+heterogeneous or homogeneous,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+surgical or bronchoscopic modes of lung volume reduction,Procedure,present
+endobronchial 1-way valves,Medical_Device,possible
+lung coils,Medical_Device,possible
+advanced,Modifier,present
+emphysema bronchoscopic,Disease_Syndrome_Disorder,present
+end-expiratory lung volume,Symptom,present
+improves exercise tolerance,Symptom,present
+lung,Internal_organ_or_component,present
+6 to 12 months following,RelativeDate,present
+Endobronchial valve,Internal_organ_or_component,present
+lung coils,Medical_Device,present
+"June 29, 2018",Date,present
+Zephyr Endobronchial Valve,Medical_Device,present
+Zephyr Valve,Medical_Device,present
+breathing difficulty,Symptom,present
+severe,Modifier,present
+emphysema,Disease_Syndrome_Disorder,hypothetical
+Zephyr Valve device,Medical_Device,present
+active,Modifier,present
+lung infections,Disease_Syndrome_Disorder,absent
+allergic,Disease_Syndrome_Disorder,present
+nitinol,Medical_Device,present
+nickel,Drug_Ingredient,present
+titanium,Medical_Device,present
+silicone,Medical_Device,absent
+smokers,Smoking,present
+bronchoscopic procedure,Procedure,present
+lung procedures,Procedure,present
+heart disease,Heart_Disease,present
+large,Modifier,present
+bubbles of air trapped in the lung,Symptom,present
+Zephyr Valve device,Medical_Device,hypothetical
+Spiration Valve System,Medical_Device,present
+"December 3, 2018",Date,present
+Spiration Valve System,Medical_Device,present
+lungs,Internal_organ_or_component,present
+severe,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+pulmonary rehabilitation,Treatment,present
+oxygen,Oxygen_Therapy,present
+COPD,Disease_Syndrome_Disorder,present
+tobacco smoke,Smoking,present
+Spiration Valve System,Medical_Device,present
+COPD,Disease_Syndrome_Disorder,present
+severe,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+severe,Modifier,present
+airflow obstruction,Disease_Syndrome_Disorder,present
+hyper-inflation,Modifier,present
+severe,Modifier,present
+dyspnea,Symptom,present
+interlobar fissure,Internal_organ_or_component,present
+FEV1,Test,possible
+through 6 months,RelativeDate,absent
+lobe volume reduction,Procedure,present
+at 3 months,RelativeDate,present
+deterioration in the control group,Symptom,present
+acute,Modifier,present
+exacerbations,Modifier,present
+COPD,Disease_Syndrome_Disorder,present
+groups,Internal_organ_or_component,present
+severe,Modifier,possible
+emphysema,Disease_Syndrome_Disorder,possible
+SVS,Internal_organ_or_component,possible
+aged,Age,present
+40 years of age,Age,present
+severe,Modifier,present
+heterogeneous,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+FEV1,Test,present
+to 6 months,RelativeDate,present
+difference in FEV1 responder rates,Symptom,present
+lobe volume reduction,Procedure,present
+dyspnea,Symptom,present
+exercise capacity,Symptom,conditional
+composite thoracic SAE,Disease_Syndrome_Disorder,present
+arms,External_body_part_or_region,absent
+October 2013,Date,present
+May 2017,Date,present
+total of 172,Height,present
+men,Gender,present
+mean age of 67.4 years,Age,present
+FEV1,Test,possible
+at 6 and 12 months,RelativeDate,present
+At 6 months,RelativeDate,present
+Composite thoracic SAE,Disease_Syndrome_Disorder,present
+6 months,Duration,present
+serious,Modifier,present
+pneumothorax,Disease_Syndrome_Disorder,present
+severe,Modifier,present
+heterogeneous,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+Digital Chest Drainage System,Medical_Device,present
+Pos-Operative Chest Tube,Medical_Device,present
+Pulmonary Resection,Procedure,present
+Takamochi,Drug_BrandName,present
+digital thoracic drainage system,Medical_Device,present
+traditional thoracic drainage system,Medical_Device,present
+chest tube,Internal_organ_or_component,present
+anatomic lung resection,Procedure,possible
+segmentectomy,Procedure,possible
+lobectomy,Procedure,possible
+smoking,Smoking,present
+emphysema,Disease_Syndrome_Disorder,possible
+chronic obstructive pulmonary disease,Disease_Syndrome_Disorder,possible
+chest tube placement,Procedure,present
+chest tube placement,Procedure,present
+post-operative,Modifier,possible
+AEs,Symptom,possible
+post-operative,Modifier,possible
+air leak,Symptom,present
+chest tube placement,Procedure,present
+post-operative,Modifier,present
+air leak,Symptom,present
+3.0 days,Duration,possible
+digital thoracic drainage system,Medical_Device,present
+chest tube placement,Procedure,present
+traditional thoracic drainage system,Medical_Device,present
+anatomic lung resection,Procedure,present
+digital chest drainage system,Medical_Device,present
+traditional chest drainage system,Medical_Device,possible
+digital chest drainage system,Medical_Device,present
+traditional chest drainage system,Medical_Device,present
+pulmonary resection,Procedure,possible
+traditional chest drainage system,Medical_Device,present
+digital chest drainage system,Medical_Device,present
+prolonged,Modifier,present
+air leak,Symptom,present
+chest drainage,Procedure,present
+pulmonary resection,Procedure,present
+digital chest drainage system,Medical_Device,present
+researchers,Employment,present
+digital chest drainage system,Medical_Device,present
+Positive,Test_Result,present
+Pressure Ventilation,Test,present
+Pulmonary Resection,Procedure,present
+Lung Cancer,Oncological,present
+pulmonary complications,Symptom,present
+lung resection,Procedure,present
+lung cancer,Oncological,present
+intubation,Procedure,present
+intensive care unit,Clinical_Dept,present
+ICU,Clinical_Dept,present
+antibiotics,Drug_Ingredient,present
+post-operative pulmonary complications,Disease_Syndrome_Disorder,present
+Non-invasive,Test,present
+positive,Test_Result,present
+pressure ventilation,Test,present
+NIPPV,Oxygen_Therapy,present
+hospitals,Clinical_Dept,present
+pulmonary complications,Symptom,present
+researchers,Employment,present
+NIPPV,Oxygen_Therapy,present
+pulmonary resection,Procedure,present
+lung cancer,Oncological,present
+"December 21, 2018",Date,present
+language restrictions,Symptom,absent
+researchers,Employment,present
+NIPPV,Oxygen_Therapy,present
+pulmonary resection,Procedure,present
+respiratory therapy,Treatment,absent
+pulmonary complications,Symptom,hypothetical
+NIPPV,Oxygen_Therapy,hypothetical
+intubation,Procedure,hypothetical
+RR 0.60,Respiration,absent
+ventilatory mode,Oxygen_Therapy,possible
+bi-level,Oxygen_Therapy,possible
+CPAP,Oxygen_Therapy,possible
+antibiotics,Drug_Ingredient,absent
+ICU,Clinical_Dept,absent
+NIPPV,Oxygen_Therapy,present
+severe,Modifier,present
+disease,Disease_Syndrome_Disorder,present
+NIPPV,Oxygen_Therapy,present
+NIPPV,Oxygen_Therapy,present
+pulmonary resection,Procedure,present
+pulmonary complications,Disease_Syndrome_Disorder,present
+intubation,Procedure,present
+antibiotics,Drug_Ingredient,conditional
+ICU,Clinical_Dept,conditional
+NIPPV,Oxygen_Therapy,present
+researchers,Employment,present
+Bronchoscopic Thermal Vapor Ablation,Procedure,present
+Upper-Lobe Emphysema,Disease_Syndrome_Disorder,present
+2012,Date,present
+surgical lung volume reduction,Procedure,present
+emphysema,Disease_Syndrome_Disorder,hypothetical
+bronchoscopic thermal vapor ablation,Procedure,present
+lung,Internal_organ_or_component,present
+emphysema,Disease_Syndrome_Disorder,present
+upper,Direction,present
+lobe-predominant emphysema,Disease_Syndrome_Disorder,present
+unilaterally,Direction,present
+BTVA,Drug_BrandName,present
+age of 40 to 75 years,Age,present
+FEV1,Test,present
+15 %  to 45 %,Test_Result,present
+pulmonary rehabilitation,Treatment,present
+heterogeneity index,Test,present
+tissue/air ratio of lower lobe/upper lobe,Test,present
+HRCT,Test,present
+greater than or equal to 1.2,Test_Result,possible
+Changes in FEV1,Symptom,present
+SGRQ,Test,present
+6MWD,Test,present
+MMRC dyspnea score,Symptom,present
+hyperinflation,Symptom,present
+3 and 6 months,Frequency,present
+At 6 months,RelativeDate,present
+RV,Test,present
+p < 0.0001,Test_Result,present
+14.0 ± 2.4 points,Test_Result,present
+MMRC dyspnea score,Symptom,present
+during the initial 30 days,RelativeDate,present
+BTVA therapy,Treatment,present
+lung,Internal_organ_or_component,present
+upper lobe,Internal_organ_or_component,present
+predominant,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+researchers,Employment,present
+arm,External_body_part_or_region,present
+incorporation of a control arm,Procedure,possible
+arm,External_body_part_or_region,possible
+improvements in physiology,Symptom,present
+0.05,Test_Result,present
+GOLD stage III and IV disease,Disease_Syndrome_Disorder,present
+significant,Modifier,present
+impairments in health-related QOL,Symptom,present
+pulmonary rehabilitation,Treatment,present
+upper lobe predominant emphysema,Disease_Syndrome_Disorder,present
+lower lobe disease,Disease_Syndrome_Disorder,hypothetical
+National Emphysema,Disease_Syndrome_Disorder,present
+BODE score,Test,possible
+over 6 months,RelativeDate,present
+endoscopic lung volume reduction,Procedure,present
+ELVR,Procedure,present
+hyper-inflation reduction,Procedure,present
+advanced,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+segmental vapor ablation,Procedure,present
+inflammatory response,Symptom,present
+tissue,Internal_organ_or_component,present
+volume reduction,Procedure,present
+diseased,Modifier,present
+emphysematous segments,Symptom,present
+lung,Internal_organ_or_component,present
+upper,Direction,present
+lobe-predominant emphysema,Disease_Syndrome_Disorder,present
+researchers,Employment,present
+upper,Direction,present
+lobe-predominant emphysema,Disease_Syndrome_Disorder,present
+FEV1,Test,present
+DLCO,Test,possible
+greater than or equal to 20 %,Test_Result,possible
+BTVA treatment,Procedure,possible
+emphysema,Disease_Syndrome_Disorder,present
+ipsilateral,Direction,possible
+lung lobes,Internal_organ_or_component,possible
+sedation,Drug_Ingredient,possible
+general,Route,present
+anesthesia,Drug_Ingredient,present
+BTVA catheter,Medical_Device,present
+occlusion balloon,Medical_Device,present
+localized,Modifier,present
+inflammatory reaction,Symptom,present
+National Institute,Clinical_Dept,present
+“Bronchoscopic thermal vapor ablation,Procedure,present
+bronchoscopic thermal vapor ablation,Procedure,present
+upper-lobe emphysema,Disease_Syndrome_Disorder,present
+inadequate in quantity and quality,Symptom,present
+emphysema,Disease_Syndrome_Disorder,present
+BLVR,Drug_Ingredient,present
+BTVA,Medical_Device,present
+researchers,Employment,present
+endobronchial valves,Medical_Device,present
+coils,Medical_Device,present
+lung,Internal_organ_or_component,present
+vapor ablation,Procedure,present
+lung volume reduction,Procedure,possible
+emphysema,Disease_Syndrome_Disorder,present
+Pneumonitis,Disease_Syndrome_Disorder,present
+infection,Disease_Syndrome_Disorder,possible
+right,Direction,present
+BTVA,Test,hypothetical
+emphysema,Disease_Syndrome_Disorder,present
+COPD,Disease_Syndrome_Disorder,present
+prevalent,Modifier,present
+progressive,Modifier,present
+disease,Disease_Syndrome_Disorder,present
+BLVR techniques,Procedure,present
+severe,Modifier,present
+emphysema,Disease_Syndrome_Disorder,present
+EBV/IBV achieve lung volume reduction,Procedure,present
+lobar atelectasis,Disease_Syndrome_Disorder,present
+lung volume reduction coils,Medical_Device,present
+LVRCs,Internal_organ_or_component,present
+BTVA,Internal_organ_or_component,present
+tissue compression,Symptom,present
+inflammatory processes,Symptom,absent
+implants,Medical_Device,present
+BTVA,Internal_organ_or_component,present
+Thoracoscopic Bullectomy,Procedure,present
+Trans-Areolar Approach,Medical_Device,present
+Primary,Modifier,present
+Spontaneous Pneumothorax,Disease_Syndrome_Disorder,present
+pneumothorax,Disease_Syndrome_Disorder,present
+video-assisted thoracoscopic surgery,Procedure,present
+VATS,Procedure,present
+apical blebectomy/bullectomy,Procedure,present
+pleurodesis,Procedure,present
+surgeons,Employment,possible
+pleurodesis,Procedure,possible
+VATS-directed,Drug_BrandName,possible
+insufflation,Route,possible
+talc,Drug_Ingredient,possible
+bullectomy,Procedure,possible
+bullectomy,Procedure,absent
+conventional tri-portal VATS,Procedure,present
+primary,Modifier,present
+spontaneous pneumothorax,Disease_Syndrome_Disorder,present
+researchers,Employment,present
+trans-areolar pulmonary bullectomy,Procedure,present
+researchers,Employment,present
+January 2013,Date,present
+December 2014,Date,present
+112,Age,present
+male,Gender,present
+trans-areolar pulmonary bullectomy,Procedure,present
+thoracoscope,Medical_Device,present
+26.5 mins,Duration,present
+camera port,Medical_Device,present
+discharged,Admission_Discharge,present
+discharged,Admission_Discharge,present
+POD 4 or 5,RelativeDate,absent
+At post-operative month,RelativeDate,present
+obvious,Modifier,absent
+surgical,Modifier,absent
+scar,Symptom,absent
+chest wall,External_body_part_or_region,absent
+post-operative,Modifier,absent
+pain,Symptom,absent
+trans-areolar pulmonary bullectomy,Procedure,present
+PSP,Test,present
+pulmonary bullae,Disease_Syndrome_Disorder,present
+areola,External_body_part_or_region,present
+common disease,Disease_Syndrome_Disorder,present
+men,Gender,present
+thoracoscopic,Procedure,present
+thoracoscopic pulmonary bullectomy,Procedure,present
+thoracoscopic trans-areolar pulmonary bullectomy,Procedure,present
+September 2017,Date,present
+March 2018,Date,present
+researchers,Employment,present
+recurrence,Modifier,present
+wound-related,Modifier,present
+pain,Symptom,present
+surgical,Modifier,present
+wound,Symptom,present
+18.9 ± 4.2 years,Age,present
+affected on the right side and 7 patients were affected on the left side,Symptom,present
+Bullae,Symptom,present
+blebs,Symptom,present
+lung,Internal_organ_or_component,present
+ports,Medical_Device,absent
+thoracotomy,Procedure,absent
+39.8 ± 8.6 mins,Time,present
+blood lost,Symptom,present
+1 day,Duration,present
+2 days,Duration,present
+wound,Symptom,present
+3.2,Test_Result,present
+mean numerical rating scale,Test,present
+NRS,Test,hypothetical
+1.5 on POD 7,Test_Result,present
+trans-areolar thoracoscopic pulmonary bullectomy,Procedure,present
+treatment of PSP,Procedure,present
+post-operative,Modifier,present
+pain,Symptom,present
+surgical treatment of PSP,Procedure,present
+thoracoscopic trans-areolar pulmonary bullectomy,Procedure,present
+trans-areolar,Internal_organ_or_component,present
+Polyglycolic Acid Patch,Medical_Device,present
+Pneumothorax,Disease_Syndrome_Disorder,present
+Thoracoscopic Bullectomy,Procedure,present
+polyglycolic acid,Drug_Ingredient,present
+PGA,Medical_Device,possible
+patch,Medical_Device,possible
+pulmonary bullae resection,Procedure,possible
+PGA,Medical_Device,present
+bullectomy,Procedure,present
+PGA,Test,possible
+non-PGA,Medical_Device,possible
+bullectomy,Procedure,possible
+average post-operative,Modifier,present
+air leakage,Symptom,present
+prolonged,Modifier,present
+air leaks,Symptom,present
+drainage tube removal,Procedure,present
+prolonged,Modifier,possible
+air leaks,Symptom,present
+drainage tube removal,Procedure,present
+average,Modifier,present
+post-operative,Modifier,present
+air leakage,Symptom,present
+significant,Modifier,absent
+difference between the 2 groups,Symptom,absent
+pneumothorax,Disease_Syndrome_Disorder,present
+thoracoscopic bullectomy,Procedure,present
+PGA patch,Medical_Device,present
+pneumothorax,Disease_Syndrome_Disorder,present
+thoracic drainage,Symptom,present
+prolonged,Modifier,present
+post-operative,Modifier,present
+air leakage,Symptom,present
+PGA patch,Medical_Device,present
+hospitalization,Admission_Discharge,present
+average,Modifier,present
+post-operative,Modifier,present
+air leakage,Symptom,present
+intra-operative,Modifier,present
+bleeding volume,Symptom,possible
+calculating,Modifier,present
+pneumothorax,Disease_Syndrome_Disorder,present
+intra-operative,Modifier,present
+bleeding volume,Symptom,present
+pulmonary infection,Disease_Syndrome_Disorder,present
+heart rate arrhythmia,Heart_Disease,present
+pleural effusion,Disease_Syndrome_Disorder,present
