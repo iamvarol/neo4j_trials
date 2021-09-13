@@ -1,0 +1,10 @@
+relation,entity1,entity1_begin,entity1_end,chunk1,entity2,entity2_begin,entity2_end,chunk2,confidence
+DURATION-DRUG,DURATION,493,500,five-day,DRUG,512,522,amoxicillin,1.0
+DRUG-DURATION,DRUG,681,693,dapagliflozin,DURATION,695,708,for six months,1.0
+DRUG-ROUTE,DRUG,1940,1946,insulin,ROUTE,1948,1951,drip,1.0
+DOSAGE-DRUG,DOSAGE,2255,2262,40 units,DRUG,2267,2282,insulin glargine,1.0
+DRUG-FREQUENCY,DRUG,2267,2282,insulin glargine,FREQUENCY,2284,2291,at night,1.0
+DOSAGE-DRUG,DOSAGE,2295,2302,12 units,DRUG,2307,2320,insulin lispro,1.0
+DRUG-FREQUENCY,DRUG,2307,2320,insulin lispro,FREQUENCY,2322,2331,with meals,1.0
+DRUG-STRENGTH,DRUG,2339,2347,metformin,STRENGTH,2349,2355,1000 mg,1.0
+DRUG-FREQUENCY,DRUG,2339,2347,metformin,FREQUENCY,2357,2371,two times a day,1.0
