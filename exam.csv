@@ -1,4 +1,4 @@
-name,exam,topCodes,topTerms,measurements,section.begin,section.end,section.section_name,section.section_text,bp,laterality
-retroperitoneal hematoma,retroperitoneal hematoma side of pelvis,[],[],[],1,146,REASON FOR EXAM:,"REASON FOR EXAM:  Evaluate for retroperitoneal hematoma on the right side of pelvis, 
+name,name_assertion,exam,topCodes,topTerms,measurements,section.begin,section.end,section.section_name,section.section_text,bp,bp_assertion,laterality,lat_assertion
+retroperitoneal hematoma,present,retroperitoneal hematoma side of pelvis,[],[],[],1,146,REASON FOR EXAM:,"REASON FOR EXAM:  Evaluate for retroperitoneal hematoma on the right side of pelvis, 
 the patient has been following, is currently on Coumadin. 
-",side of pelvis,right
+",side of pelvis,present,right,present

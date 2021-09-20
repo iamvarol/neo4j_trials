@@ -1,94 +1,94 @@
-procedure,type,bp_main,laterality_main,diagnosis,diagnosis_text,topCodes,topTerms,begin,end,section_name,section_text,bp,laterality,measurement,unit
-Coumadin,Procedure,side of pelvis,right,retroperitoneal hematoma,retroperitoneal hematoma ABDOMEN,[],[],146,506,CT ABDOMEN:,"CT ABDOMEN:  There is no evidence for a retroperitoneal hematoma. 
+procedure,procedure_assertion,type,bp_main,bp_assertion_main,laterality_main,laterality_main_assertion,diagnosis,name_assertion,diagnosis_text,topCodes,topTerms,begin,end,section_name,section_text,bp,bp_assertion,laterality,lat_assertion,measurement,unit
+Coumadin,"present,past",Procedure,side of pelvis,present,right,present,retroperitoneal hematoma,absent,retroperitoneal hematoma ABDOMEN,[],[],146,506,CT ABDOMEN:,"CT ABDOMEN:  There is no evidence for a retroperitoneal hematoma. 
 The liver, spleen, adrenal glands, and pancreas are unremarkable. 
 Within the superior pole of the left kidney, there is a 3.9 cm cystic lesion. 
 A 3.3 cm cystic lesion is also seen within the inferior pole of the left kidney. 
 No calcifications are noted. The kidneys are small bilaterally. 
-",ABDOMEN,,,
-Coumadin,Procedure,side of pelvis,right,cystic lesion,cystic lesion kidney,[],[],146,506,CT ABDOMEN:,"CT ABDOMEN:  There is no evidence for a retroperitoneal hematoma. 
+",ABDOMEN,present,,,,
+Coumadin,"present,past",Procedure,side of pelvis,present,right,present,cystic lesion,present,cystic lesion kidney,[],[],146,506,CT ABDOMEN:,"CT ABDOMEN:  There is no evidence for a retroperitoneal hematoma. 
 The liver, spleen, adrenal glands, and pancreas are unremarkable. 
 Within the superior pole of the left kidney, there is a 3.9 cm cystic lesion. 
 A 3.3 cm cystic lesion is also seen within the inferior pole of the left kidney. 
 No calcifications are noted. The kidneys are small bilaterally. 
-",kidney,left,3.9,cm
-Coumadin,Procedure,side of pelvis,right,cystic lesion,cystic lesion kidney,[],[],146,506,CT ABDOMEN:,"CT ABDOMEN:  There is no evidence for a retroperitoneal hematoma. 
+",kidney,present,left,present,3.9,cm
+Coumadin,"present,past",Procedure,side of pelvis,present,right,present,cystic lesion,present,cystic lesion kidney,[],[],146,506,CT ABDOMEN:,"CT ABDOMEN:  There is no evidence for a retroperitoneal hematoma. 
 The liver, spleen, adrenal glands, and pancreas are unremarkable. 
 Within the superior pole of the left kidney, there is a 3.9 cm cystic lesion. 
 A 3.3 cm cystic lesion is also seen within the inferior pole of the left kidney. 
 No calcifications are noted. The kidneys are small bilaterally. 
-",kidney,left,3.3,cm
-Coumadin,Procedure,side of pelvis,right,calcifications,calcifications kidneys,[],[],146,506,CT ABDOMEN:,"CT ABDOMEN:  There is no evidence for a retroperitoneal hematoma. 
+",kidney,present,left,present,3.3,cm
+Coumadin,"present,past",Procedure,side of pelvis,present,right,present,calcifications,absent,calcifications kidneys,[],[],146,506,CT ABDOMEN:,"CT ABDOMEN:  There is no evidence for a retroperitoneal hematoma. 
 The liver, spleen, adrenal glands, and pancreas are unremarkable. 
 Within the superior pole of the left kidney, there is a 3.9 cm cystic lesion. 
 A 3.3 cm cystic lesion is also seen within the inferior pole of the left kidney. 
 No calcifications are noted. The kidneys are small bilaterally. 
-",kidneys,bilaterally,,
-Coumadin,Procedure,side of pelvis,right,obstruction,obstruction small bowels,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
+",kidneys,present,bilaterally,present,,
+Coumadin,"present,past",Procedure,side of pelvis,present,right,present,obstruction,absent,obstruction small bowels,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
 The large and small bowels are normal in course and caliber. There is no obstruction.
-",small bowels,,,
-CT,Imaging_Test,ABDOMEN,,retroperitoneal hematoma,retroperitoneal hematoma ABDOMEN,[],[],146,506,CT ABDOMEN:,"CT ABDOMEN:  There is no evidence for a retroperitoneal hematoma. 
+",small bowels,present,,,,
+CT,"present,present",Imaging_Test,ABDOMEN,present,,,retroperitoneal hematoma,absent,retroperitoneal hematoma ABDOMEN,[],[],146,506,CT ABDOMEN:,"CT ABDOMEN:  There is no evidence for a retroperitoneal hematoma. 
 The liver, spleen, adrenal glands, and pancreas are unremarkable. 
 Within the superior pole of the left kidney, there is a 3.9 cm cystic lesion. 
 A 3.3 cm cystic lesion is also seen within the inferior pole of the left kidney. 
 No calcifications are noted. The kidneys are small bilaterally. 
-",ABDOMEN,,,
-CT,Imaging_Test,ABDOMEN,,unremarkable,unremarkable liver spleen adrenal glands (pancreas),[],[],146,506,CT ABDOMEN:,"CT ABDOMEN:  There is no evidence for a retroperitoneal hematoma. 
+",ABDOMEN,present,,,,
+CT,"present,present",Imaging_Test,ABDOMEN,present,,,unremarkable,present,unremarkable liver spleen adrenal glands (pancreas),[],[],146,506,CT ABDOMEN:,"CT ABDOMEN:  There is no evidence for a retroperitoneal hematoma. 
 The liver, spleen, adrenal glands, and pancreas are unremarkable. 
 Within the superior pole of the left kidney, there is a 3.9 cm cystic lesion. 
 A 3.3 cm cystic lesion is also seen within the inferior pole of the left kidney. 
 No calcifications are noted. The kidneys are small bilaterally. 
-",liver,,,
-CT,Imaging_Test,ABDOMEN,,unremarkable,unremarkable liver spleen adrenal glands (pancreas),[],[],146,506,CT ABDOMEN:,"CT ABDOMEN:  There is no evidence for a retroperitoneal hematoma. 
+",liver,present,,,,
+CT,"present,present",Imaging_Test,ABDOMEN,present,,,unremarkable,present,unremarkable liver spleen adrenal glands (pancreas),[],[],146,506,CT ABDOMEN:,"CT ABDOMEN:  There is no evidence for a retroperitoneal hematoma. 
 The liver, spleen, adrenal glands, and pancreas are unremarkable. 
 Within the superior pole of the left kidney, there is a 3.9 cm cystic lesion. 
 A 3.3 cm cystic lesion is also seen within the inferior pole of the left kidney. 
 No calcifications are noted. The kidneys are small bilaterally. 
-",spleen,,,
-CT,Imaging_Test,ABDOMEN,,unremarkable,unremarkable liver spleen adrenal glands (pancreas),[],[],146,506,CT ABDOMEN:,"CT ABDOMEN:  There is no evidence for a retroperitoneal hematoma. 
+",spleen,present,,,,
+CT,"present,present",Imaging_Test,ABDOMEN,present,,,unremarkable,present,unremarkable liver spleen adrenal glands (pancreas),[],[],146,506,CT ABDOMEN:,"CT ABDOMEN:  There is no evidence for a retroperitoneal hematoma. 
 The liver, spleen, adrenal glands, and pancreas are unremarkable. 
 Within the superior pole of the left kidney, there is a 3.9 cm cystic lesion. 
 A 3.3 cm cystic lesion is also seen within the inferior pole of the left kidney. 
 No calcifications are noted. The kidneys are small bilaterally. 
-",adrenal glands (pancreas),,,
-CT,Imaging_Test,ABDOMEN,,unremarkable,unremarkable liver spleen adrenal glands (pancreas),[],[],146,506,CT ABDOMEN:,"CT ABDOMEN:  There is no evidence for a retroperitoneal hematoma. 
+",adrenal glands (pancreas),present,,,,
+CT,"present,present",Imaging_Test,ABDOMEN,present,,,unremarkable,present,unremarkable liver spleen adrenal glands (pancreas),[],[],146,506,CT ABDOMEN:,"CT ABDOMEN:  There is no evidence for a retroperitoneal hematoma. 
 The liver, spleen, adrenal glands, and pancreas are unremarkable. 
 Within the superior pole of the left kidney, there is a 3.9 cm cystic lesion. 
 A 3.3 cm cystic lesion is also seen within the inferior pole of the left kidney. 
 No calcifications are noted. The kidneys are small bilaterally. 
-",pancreas,,,
-CT,Imaging_Test,PELVIS,,nondistended,nondistended PELVIS bladder,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
+",pancreas,present,,,,
+CT,"present,present",Imaging_Test,PELVIS,present,,,nondistended,present,nondistended PELVIS bladder,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
 The large and small bowels are normal in course and caliber. There is no obstruction.
-",PELVIS,,,
-CT,Imaging_Test,PELVIS,,nondistended,nondistended PELVIS bladder,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
+",PELVIS,present,,,,
+CT,"present,present",Imaging_Test,PELVIS,present,,,nondistended,present,nondistended PELVIS bladder,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
 The large and small bowels are normal in course and caliber. There is no obstruction.
-",bladder,,,
-CT,Imaging_Test,PELVIS,,nondistended,nondistended PELVIS bladder,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
+",bladder,present,,,,
+CT,"present,present",Imaging_Test,PELVIS,present,,,nondistended,present,nondistended PELVIS bladder,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
 The large and small bowels are normal in course and caliber. There is no obstruction.
-",bladder,,,
-CT,Imaging_Test,PELVIS,,normal in course and caliber,normal in course and caliber small bowels,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
+",bladder,present,,,,
+CT,"present,present",Imaging_Test,PELVIS,present,,,normal in course and caliber,present,normal in course and caliber small bowels,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
 The large and small bowels are normal in course and caliber. There is no obstruction.
-",small bowels,,,
-CT,Imaging_Test,bladder,,nondistended,nondistended PELVIS bladder,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
+",small bowels,present,,,,
+CT,"present,present",Imaging_Test,bladder,present,,,nondistended,present,nondistended PELVIS bladder,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
 The large and small bowels are normal in course and caliber. There is no obstruction.
-",PELVIS,,,
-CT,Imaging_Test,bladder,,nondistended,nondistended PELVIS bladder,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
+",PELVIS,present,,,,
+CT,"present,present",Imaging_Test,bladder,present,,,nondistended,present,nondistended PELVIS bladder,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
 The large and small bowels are normal in course and caliber. There is no obstruction.
-",bladder,,,
-CT,Imaging_Test,bladder,,nondistended,nondistended PELVIS bladder,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
+",bladder,present,,,,
+CT,"present,present",Imaging_Test,bladder,present,,,nondistended,present,nondistended PELVIS bladder,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
 The large and small bowels are normal in course and caliber. There is no obstruction.
-",bladder,,,
-CT,Imaging_Test,bladder,,normal in course and caliber,normal in course and caliber small bowels,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
+",bladder,present,,,,
+CT,"present,present",Imaging_Test,bladder,present,,,normal in course and caliber,present,normal in course and caliber small bowels,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
 The large and small bowels are normal in course and caliber. There is no obstruction.
-",small bowels,,,
-CT,Imaging_Test,bladder,,nondistended,nondistended PELVIS bladder,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
+",small bowels,present,,,,
+CT,"present,present",Imaging_Test,bladder,present,,,nondistended,present,nondistended PELVIS bladder,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
 The large and small bowels are normal in course and caliber. There is no obstruction.
-",PELVIS,,,
-CT,Imaging_Test,bladder,,nondistended,nondistended PELVIS bladder,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
+",PELVIS,present,,,,
+CT,"present,present",Imaging_Test,bladder,present,,,nondistended,present,nondistended PELVIS bladder,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
 The large and small bowels are normal in course and caliber. There is no obstruction.
-",bladder,,,
-CT,Imaging_Test,bladder,,nondistended,nondistended PELVIS bladder,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
+",bladder,present,,,,
+CT,"present,present",Imaging_Test,bladder,present,,,nondistended,present,nondistended PELVIS bladder,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
 The large and small bowels are normal in course and caliber. There is no obstruction.
-",bladder,,,
-CT,Imaging_Test,bladder,,normal in course and caliber,normal in course and caliber small bowels,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
+",bladder,present,,,,
+CT,"present,present",Imaging_Test,bladder,present,,,normal in course and caliber,present,normal in course and caliber small bowels,[],[],506,713,CT PELVIS:,"CT PELVIS:  Evaluation of the bladder is limited due to the presence of a Foley catheter, the bladder is nondistended. 
 The large and small bowels are normal in course and caliber. There is no obstruction.
-",small bowels,,,
+",small bowels,present,,,,
